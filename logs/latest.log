@@ -1,0 +1,70 @@
+[22:11:01] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.7
+[22:11:01] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.16.7
+	   \-- mixinextras 0.4.1
+	- java 21
+	- minecraft 1.21.1
+[22:11:01] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/home/user/Minecraft/libraries/net/fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/sponge-mixin-0.15.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[22:11:13] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:11:14] [main/INFO]: No existing world data, creating new world
+[22:11:16] [main/INFO]: Loaded 1290 recipes
+[22:11:16] [main/INFO]: Loaded 1399 advancements
+[22:11:17] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[22:11:17] [Server thread/INFO]: Loading properties
+[22:11:17] [Server thread/INFO]: Default game type: SURVIVAL
+[22:11:17] [Server thread/INFO]: Generating keypair
+[22:11:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:11:18] [Server thread/INFO]: Using epoll channel type
+[22:11:18] [Server thread/INFO]: Preparing level "world"
+[22:11:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:11:26] [Worker-Main-4/INFO]: Preparing spawn area: 2%
+[22:11:26] [Worker-Main-5/INFO]: Preparing spawn area: 2%
+[22:11:27] [Worker-Main-4/INFO]: Preparing spawn area: 2%
+[22:11:27] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[22:11:28] [Worker-Main-6/INFO]: Preparing spawn area: 2%
+[22:11:28] [Worker-Main-7/INFO]: Preparing spawn area: 18%
+[22:11:29] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[22:11:29] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[22:11:30] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[22:11:30] [Worker-Main-4/INFO]: Preparing spawn area: 18%
+[22:11:31] [Worker-Main-6/INFO]: Preparing spawn area: 51%
+[22:11:31] [Worker-Main-6/INFO]: Preparing spawn area: 51%
+[22:11:32] [Worker-Main-6/INFO]: Preparing spawn area: 51%
+[22:11:32] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[22:11:33] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[22:11:33] [Server thread/INFO]: Time elapsed: 7321 ms
+[22:11:33] [Server thread/INFO]: Done (15.317s)! For help, type "help"
+[22:14:38] [User Authenticator #1/INFO]: UUID of player nicolekitys is 068b1c54-e254-45fd-9312-eb93dd480f01
+[22:14:43] [Server thread/INFO]: nicolekitys[/127.238.162.245:49411] logged in with entity id 28 at (4.5, 75.0, 6.5)
+[22:14:43] [Server thread/INFO]: nicolekitys joined the game
+[22:14:45] [Server thread/INFO]: nicolekitys lost connection: Disconnected
+[22:14:45] [Server thread/INFO]: nicolekitys left the game
+[22:15:32] [User Authenticator #2/INFO]: UUID of player nicolekitys is 068b1c54-e254-45fd-9312-eb93dd480f01
+[22:15:38] [Server thread/INFO]: nicolekitys[/127.238.162.245:47571] logged in with entity id 31 at (4.5, 75.0, 6.5)
+[22:15:38] [Server thread/INFO]: nicolekitys joined the game
+[22:15:40] [Server thread/INFO]: nicolekitys lost connection: Disconnected
+[22:15:40] [Server thread/INFO]: nicolekitys left the game
+[22:18:23] [User Authenticator #3/INFO]: UUID of player nicolekitys is 068b1c54-e254-45fd-9312-eb93dd480f01
+[22:18:25] [Server thread/INFO]: nicolekitys[/127.238.162.245:54683] logged in with entity id 73 at (4.5, 75.0, 6.5)
+[22:18:25] [Server thread/INFO]: nicolekitys joined the game
+[22:20:31] [User Authenticator #4/INFO]: UUID of player aeonicspirit is b2f3514a-9e5b-4753-ba78-a65db2800349
+[22:20:33] [Server thread/INFO]: aeonicspirit[/127.247.121.201:46101] logged in with entity id 1546 at (-3.5, 75.0, -3.5)
+[22:20:33] [Server thread/INFO]: aeonicspirit joined the game
+[22:20:48] [Server thread/INFO]: <aeonicspirit> hi you know
+[22:20:55] [Server thread/INFO]: <nicolekitys> hi they say
+[22:21:49] [Server thread/INFO]: nicolekitys fell from a high place
+[22:21:53] [Server thread/INFO]: aeonicspirit lost connection: Disconnected
+[22:21:53] [Server thread/INFO]: aeonicspirit left the game
+[22:21:55] [Server thread/INFO]: nicolekitys lost connection: Disconnected
+[22:21:55] [Server thread/INFO]: nicolekitys left the game
+[22:22:05] [Server thread/INFO]: Stopping the server
+[22:22:05] [Server thread/INFO]: Stopping server
+[22:22:05] [Server thread/INFO]: Saving players
+[22:22:05] [Server thread/INFO]: Saving worlds
+[22:22:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:22:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:22:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:22:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:22:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:22:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:22:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
