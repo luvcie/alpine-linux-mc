@@ -93,4 +93,8 @@ https://cdn.modrinth.com/data/Z9DM0LJ4/versions/3lodDajk/cyclopscore-1.21.1-fabr
 https://cdn.modrinth.com/data/8DfbfASn/versions/4eH50FuY/DungeonsArise-1.21.x-2.1.60-fabric-release.jar
 https://cdn.modrinth.com/data/MFpvbNGE/versions/v0qI49QE/RoguelikeDungeons-2.0.8-1.21-fabric.jar
 https://cdn.modrinth.com/data/iAwGa4r9/versions/ghl1nlMB/Epic%20Dungeons-0.1.04-Fabric-1.21.jar
+https://cdn.modrinth.com/data/7vxePowz/versions/Dnpn5CSl/FarmersDelight-1.21-2.1.10%2Brefabricated.jar
+https://cdn.modrinth.com/data/LTTvOp5L/versions/AjIsYHqC/storagedelight-24.09.11-1.21-fabric.jar
+https://cdn.modrinth.com/data/znHQQtuU/versions/Pc1Zc3Db/moredelight-24.09.27-1.21-fabric.jar
+https://cdn.modrinth.com/data/FWOWH92B/versions/NskpYp33/food-plus-2.31%2B1.21.jar
 ```

@@ -1,0 +1,63 @@
+{
+  "rpg_series:root": {
+    "criteria": {
+      "always": "2024-11-03 22:20:49 +0000"
+    },
+    "done": true
+  },
+  "timo:tab_timo/root": {
+    "criteria": {
+      "tick": "2024-11-03 22:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-11-03 22:20:49 +0000"
+    },
+    "done": true
+  },
+  "timo:tab_timo/legacy": {
+    "criteria": {
+      "requirement": "2024-11-03 22:20:49 +0000"
+    },
+    "done": true
+  },
+  "betternether:root": {
+    "criteria": {
+      "welcome": "2024-11-03 22:20:50 +0000"
+    },
+    "done": true
+  },
+  "betterend:root": {
+    "criteria": {
+      "welcome": "2024-11-03 22:20:50 +0000"
+    },
+    "done": true
+  },
+  "ketket_furnitures:adv_main": {
+    "criteria": {
+      "requirement": "2024-11-03 22:20:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-11-03 22:23:19 +0000"
+    },
+    "done": true
+  },
+  "ketkets:main": {
+    "criteria": {
+      "requirement": "2024-11-03 22:20:50 +0000"
+    },
+    "done": true
+  },
+  "moredelight:main/root": {
+    "criteria": {
+      "seeds": "2024-11-03 22:23:19 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}
