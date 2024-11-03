@@ -1,6 +1,4 @@
-# alpine-linux-mc
 fabric 0.16.7 - 1.21.1
-
 
 ```sh
 https://cdn.modrinth.com/data/NcUtCpym/versions/373K4YJh/XaerosWorldMap_1.39.0_Fabric_1.21.jar
