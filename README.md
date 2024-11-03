@@ -1,6 +1,5 @@
 fabric 0.16.7 - 1.21.1
 
-## Recommended Launcher
 [Prism Launcher](https://prismlauncher.org/) is recommended for the best experience.
 
 ## Installing Mods
