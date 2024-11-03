@@ -99,4 +99,6 @@ https://cdn.modrinth.com/data/znHQQtuU/versions/Pc1Zc3Db/moredelight-24.09.27-1.
 https://cdn.modrinth.com/data/FWOWH92B/versions/NskpYp33/food-plus-2.31%2B1.21.jar
 https://cdn.modrinth.com/data/cfQx2fbQ/versions/ta4gQZJ7/itemalchemy-1.0.5.jar
 https://cdn.modrinth.com/data/uNRoUnGT/versions/nFOuE7Q0/mcpitanlib-2.5.2-1.21-fabric.jar
+https://cdn.modrinth.com/data/rH20L2Lp/versions/VycPNGaJ/mcw-holidays-1.1.0-mc1.21.1fabric.jar
+https://cdn.modrinth.com/data/dtWC90iB/versions/9l6iYqCb/mcw-furniture-3.3.0-mc1.21.1fabric.jar
 ```

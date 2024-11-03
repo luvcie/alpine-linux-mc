@@ -1,0 +1,2 @@
+https://cdn.modrinth.com/data/rH20L2Lp/versions/VycPNGaJ/mcw-holidays-1.1.0-mc1.21.1fabric.jar
+https://cdn.modrinth.com/data/dtWC90iB/versions/9l6iYqCb/mcw-furniture-3.3.0-mc1.21.1fabric.jar

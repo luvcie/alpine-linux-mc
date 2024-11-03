@@ -1,7 +1,7 @@
-[22:27:04] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.7
-[22:27:04] [ForkJoinPool-1-worker-5/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
+[22:34:03] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.7
+[22:34:03] [ForkJoinPool-1-worker-1/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
 - Unsupported root entry "credits" at line 12 column 11
-[22:27:04] [main/INFO]: Loading 190 mods:
+[22:34:04] [main/INFO]: Loading 192 mods:
 	- additionalstructures 5.0.1-fabric
 	- appleskin 3.0.6+mc1.21
 	- archers 2.1.1+1.21.1
@@ -157,6 +157,8 @@
 	- mcpitanlib 2.5.2-1.21-fabric
 	   |-- compatdatapacks76 1.0.10.210-fabric
 	   \-- org_yaml_snakeyaml 2.0
+	- mcwfurnitures 3.3.0
+	- mcwholidays 1.1.0
 	- minecraft 1.21.1
 	- monolib 1.4.1
 	- more_jewels 0.0.2-1.21.1
@@ -238,176 +240,176 @@
 	   |-- com_twelvemonkeys_imageio_imageio-webp 3.10.0
 	   |-- org_quiltmc_parsers_gson 0.2.1
 	   \-- org_quiltmc_parsers_json 0.2.1
-[22:27:05] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/home/user/Minecraft/libraries/net/fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/sponge-mixin-0.15.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[22:27:05] [main/INFO]: Compatibility level set to JAVA_21
-[22:27:05] [main/WARN]: Reference map 'craftingtweaks.refmap.json' for craftingtweaks.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:27:05] [main/WARN]: Reference map 'craftingtweaks.refmap.json' for craftingtweaks.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:27:05] [main/INFO]: Loaded configuration file for Lithium: 144 options available, 0 override(s) found
-[22:27:06] [main/WARN]: Error loading class: net/minecraft/class_881 (java.lang.ClassNotFoundException: net/minecraft/class_881)
-[22:27:06] [main/WARN]: @Mixin target net.minecraft.class_881 was not found porting_lib_base.mixins.json:client.BoatRendererMixin from mod porting_lib_base
-[22:27:06] [main/WARN]: Error loading class: net/minecraft/class_525 (java.lang.ClassNotFoundException: net/minecraft/class_525)
-[22:27:06] [main/WARN]: @Mixin target net.minecraft.class_525 was not found porting_lib_base.mixins.json:client.CreateWorldScreenMixin from mod porting_lib_base
-[22:27:06] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
-[22:27:06] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_item_abilities.mixins.json:FishingHookRendererMixin from mod porting_lib_item_abilities
-[22:27:07] [main/WARN]: Error loading class: net/coderbot/iris/Iris (java.lang.ClassNotFoundException: net/coderbot/iris/Iris)
-[22:27:07] [main/WARN]: @Mixin target net.coderbot.iris.Iris was not found notenoughcrashes.fabric.mixins.json:iris.SilentNEC from mod notenoughcrashes
-[22:27:07] [main/WARN]: Error loading class: net/minecraft/class_638 (java.lang.ClassNotFoundException: net/minecraft/class_638)
-[22:27:07] [main/WARN]: @Mixin target net.minecraft.class_638 was not found porting_lib_level_events.mixins.json:client.ClientLevelMixin from mod porting_lib_level_events
-[22:27:07] [main/WARN]: Error loading class: net/minecraft/class_442 (java.lang.ClassNotFoundException: net/minecraft/class_442)
-[22:27:07] [main/WARN]: @Mixin target net.minecraft.class_442 was not found taacmod.mixins.json:ExampleMixin from mod taacmod
-[22:27:07] [main/WARN]: Error loading class: net/minecraft/class_442 (java.lang.ClassNotFoundException: net/minecraft/class_442)
-[22:27:07] [main/WARN]: @Mixin target net.minecraft.class_442 was not found tatimod.mixins.json:ExampleMixin from mod tatimod
-[22:27:07] [main/WARN]: Error loading class: net/minecraft/class_442 (java.lang.ClassNotFoundException: net/minecraft/class_442)
-[22:27:07] [main/WARN]: @Mixin target net.minecraft.class_442 was not found tctimod.mixins.json:ExampleMixin from mod tctimod
-[22:27:07] [main/WARN]: Error loading class: net/minecraft/class_442 (java.lang.ClassNotFoundException: net/minecraft/class_442)
-[22:27:07] [main/WARN]: @Mixin target net.minecraft.class_442 was not found tdacmod.mixins.json:ExampleMixin from mod tdacmod
-[22:27:07] [main/WARN]: Error loading class: net/minecraft/class_442 (java.lang.ClassNotFoundException: net/minecraft/class_442)
-[22:27:07] [main/WARN]: @Mixin target net.minecraft.class_442 was not found tsapmod.mixins.json:ExampleMixin from mod tsapmod
-[22:27:08] [main/WARN]: Error loading class: net/minecraft/class_314 (java.lang.ClassNotFoundException: net/minecraft/class_314)
-[22:27:08] [main/WARN]: @Mixin target net.minecraft.class_314 was not found mixins.mm.json:net.minecraft.class_314 from mod mm
-[22:27:08] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[22:27:44] [main/INFO]: =^..^=    BetterNether for 1.21    =^..^=
-[22:27:44] [main/INFO]: Loading Collective version 7.87.
-[22:27:45] [main/ERROR]: No data fixer registered for rotten_tomato
-[22:27:45] [main/INFO]: Registering Item Groups for fpapmod
-[22:27:45] [main/INFO]: [itemalchemy] Initializing...
-[22:27:46] [main/INFO]: Registering C2S receiver with id itemalchemy:network
-[22:27:46] [main/INFO]: Registering C2S receiver with id itemalchemy:search
-[22:27:46] [main/INFO]: Registering C2S receiver with id itemalchemy:tool_charge
-[22:27:46] [main/INFO]: [STDERR]: Failed to resolve EntityAttribute with id: combat_roll:recharge
-[22:27:46] [main/INFO]: [STDERR]: Failed to resolve EntityAttribute with id: combat_roll:count
-[22:27:46] [main/INFO]: [STDERR]: Failed to resolve EntityAttribute with id: combat_roll:recharge
-[22:27:46] [main/INFO]: [STDERR]: Failed to resolve EntityAttribute with id: combat_roll:count
-[22:27:46] [main/INFO]: Compression will use libdeflate (Linux aarch64), encryption will use OpenSSL (Linux aarch64)
-[22:27:46] [main/INFO]: [mplguilib] Initializing...
-[22:27:46] [main/INFO]: Definitely not up to no good
-[22:27:46] [main/INFO]: Hey! Overhauled Structures is currently active. Thanks for using it. :)
-[22:27:46] [main/INFO]: Shield API initialized!
-[22:27:47] [main/INFO]: Registered action: Actions$$Lambda/0x000000c0020c95d8
-[22:27:47] [main/INFO]: Registered action: Actions$$Lambda/0x000000c0020c9a20
-[22:27:47] [main/INFO]: Registered action: Actions$$Lambda/0x000000c0020c9e68
-[22:27:47] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
-[22:27:47] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[22:27:47] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
-[22:27:48] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:27:48] [main/INFO]: Ignoring Patch{ModCore: bclib (bclib):3.0.11:196619}
-[22:27:48] [main/INFO]: Ignoring Patch{ModCore: betternether (betternether):5.3.5:328453}
-[22:27:48] [main/INFO]: Ignoring Patch{ModCore: betternether (betternether):8.2.2:524802}
-[22:27:48] [main/INFO]: Ignoring Patch{ModCore: betternether (betternether):9.0.1:589825}
-[22:27:48] [main/INFO]: Running Pre Patchers on ./world/.
-[22:27:48] [main/INFO]: Everything up to date
-[22:27:48] [main/INFO]: Found new data pack itemalchemy, loading it automatically
-[22:27:48] [main/INFO]: Processing wover.datapack.registry Entrypoints
-[22:27:48] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.BiomeDatapackRegistryEntrypoint
-[22:27:48] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.FeatureDatapackRegistryEntrypoint
-[22:27:48] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.ItemDatapackRegistryEntrypoint
-[22:27:48] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.StructureDatapackRegistryEntrypoint
-[22:27:48] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.SurfaceDatapackRegistryEntrypoint
-[22:27:50] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (7f424663)
-[22:27:50] [main/INFO]: Unable to build Biome List yet
-[22:27:50] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
-[22:27:50] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (59d1889c)
-[22:27:50] [main/INFO]: Unable to build Biome List yet
-[22:27:50] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[22:27:50] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (18f71c73)
-[22:27:50] [main/INFO]: Unable to build Biome List yet
-[22:27:50] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
-[22:27:50] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (23d597c3)
-[22:27:50] [main/INFO]: Unable to build Biome List yet
-[22:27:50] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[22:27:50] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (3ee47144)
-[22:27:50] [main/INFO]: Unable to build Biome List yet
-[22:27:50] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
-[22:27:50] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (204b45d3)
-[22:27:50] [main/INFO]: Unable to build Biome List yet
-[22:27:50] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[22:27:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:amber_land
-[22:27:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:amber_land
-[22:27:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:blossoming_spires
-[22:27:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:blossoming_spires
-[22:27:50] [main/INFO]: Adding Nether Biome to Fabric: betternether:bone_reef (class_4762[temperature=-100, humidity=-500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[22:27:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:chorus_forest
-[22:27:50] [main/INFO]: Adding Nether Biome to Fabric: betternether:crimson_glowing_woods (class_4762[temperature=4000, humidity=-500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[22:27:50] [main/INFO]: Adding Nether Biome to Fabric: betternether:crimson_pinewood (class_4762[temperature=3500, humidity=1000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[22:27:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:crystal_mountains
-[22:27:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:crystal_mountains
-[22:27:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:dragon_graveyards
-[22:27:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:dragon_graveyards
-[22:27:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:dry_shrubland
-[22:27:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:dry_shrubland
-[22:27:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:dust_wastelands
-[22:27:50] [main/INFO]: Adding Nether Biome to Fabric: betternether:flooded_deltas (class_4762[temperature=-3000, humidity=-100, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1750])
-[22:27:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:foggy_mushroomland
-[22:27:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:foggy_mushroomland
-[22:27:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:glowing_grasslands
-[22:27:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:glowing_grasslands
-[22:27:50] [main/INFO]: Adding Nether Biome to Fabric: betternether:gravel_desert (class_4762[temperature=-1000, humidity=1000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=2000])
-[22:27:50] [main/INFO]: Adding Small End Island Biome to Fabric: betterend:ice_starfield
-[22:27:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:lantern_woods
-[22:27:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:lantern_woods
-[22:27:50] [main/INFO]: Adding Nether Biome to Fabric: betternether:magma_land (class_4762[temperature=8000, humidity=-7000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[22:27:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:megalake
-[22:27:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:megalake
-[22:27:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:megalake_grove
-[22:27:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:megalake_grove
-[22:27:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:neon_oasis
-[22:27:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:neon_oasis
-[22:27:50] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_grasslands (class_4762[temperature=0, humidity=7000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[22:27:50] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_jungle (class_4762[temperature=5000, humidity=8000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[22:27:50] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_mushroom_forest (class_4762[temperature=0, humidity=7000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[22:27:50] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_mushroom_forest_edge (class_4762[temperature=0, humidity=7000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1000])
-[22:27:50] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_swampland (class_4762[temperature=1000, humidity=8000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1000])
-[22:27:50] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_swampland_terraces (class_4762[temperature=800, humidity=8500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1000])
-[22:27:50] [main/INFO]: Adding Nether Biome to Fabric: betternether:old_fungiwoods (class_4762[temperature=0, humidity=6500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[22:27:50] [main/INFO]: Adding Nether Biome to Fabric: betternether:old_swampland (class_4762[temperature=1000, humidity=7500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1000])
-[22:27:50] [main/INFO]: Adding Nether Biome to Fabric: betternether:old_warped_woods (class_4762[temperature=0, humidity=5500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=3750])
-[22:27:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:painted_mountains
-[22:27:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:painted_mountains
-[22:27:50] [main/INFO]: Adding Nether Biome to Fabric: betternether:poor_nether_grasslands (class_4762[temperature=0, humidity=3000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[22:27:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:shadow_forest
-[22:27:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:shadow_forest
-[22:27:50] [main/INFO]: Adding Nether Biome to Fabric: betternether:soul_plain (class_4762[temperature=100, humidity=-5000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[22:27:50] [main/INFO]: Adding Nether Biome to Fabric: betternether:sulfuric_bone_reef (class_4762[temperature=0, humidity=6000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=3700])
-[22:27:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:sulphur_springs
-[22:27:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:sulphur_springs
-[22:27:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:umbra_valley
-[22:27:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:umbra_valley
-[22:27:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:umbrella_jungle
-[22:27:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:umbrella_jungle
-[22:27:50] [main/INFO]: Adding Nether Biome to Fabric: betternether:upside_down_forest (class_4762[temperature=4500, humidity=8000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1250])
-[22:27:50] [main/INFO]: Adding Nether Biome to Fabric: betternether:upside_down_forest_cleared (class_4762[temperature=4500, humidity=3000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1250])
-[22:27:50] [main/INFO]: Adding Nether Biome to Fabric: betternether:wart_forest (class_4762[temperature=-5000, humidity=5000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[22:27:50] [main/INFO]: Adding Nether Biome to Fabric: betternether:wart_forest_edge (class_4762[temperature=-5000, humidity=4500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[22:27:51] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (53758f9f)
-[22:27:51] [main/INFO]: Unable to build Biome List yet
-[22:27:51] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
-[22:27:51] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (769cd292)
-[22:27:51] [main/INFO]: Unable to build Biome List yet
-[22:27:51] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[22:27:51] [Worker-Main-1/INFO]: [Compat Datapacks] Loaded old registry keys predicates for predicate
-[22:27:51] [Worker-Main-2/INFO]: [Compat Datapacks] Loaded old registry keys item_modifiers for item_modifier
-[22:27:51] [Worker-Main-3/INFO]: [Compat Datapacks] Loaded old registry keys loot_tables for loot_table
-[22:27:51] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/heavenly_challenger/heavenly_challenger_supply - com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12 path $ missed input: {"minecraft:item_name":"Ascension Tonic"}
-[22:27:51] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/mines_treasure_big - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:6s},{id:\"minecraft:looting\",lvl:3s}]}"}
-[22:27:52] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/mines_treasure_medium - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:6s},{id:\"minecraft:looting\",lvl:3s}]}"}
-[22:27:52] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/illager_windmill/illager_windmill_barrels - com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 10 path $ missed input: {"minecraft:item_name":"Illager Beer"}
-[22:27:52] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/shiraz_palace/shiraz_palace_supply - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Potion:\"minecraft:strong_healing\"}"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Potion:\"minecraft:regeneration\"}"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{CustomPotionEffects:[{Id:2b,Amplifier:5b,Duration:1200}],CustomPotionColor:16770928}"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{CustomPotionEffects:[{Id:20b,Amplifier:5b,Duration:400}],CustomPotionColor:16770928}"}
-[22:27:52] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/minecraft:entities/ender_dragon - Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: minecraft:elyta
-[22:27:52] [Worker-Main-3/ERROR]: Unable to building bartering table
-[22:27:53] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:entities/husk}.pools[2].entries[0]: Unknown loot table called husks_drop_sand:entities/husk
-[22:27:53] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:entities/villager}.pools[2].entries[0]: Unknown loot table called villager_death:entities/villager
-[22:27:53] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:entities/bat}.pools[2].entries[0]: Unknown loot table called bat_membranes:entities/bat
-[22:27:53] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:entities/player}.pools[1].entries[0]: Unknown loot table called graves:entities/player
-[22:27:53] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:entities/shulker}.pools[2].entries[0]: Unknown loot table called double_shulker_shells:entities/shulker
-[22:27:53] [Worker-Main-5/INFO]: [Compat Datapacks] Loaded old tags tags/entity_types for tags/entity_type
-[22:27:53] [Worker-Main-3/INFO]: [Compat Datapacks] Loaded old tags tags/items for tags/item
-[22:27:53] [Worker-Main-1/INFO]: [Compat Datapacks] Loaded old tags tags/blocks for tags/block
-[22:27:53] [Worker-Main-4/INFO]: [Compat Datapacks] Loaded old tags tags/fluids for tags/fluid
-[22:27:53] [Worker-Main-5/INFO]: [Compat Datapacks] Loaded old tags tags/game_events for tags/game_event
-[22:27:53] [Worker-Main-1/ERROR]: Couldn't load tag farmersdelight:survives/rich_soil_farmland as it is missing following references: minecraft:grass (from farmersdelight)
-[22:27:54] [Worker-Main-7/INFO]: [Compat Datapacks] Loaded old registry keys recipes for recipe
-[22:27:54] [main/INFO]: Disabling Recipe: bclib:test_star
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:thallasium_shovel_head
+[22:34:04] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/home/user/Minecraft/libraries/net/fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/sponge-mixin-0.15.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[22:34:04] [main/INFO]: Compatibility level set to JAVA_21
+[22:34:05] [main/WARN]: Reference map 'craftingtweaks.refmap.json' for craftingtweaks.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:34:05] [main/WARN]: Reference map 'craftingtweaks.refmap.json' for craftingtweaks.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:34:05] [main/INFO]: Loaded configuration file for Lithium: 144 options available, 0 override(s) found
+[22:34:06] [main/WARN]: Error loading class: net/minecraft/class_881 (java.lang.ClassNotFoundException: net/minecraft/class_881)
+[22:34:06] [main/WARN]: @Mixin target net.minecraft.class_881 was not found porting_lib_base.mixins.json:client.BoatRendererMixin from mod porting_lib_base
+[22:34:06] [main/WARN]: Error loading class: net/minecraft/class_525 (java.lang.ClassNotFoundException: net/minecraft/class_525)
+[22:34:06] [main/WARN]: @Mixin target net.minecraft.class_525 was not found porting_lib_base.mixins.json:client.CreateWorldScreenMixin from mod porting_lib_base
+[22:34:06] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
+[22:34:06] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_item_abilities.mixins.json:FishingHookRendererMixin from mod porting_lib_item_abilities
+[22:34:07] [main/WARN]: Error loading class: net/coderbot/iris/Iris (java.lang.ClassNotFoundException: net/coderbot/iris/Iris)
+[22:34:07] [main/WARN]: @Mixin target net.coderbot.iris.Iris was not found notenoughcrashes.fabric.mixins.json:iris.SilentNEC from mod notenoughcrashes
+[22:34:07] [main/WARN]: Error loading class: net/minecraft/class_638 (java.lang.ClassNotFoundException: net/minecraft/class_638)
+[22:34:07] [main/WARN]: @Mixin target net.minecraft.class_638 was not found porting_lib_level_events.mixins.json:client.ClientLevelMixin from mod porting_lib_level_events
+[22:34:07] [main/WARN]: Error loading class: net/minecraft/class_442 (java.lang.ClassNotFoundException: net/minecraft/class_442)
+[22:34:07] [main/WARN]: @Mixin target net.minecraft.class_442 was not found taacmod.mixins.json:ExampleMixin from mod taacmod
+[22:34:07] [main/WARN]: Error loading class: net/minecraft/class_442 (java.lang.ClassNotFoundException: net/minecraft/class_442)
+[22:34:07] [main/WARN]: @Mixin target net.minecraft.class_442 was not found tatimod.mixins.json:ExampleMixin from mod tatimod
+[22:34:07] [main/WARN]: Error loading class: net/minecraft/class_442 (java.lang.ClassNotFoundException: net/minecraft/class_442)
+[22:34:07] [main/WARN]: @Mixin target net.minecraft.class_442 was not found tctimod.mixins.json:ExampleMixin from mod tctimod
+[22:34:07] [main/WARN]: Error loading class: net/minecraft/class_442 (java.lang.ClassNotFoundException: net/minecraft/class_442)
+[22:34:07] [main/WARN]: @Mixin target net.minecraft.class_442 was not found tdacmod.mixins.json:ExampleMixin from mod tdacmod
+[22:34:07] [main/WARN]: Error loading class: net/minecraft/class_442 (java.lang.ClassNotFoundException: net/minecraft/class_442)
+[22:34:07] [main/WARN]: @Mixin target net.minecraft.class_442 was not found tsapmod.mixins.json:ExampleMixin from mod tsapmod
+[22:34:07] [main/WARN]: Error loading class: net/minecraft/class_314 (java.lang.ClassNotFoundException: net/minecraft/class_314)
+[22:34:07] [main/WARN]: @Mixin target net.minecraft.class_314 was not found mixins.mm.json:net.minecraft.class_314 from mod mm
+[22:34:07] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[22:34:43] [main/INFO]: =^..^=    BetterNether for 1.21    =^..^=
+[22:34:43] [main/INFO]: Loading Collective version 7.87.
+[22:34:44] [main/ERROR]: No data fixer registered for rotten_tomato
+[22:34:44] [main/INFO]: Registering Item Groups for fpapmod
+[22:34:44] [main/INFO]: [itemalchemy] Initializing...
+[22:34:44] [main/INFO]: Registering C2S receiver with id itemalchemy:network
+[22:34:44] [main/INFO]: Registering C2S receiver with id itemalchemy:search
+[22:34:44] [main/INFO]: Registering C2S receiver with id itemalchemy:tool_charge
+[22:34:44] [main/INFO]: [STDERR]: Failed to resolve EntityAttribute with id: combat_roll:recharge
+[22:34:44] [main/INFO]: [STDERR]: Failed to resolve EntityAttribute with id: combat_roll:count
+[22:34:44] [main/INFO]: [STDERR]: Failed to resolve EntityAttribute with id: combat_roll:recharge
+[22:34:44] [main/INFO]: [STDERR]: Failed to resolve EntityAttribute with id: combat_roll:count
+[22:34:44] [main/INFO]: Compression will use libdeflate (Linux aarch64), encryption will use OpenSSL (Linux aarch64)
+[22:34:44] [main/INFO]: [mplguilib] Initializing...
+[22:34:45] [main/INFO]: Definitely not up to no good
+[22:34:45] [main/INFO]: Hey! Overhauled Structures is currently active. Thanks for using it. :)
+[22:34:45] [main/INFO]: Shield API initialized!
+[22:34:46] [main/INFO]: Registered action: Actions$$Lambda/0x00000003020f4588
+[22:34:46] [main/INFO]: Registered action: Actions$$Lambda/0x00000003020f49d0
+[22:34:46] [main/INFO]: Registered action: Actions$$Lambda/0x00000003020f4e18
+[22:34:46] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
+[22:34:46] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[22:34:46] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[22:34:47] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:34:47] [main/INFO]: Ignoring Patch{ModCore: bclib (bclib):3.0.11:196619}
+[22:34:47] [main/INFO]: Ignoring Patch{ModCore: betternether (betternether):5.3.5:328453}
+[22:34:47] [main/INFO]: Ignoring Patch{ModCore: betternether (betternether):8.2.2:524802}
+[22:34:47] [main/INFO]: Ignoring Patch{ModCore: betternether (betternether):9.0.1:589825}
+[22:34:47] [main/INFO]: Running Pre Patchers on ./world/.
+[22:34:47] [main/INFO]: Everything up to date
+[22:34:47] [main/INFO]: Found new data pack mcwfurnitures, loading it automatically
+[22:34:47] [main/INFO]: Found new data pack mcwholidays, loading it automatically
+[22:34:47] [main/INFO]: Processing wover.datapack.registry Entrypoints
+[22:34:47] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.BiomeDatapackRegistryEntrypoint
+[22:34:47] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.FeatureDatapackRegistryEntrypoint
+[22:34:47] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.ItemDatapackRegistryEntrypoint
+[22:34:47] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.StructureDatapackRegistryEntrypoint
+[22:34:47] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.SurfaceDatapackRegistryEntrypoint
+[22:34:49] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (63867c3e)
+[22:34:49] [main/INFO]: Unable to build Biome List yet
+[22:34:49] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[22:34:49] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (54b49372)
+[22:34:49] [main/INFO]: Unable to build Biome List yet
+[22:34:49] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[22:34:49] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (395d15bf)
+[22:34:49] [main/INFO]: Unable to build Biome List yet
+[22:34:49] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[22:34:49] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (59f4a5ec)
+[22:34:49] [main/INFO]: Unable to build Biome List yet
+[22:34:49] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[22:34:49] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (5455000c)
+[22:34:49] [main/INFO]: Unable to build Biome List yet
+[22:34:49] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[22:34:49] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (7b829bc4)
+[22:34:49] [main/INFO]: Unable to build Biome List yet
+[22:34:49] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[22:34:49] [main/INFO]: Adding End Highland Biome to Fabric: betterend:amber_land
+[22:34:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:amber_land
+[22:34:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:blossoming_spires
+[22:34:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:blossoming_spires
+[22:34:50] [main/INFO]: Adding Nether Biome to Fabric: betternether:bone_reef (class_4762[temperature=-100, humidity=-500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[22:34:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:chorus_forest
+[22:34:50] [main/INFO]: Adding Nether Biome to Fabric: betternether:crimson_glowing_woods (class_4762[temperature=4000, humidity=-500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[22:34:50] [main/INFO]: Adding Nether Biome to Fabric: betternether:crimson_pinewood (class_4762[temperature=3500, humidity=1000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[22:34:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:crystal_mountains
+[22:34:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:crystal_mountains
+[22:34:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:dragon_graveyards
+[22:34:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:dragon_graveyards
+[22:34:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:dry_shrubland
+[22:34:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:dry_shrubland
+[22:34:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:dust_wastelands
+[22:34:50] [main/INFO]: Adding Nether Biome to Fabric: betternether:flooded_deltas (class_4762[temperature=-3000, humidity=-100, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1750])
+[22:34:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:foggy_mushroomland
+[22:34:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:foggy_mushroomland
+[22:34:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:glowing_grasslands
+[22:34:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:glowing_grasslands
+[22:34:50] [main/INFO]: Adding Nether Biome to Fabric: betternether:gravel_desert (class_4762[temperature=-1000, humidity=1000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=2000])
+[22:34:50] [main/INFO]: Adding Small End Island Biome to Fabric: betterend:ice_starfield
+[22:34:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:lantern_woods
+[22:34:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:lantern_woods
+[22:34:50] [main/INFO]: Adding Nether Biome to Fabric: betternether:magma_land (class_4762[temperature=8000, humidity=-7000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[22:34:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:megalake
+[22:34:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:megalake
+[22:34:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:megalake_grove
+[22:34:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:megalake_grove
+[22:34:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:neon_oasis
+[22:34:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:neon_oasis
+[22:34:50] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_grasslands (class_4762[temperature=0, humidity=7000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[22:34:50] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_jungle (class_4762[temperature=5000, humidity=8000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[22:34:50] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_mushroom_forest (class_4762[temperature=0, humidity=7000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[22:34:50] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_mushroom_forest_edge (class_4762[temperature=0, humidity=7000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1000])
+[22:34:50] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_swampland (class_4762[temperature=1000, humidity=8000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1000])
+[22:34:50] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_swampland_terraces (class_4762[temperature=800, humidity=8500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1000])
+[22:34:50] [main/INFO]: Adding Nether Biome to Fabric: betternether:old_fungiwoods (class_4762[temperature=0, humidity=6500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[22:34:50] [main/INFO]: Adding Nether Biome to Fabric: betternether:old_swampland (class_4762[temperature=1000, humidity=7500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1000])
+[22:34:50] [main/INFO]: Adding Nether Biome to Fabric: betternether:old_warped_woods (class_4762[temperature=0, humidity=5500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=3750])
+[22:34:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:painted_mountains
+[22:34:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:painted_mountains
+[22:34:50] [main/INFO]: Adding Nether Biome to Fabric: betternether:poor_nether_grasslands (class_4762[temperature=0, humidity=3000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[22:34:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:shadow_forest
+[22:34:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:shadow_forest
+[22:34:50] [main/INFO]: Adding Nether Biome to Fabric: betternether:soul_plain (class_4762[temperature=100, humidity=-5000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[22:34:50] [main/INFO]: Adding Nether Biome to Fabric: betternether:sulfuric_bone_reef (class_4762[temperature=0, humidity=6000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=3700])
+[22:34:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:sulphur_springs
+[22:34:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:sulphur_springs
+[22:34:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:umbra_valley
+[22:34:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:umbra_valley
+[22:34:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:umbrella_jungle
+[22:34:50] [main/INFO]: Adding End Highland Biome to Fabric: betterend:umbrella_jungle
+[22:34:50] [main/INFO]: Adding Nether Biome to Fabric: betternether:upside_down_forest (class_4762[temperature=4500, humidity=8000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1250])
+[22:34:50] [main/INFO]: Adding Nether Biome to Fabric: betternether:upside_down_forest_cleared (class_4762[temperature=4500, humidity=3000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1250])
+[22:34:50] [main/INFO]: Adding Nether Biome to Fabric: betternether:wart_forest (class_4762[temperature=-5000, humidity=5000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[22:34:50] [main/INFO]: Adding Nether Biome to Fabric: betternether:wart_forest_edge (class_4762[temperature=-5000, humidity=4500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[22:34:50] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (63c8b34d)
+[22:34:50] [main/INFO]: Unable to build Biome List yet
+[22:34:50] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[22:34:50] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (cb4c447)
+[22:34:50] [main/INFO]: Unable to build Biome List yet
+[22:34:50] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[22:34:50] [Worker-Main-2/INFO]: [Compat Datapacks] Loaded old registry keys item_modifiers for item_modifier
+[22:34:50] [Worker-Main-3/INFO]: [Compat Datapacks] Loaded old registry keys loot_tables for loot_table
+[22:34:51] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/heavenly_challenger/heavenly_challenger_supply - com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12 path $ missed input: {"minecraft:item_name":"Ascension Tonic"}
+[22:34:51] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/mines_treasure_big - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:6s},{id:\"minecraft:looting\",lvl:3s}]}"}
+[22:34:51] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/mines_treasure_medium - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:6s},{id:\"minecraft:looting\",lvl:3s}]}"}
+[22:34:51] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/illager_windmill/illager_windmill_barrels - com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 10 path $ missed input: {"minecraft:item_name":"Illager Beer"}
+[22:34:51] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/shiraz_palace/shiraz_palace_supply - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Potion:\"minecraft:strong_healing\"}"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Potion:\"minecraft:regeneration\"}"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{CustomPotionEffects:[{Id:2b,Amplifier:5b,Duration:1200}],CustomPotionColor:16770928}"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{CustomPotionEffects:[{Id:20b,Amplifier:5b,Duration:400}],CustomPotionColor:16770928}"}
+[22:34:51] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/minecraft:entities/ender_dragon - Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: minecraft:elyta
+[22:34:51] [Worker-Main-3/ERROR]: Unable to building bartering table
+[22:34:52] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:entities/husk}.pools[2].entries[0]: Unknown loot table called husks_drop_sand:entities/husk
+[22:34:52] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:entities/villager}.pools[2].entries[0]: Unknown loot table called villager_death:entities/villager
+[22:34:52] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:entities/bat}.pools[2].entries[0]: Unknown loot table called bat_membranes:entities/bat
+[22:34:52] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:entities/player}.pools[1].entries[0]: Unknown loot table called graves:entities/player
+[22:34:52] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:entities/shulker}.pools[2].entries[0]: Unknown loot table called double_shulker_shells:entities/shulker
+[22:34:52] [Worker-Main-2/INFO]: [Compat Datapacks] Loaded old tags tags/fluids for tags/fluid
+[22:34:52] [Worker-Main-7/INFO]: [Compat Datapacks] Loaded old tags tags/blocks for tags/block
+[22:34:52] [Worker-Main-6/INFO]: [Compat Datapacks] Loaded old tags tags/items for tags/item
+[22:34:52] [Worker-Main-3/INFO]: [Compat Datapacks] Loaded old tags tags/entity_types for tags/entity_type
+[22:34:52] [Worker-Main-5/INFO]: [Compat Datapacks] Loaded old tags tags/game_events for tags/game_event
+[22:34:52] [Worker-Main-7/ERROR]: Couldn't load tag farmersdelight:survives/rich_soil_farmland as it is missing following references: minecraft:grass (from farmersdelight)
+[22:34:53] [Worker-Main-3/INFO]: [Compat Datapacks] Loaded old registry keys recipes for recipe
+[22:34:53] [main/INFO]: Disabling Recipe: bclib:test_star
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:thallasium_shovel_head
 com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:thallasium_shovel_head"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -424,7 +426,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:thal
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:crystalite_boots
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:crystalite_boots
 com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:attribute_modifiers":{"modifiers":[{"type":"minecraft:generic.armor","amount":6.400000095367432,"id":"betterend:armor_boost","operation":"add_value","slot":"chest"},{"type":"minecraft:generic.armor_toughness","amount":0.9600000381469727,"id":"betterend:toughness_boost","operation":"add_value","slot":"chest"}]}},"id":"betterend:crystalite_boots"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -441,7 +443,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:at
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:crystalite_leggings
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:crystalite_leggings
 com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:attribute_modifiers":{"modifiers":[{"type":"minecraft:generic.armor","amount":6.400000095367432,"id":"betterend:armor_boost","operation":"add_value","slot":"chest"},{"type":"minecraft:generic.armor_toughness","amount":0.9600000381469727,"id":"betterend:toughness_boost","operation":"add_value","slot":"chest"},{"type":"minecraft:generic.max_health","amount":4.0,"id":"betterend:max_health_boost","operation":"add_value","slot":"head"}]}},"id":"betterend:crystalite_leggings"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -458,7 +460,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:at
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:loyalty_book
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:loyalty_book
 com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:stored_enchantments":{"levels":{"minecraft:loyalty":1}}},"id":"minecraft:enchanted_book"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -475,7 +477,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:st
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:fortune_book
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:fortune_book
 com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:stored_enchantments":{"levels":{"minecraft:fortune":1}}},"id":"minecraft:enchanted_book"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -492,7 +494,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:st
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:frost_walker_book
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:frost_walker_book
 com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:stored_enchantments":{"levels":{"minecraft:frost_walker":1}}},"id":"minecraft:enchanted_book"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -509,7 +511,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:st
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:ender_shard_to_dust
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:ender_shard_to_dust
 com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:ender_dust"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -526,7 +528,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:ende
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:flame_book
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:flame_book
 com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:stored_enchantments":{"levels":{"minecraft:flame":1}}},"id":"minecraft:enchanted_book"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -543,7 +545,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:st
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:aeternium_forged_plate
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:aeternium_forged_plate
 com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:aeternium_forged_plate"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -560,7 +562,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:aete
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:thallasium_hoe_head
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:thallasium_hoe_head
 com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:thallasium_hoe_head"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -577,7 +579,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:thal
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:enchanted_petal
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:enchanted_petal
 com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:enchanted_petal"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -594,7 +596,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:ench
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:terminite_ingot_thallasium
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:terminite_ingot_thallasium
 com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:terminite_ingot"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -611,7 +613,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:term
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe techreborn:grinder/nether_ruby_ore
+[22:34:53] [main/ERROR]: Parsing error loading recipe techreborn:grinder/nether_ruby_ore
 com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:recipe_serializer]: techreborn:grinder
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -628,7 +630,7 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:knockback_book
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:knockback_book
 com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:stored_enchantments":{"levels":{"minecraft:knockback":1}}},"id":"minecraft:enchanted_book"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -645,7 +647,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:st
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:sweeping_book
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:sweeping_book
 com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:stored_enchantments":{"levels":{"minecraft:sweeping_edge":1}}},"id":"minecraft:enchanted_book"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -662,7 +664,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:st
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:thallasium_ingot_alloy
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:thallasium_ingot_alloy
 com.google.gson.JsonParseException: No key item in MapLike[{"count":3,"id":"betterend:thallasium_ingot"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -679,7 +681,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"count":3,"id":"bett
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:aeternium_sword_blade
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:aeternium_sword_blade
 com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:aeternium_sword_blade"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -696,7 +698,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:aete
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe dragonsteel:star_alloy_block_to_ingot
+[22:34:53] [main/ERROR]: Parsing error loading recipe dragonsteel:star_alloy_block_to_ingot
 com.google.gson.JsonParseException: Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"item":"dragonsteel:star_alloy_block"}]; Second: Failed to parse either. First: Not a json array: {"item":"dragonsteel:star_alloy_block"}; Second: No key tag in MapLike[{"item":"dragonsteel:star_alloy_block"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: dragonsteel:star_alloy_block; No ingredients for shapeless recipe
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -713,7 +715,7 @@ com.google.gson.JsonParseException: Failed to parse either. First: Input does no
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:aeternium_hammer_head
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:aeternium_hammer_head
 com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:aeternium_hammer_head"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -730,7 +732,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:aete
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:additional_iron
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:additional_iron
 com.google.gson.JsonParseException: No key item in MapLike[{"count":3,"id":"minecraft:iron_ingot"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -747,7 +749,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"count":3,"id":"mine
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:channeling_book
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:channeling_book
 com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:stored_enchantments":{"levels":{"minecraft:channeling":1}}},"id":"minecraft:enchanted_book"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -764,7 +766,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:st
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe dragonsteel:star_alloy_block
+[22:34:53] [main/ERROR]: Parsing error loading recipe dragonsteel:star_alloy_block
 com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: dragonsteel:star_alloy_block
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -781,7 +783,7 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:aeternium_shovel_head
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:aeternium_shovel_head
 com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:aeternium_shovel_head"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -798,7 +800,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:aete
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:terminite_forged_plate
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:terminite_forged_plate
 com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:terminite_forged_plate"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -815,7 +817,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:term
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:terminite_ingot
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:terminite_ingot
 com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:terminite_ingot"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -832,7 +834,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:term
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:bane_of_arthropods_book
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:bane_of_arthropods_book
 com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:stored_enchantments":{"levels":{"minecraft:bane_of_arthropods":1}}},"id":"minecraft:enchanted_book"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -849,7 +851,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:st
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:luck_of_sea_book
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:luck_of_sea_book
 com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:stored_enchantments":{"levels":{"minecraft:luck_of_the_sea":1}}},"id":"minecraft:enchanted_book"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -866,7 +868,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:st
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:additional_copper
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:additional_copper
 com.google.gson.JsonParseException: No key item in MapLike[{"count":3,"id":"minecraft:copper_ingot"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -883,7 +885,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"count":3,"id":"mine
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:piercing_book
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:piercing_book
 com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:stored_enchantments":{"levels":{"minecraft:piercing":1}}},"id":"minecraft:enchanted_book"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -900,7 +902,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:st
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:lure_book
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:lure_book
 com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:stored_enchantments":{"levels":{"minecraft:lure":1}}},"id":"minecraft:enchanted_book"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -917,7 +919,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:st
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:smite_book
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:smite_book
 com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:stored_enchantments":{"levels":{"minecraft:smite":1}}},"id":"minecraft:enchanted_book"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -934,7 +936,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:st
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:aqua_affinity_book
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:aqua_affinity_book
 com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:stored_enchantments":{"levels":{"minecraft:aqua_affinity":1}}},"id":"minecraft:enchanted_book"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -951,7 +953,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:st
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:crystalite_chestplate
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:crystalite_chestplate
 com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:attribute_modifiers":{"modifiers":[{"type":"minecraft:generic.armor","amount":6.400000095367432,"id":"betterend:armor_boost","operation":"add_value","slot":"chest"},{"type":"minecraft:generic.armor_toughness","amount":0.9600000381469727,"id":"betterend:toughness_boost","operation":"add_value","slot":"chest"}]}},"id":"betterend:crystalite_chestplate"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -968,7 +970,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:at
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:enchanted_membrane
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:enchanted_membrane
 com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:enchanted_membrane"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -985,7 +987,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:ench
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:infinity_book
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:infinity_book
 com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:stored_enchantments":{"levels":{"minecraft:infinity":1}}},"id":"minecraft:enchanted_book"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1002,7 +1004,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:st
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:additional_gold
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:additional_gold
 com.google.gson.JsonParseException: No key item in MapLike[{"count":3,"id":"minecraft:gold_ingot"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1019,7 +1021,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"count":3,"id":"mine
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:aeternium_pickaxe_head
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:aeternium_pickaxe_head
 com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:aeternium_pickaxe_head"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1036,7 +1038,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:aete
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:thallasium_pickaxe_head
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:thallasium_pickaxe_head
 com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:thallasium_pickaxe_head"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1053,7 +1055,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:thal
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:projectile_protection_book
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:projectile_protection_book
 com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:stored_enchantments":{"levels":{"minecraft:projectile_protection":1}}},"id":"minecraft:enchanted_book"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1070,7 +1072,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:st
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe techreborn:grinder/nether_lapis_ore
+[22:34:53] [main/ERROR]: Parsing error loading recipe techreborn:grinder/nether_lapis_ore
 com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:recipe_serializer]: techreborn:grinder
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1087,7 +1089,7 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:unbreaking_book
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:unbreaking_book
 com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:stored_enchantments":{"levels":{"minecraft:unbreaking":1}}},"id":"minecraft:enchanted_book"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1104,7 +1106,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:st
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:respiration_book
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:respiration_book
 com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:stored_enchantments":{"levels":{"minecraft:respiration":1}}},"id":"minecraft:enchanted_book"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1121,7 +1123,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:st
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:thallasium_axe_head
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:thallasium_axe_head
 com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:thallasium_axe_head"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1138,7 +1140,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:thal
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:thorns_book
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:thorns_book
 com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:stored_enchantments":{"levels":{"minecraft:thorns":1}}},"id":"minecraft:enchanted_book"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1155,7 +1157,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:st
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:fire_protection_book
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:fire_protection_book
 com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:stored_enchantments":{"levels":{"minecraft:fire_protection":1}}},"id":"minecraft:enchanted_book"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1172,7 +1174,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:st
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:crystalite_elytra
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:crystalite_elytra
 com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:attribute_modifiers":{"modifiers":[{"type":"minecraft:generic.armor","amount":6.400000095367432,"id":"betterend:armor_boost","operation":"add_value","slot":"chest"},{"type":"minecraft:generic.armor_toughness","amount":0.9600000381469727,"id":"betterend:toughness_boost","operation":"add_value","slot":"chest"},{"type":"minecraft:generic.knockback_resistance","amount":0.5,"id":"betterend:base_knockback_resistance","operation":"add_value","slot":"mainhand"}]}},"id":"betterend:elytra_crystalite"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1189,7 +1191,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:at
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:fire_aspect_book
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:fire_aspect_book
 com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:stored_enchantments":{"levels":{"minecraft:fire_aspect":1}}},"id":"minecraft:enchanted_book"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1206,7 +1208,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:st
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:power_book
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:power_book
 com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:stored_enchantments":{"levels":{"minecraft:power":1}}},"id":"minecraft:enchanted_book"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1223,7 +1225,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:st
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:looting_book
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:looting_book
 com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:stored_enchantments":{"levels":{"minecraft:looting":1}}},"id":"minecraft:enchanted_book"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1240,7 +1242,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:st
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:sharpness_book
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:sharpness_book
 com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:stored_enchantments":{"levels":{"minecraft:sharpness":1}}},"id":"minecraft:enchanted_book"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1257,7 +1259,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:st
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:ender_pearl_to_dust
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:ender_pearl_to_dust
 com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:ender_dust"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1274,7 +1276,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:ende
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:silk_touch_book
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:silk_touch_book
 com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:stored_enchantments":{"levels":{"minecraft:silk_touch":1}}},"id":"minecraft:enchanted_book"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1291,7 +1293,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:st
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:punch_book
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:punch_book
 com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:stored_enchantments":{"levels":{"minecraft:punch":1}}},"id":"minecraft:enchanted_book"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1308,7 +1310,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:st
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:thallasium_sword_blade
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:thallasium_sword_blade
 com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:thallasium_sword_blade"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1325,7 +1327,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:thal
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:depth_strider_book
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:depth_strider_book
 com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:stored_enchantments":{"levels":{"minecraft:depth_strider":1}}},"id":"minecraft:enchanted_book"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1342,7 +1344,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:st
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:swift_sneak_book
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:swift_sneak_book
 com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:stored_enchantments":{"levels":{"minecraft:swift_sneak":1}}},"id":"minecraft:enchanted_book"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1359,7 +1361,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:st
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:multishot_book
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:multishot_book
 com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:stored_enchantments":{"levels":{"minecraft:multishot":1}}},"id":"minecraft:enchanted_book"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1376,7 +1378,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:st
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:feather_falling_book
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:feather_falling_book
 com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:stored_enchantments":{"levels":{"minecraft:feather_falling":1}}},"id":"minecraft:enchanted_book"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1393,7 +1395,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:st
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe tgacmod:fire_absorbing_amalgamate
+[22:34:53] [main/ERROR]: Parsing error loading recipe tgacmod:fire_absorbing_amalgamate
 com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: tgacmod:fire_absorbing_amalgamate
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1410,7 +1412,7 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:runed_flavolite
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:runed_flavolite
 com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:flavolite_runed"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1427,7 +1429,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:flav
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:terminite_hoe_head
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:terminite_hoe_head
 com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:terminite_hoe_head"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1444,7 +1446,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:term
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:mending_book
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:mending_book
 com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:stored_enchantments":{"levels":{"minecraft:mending":1}}},"id":"minecraft:enchanted_book"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1461,7 +1463,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:st
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:riptide_book
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:riptide_book
 com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:stored_enchantments":{"levels":{"minecraft:riptide":1}}},"id":"minecraft:enchanted_book"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1478,7 +1480,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:st
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:eternal_crystal
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:eternal_crystal
 com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:eternal_crystal"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1495,7 +1497,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:eter
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:terminite_shovel_head
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:terminite_shovel_head
 com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:terminite_shovel_head"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1512,7 +1514,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:term
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:aeternium_ingot
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:aeternium_ingot
 com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:aeternium_ingot"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1529,7 +1531,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:aete
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:aeternium_axe_head
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:aeternium_axe_head
 com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:aeternium_axe_head"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1546,7 +1548,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:aete
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:aeternium_hoe_head
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:aeternium_hoe_head
 com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:aeternium_hoe_head"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1563,7 +1565,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:aete
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:efficiency_book
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:efficiency_book
 com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:stored_enchantments":{"levels":{"minecraft:efficiency":1}}},"id":"minecraft:enchanted_book"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1580,7 +1582,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:st
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:terminite_axe_head
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:terminite_axe_head
 com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:terminite_axe_head"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1597,7 +1599,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:term
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:impaling_book
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:impaling_book
 com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:stored_enchantments":{"levels":{"minecraft:impaling":1}}},"id":"minecraft:enchanted_book"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1614,7 +1616,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:st
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe techreborn:grinder/cincinnasite_ore
+[22:34:53] [main/ERROR]: Parsing error loading recipe techreborn:grinder/cincinnasite_ore
 com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:recipe_serializer]: techreborn:grinder
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1631,7 +1633,7 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:terminite_sword_blade
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:terminite_sword_blade
 com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:terminite_sword_blade"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1648,7 +1650,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:term
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:quick_charge_book
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:quick_charge_book
 com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:stored_enchantments":{"levels":{"minecraft:quick_charge":1}}},"id":"minecraft:enchanted_book"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1665,7 +1667,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:st
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:thallasium_forged_plate
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:thallasium_forged_plate
 com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:thallasium_forged_plate"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1682,7 +1684,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:thal
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:soul_speed_book
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:soul_speed_book
 com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:stored_enchantments":{"levels":{"minecraft:soul_speed":1}}},"id":"minecraft:enchanted_book"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1699,7 +1701,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:st
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:additional_netherite
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:additional_netherite
 com.google.gson.JsonParseException: No key item in MapLike[{"count":3,"id":"minecraft:netherite_scrap"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1716,7 +1718,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"count":3,"id":"mine
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:blast_protection_book
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:blast_protection_book
 com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:stored_enchantments":{"levels":{"minecraft:blast_protection":1}}},"id":"minecraft:enchanted_book"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1733,7 +1735,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:st
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:protection_book
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:protection_book
 com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:stored_enchantments":{"levels":{"minecraft:protection":1}}},"id":"minecraft:enchanted_book"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1750,7 +1752,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:st
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:terminite_pickaxe_head
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:terminite_pickaxe_head
 com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:terminite_pickaxe_head"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1767,7 +1769,7 @@ com.google.gson.JsonParseException: No key item in MapLike[{"id":"betterend:term
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/ERROR]: Parsing error loading recipe betterend:crystalite_helmet
+[22:34:53] [main/ERROR]: Parsing error loading recipe betterend:crystalite_helmet
 com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:attribute_modifiers":{"modifiers":[{"type":"minecraft:generic.armor","amount":6.400000095367432,"id":"betterend:armor_boost","operation":"add_value","slot":"chest"},{"type":"minecraft:generic.armor_toughness","amount":0.9600000381469727,"id":"betterend:toughness_boost","operation":"add_value","slot":"chest"},{"type":"betterend:generic.blindness_resistance","amount":1.0,"id":"betterend:base_blindness_resistance","operation":"add_value","slot":"head"}]}},"id":"betterend:crystalite_helmet"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -1784,155 +1786,163 @@ com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:at
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[22:27:54] [main/INFO]: Loaded 4315 recipes
-[22:27:55] [main/INFO]: Added 0 recipes in 4ms
-[22:27:55] [main/ERROR]: Couldn't load advancements: [minecraft:give_quest_trader_trade, minecraft:wander_add_map]
-[22:27:55] [main/INFO]: Loaded 3517 advancements
-[22:27:56] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[22:27:56] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseOreBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[22:27:56] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.betternether.blocks.RedstoneOreBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[22:27:56] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[22:27:56] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[22:27:56] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[22:27:57] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.betterend.blocks.basis.StoneLanternBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_322. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[22:27:57] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.betterend.blocks.BrimstoneBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[22:27:57] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[22:27:57] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.betterend.blocks.TenaneaFlowersBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_322. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[22:27:57] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.betterend.blocks.HelixTreeLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_322. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[22:27:57] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.betterend.blocks.JellyshroomCapBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_322. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[22:27:57] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.betterend.blocks.HydraluxPetalColoredBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_322. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[22:27:57] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseOreBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[22:27:57] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.betterend.blocks.BulbVineLanternColoredBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_322. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[22:27:57] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.betterend.blocks.AuroraCrystalBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_322. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[22:27:57] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.betterend.blocks.RespawnObeliskBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_322. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[22:27:57] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.betterend.blocks.EndPortalBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_322. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[22:27:57] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (7420bbe4)
-[22:27:57] [main/INFO]: Added 5 Biomes
-[22:27:57] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
-[22:27:57] [main/INFO]:  - betterend:megalake_grove, subbiomes=1
-[22:27:57] [main/INFO]:  - betterend:neon_oasis, subbiomes=1
-[22:27:57] [main/INFO]:  - betterend:painted_mountains, subbiomes=1
-[22:27:57] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
-[22:27:57] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
-[22:27:57] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
-[22:27:57] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (502f4d12)
-[22:27:57] [main/INFO]: Added 11 Biomes
-[22:27:57] [main/INFO]:  - betternether:soul_plain, subbiomes=1
-[22:27:57] [main/INFO]:  - betternether:poor_nether_grasslands, subbiomes=1
-[22:27:57] [main/INFO]:  - betternether:old_swampland, subbiomes=1
-[22:27:57] [main/INFO]:  - betternether:crimson_glowing_woods, subbiomes=1
-[22:27:57] [main/INFO]:  - betternether:nether_swampland_terraces, subbiomes=1
-[22:27:57] [main/INFO]:  - betternether:upside_down_forest_cleared, subbiomes=1
-[22:27:57] [main/INFO]:  - betternether:old_warped_woods, subbiomes=1
-[22:27:57] [main/INFO]:  - betternether:old_fungiwoods, subbiomes=1
-[22:27:57] [main/INFO]:  - betternether:crimson_pinewood, subbiomes=1
-[22:27:57] [main/INFO]:  - betternether:flooded_deltas, subbiomes=1
-[22:27:57] [main/INFO]:  - betternether:sulfuric_bone_reef, subbiomes=1
-[22:27:57] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[22:27:57] [main/INFO]: Added Tags for 1 fabric biomes in 47.84 ms
-[22:27:57] [main/INFO]: Added 6 biomes to wover:is_end/highland in 8.600 ms
-[22:27:57] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (7420bbe4)
-[22:27:57] [main/INFO]: Added 5 Biomes
-[22:27:57] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
-[22:27:57] [main/INFO]:  - betterend:megalake_grove, subbiomes=1
-[22:27:57] [main/INFO]:  - betterend:neon_oasis, subbiomes=1
-[22:27:57] [main/INFO]:  - betterend:painted_mountains, subbiomes=1
-[22:27:57] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
-[22:27:57] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
-[22:27:57] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (53758f9f)
-[22:27:57] [main/INFO]: Added 5 Biomes
-[22:27:57] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
-[22:27:57] [main/INFO]:  - betterend:megalake_grove, subbiomes=1
-[22:27:57] [main/INFO]:  - betterend:neon_oasis, subbiomes=1
-[22:27:57] [main/INFO]:  - betterend:painted_mountains, subbiomes=1
-[22:27:57] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
-[22:27:57] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
-[22:27:57] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (53758f9f)
-[22:27:57] [main/INFO]: Added 5 Biomes
-[22:27:57] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
-[22:27:57] [main/INFO]:  - betterend:megalake_grove, subbiomes=1
-[22:27:57] [main/INFO]:  - betterend:neon_oasis, subbiomes=1
-[22:27:57] [main/INFO]:  - betterend:painted_mountains, subbiomes=1
-[22:27:57] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
-[22:27:57] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
-[22:27:57] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (502f4d12)
-[22:27:57] [main/INFO]: Added 11 Biomes
-[22:27:57] [main/INFO]:  - betternether:soul_plain, subbiomes=1
-[22:27:57] [main/INFO]:  - betternether:poor_nether_grasslands, subbiomes=1
-[22:27:57] [main/INFO]:  - betternether:old_swampland, subbiomes=1
-[22:27:57] [main/INFO]:  - betternether:crimson_glowing_woods, subbiomes=1
-[22:27:57] [main/INFO]:  - betternether:nether_swampland_terraces, subbiomes=1
-[22:27:57] [main/INFO]:  - betternether:upside_down_forest_cleared, subbiomes=1
-[22:27:57] [main/INFO]:  - betternether:old_warped_woods, subbiomes=1
-[22:27:57] [main/INFO]:  - betternether:old_fungiwoods, subbiomes=1
-[22:27:57] [main/INFO]:  - betternether:crimson_pinewood, subbiomes=1
-[22:27:57] [main/INFO]:  - betternether:flooded_deltas, subbiomes=1
-[22:27:57] [main/INFO]:  - betternether:sulfuric_bone_reef, subbiomes=1
-[22:27:57] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (769cd292)
-[22:27:57] [main/INFO]: Added 11 Biomes
-[22:27:57] [main/INFO]:  - betternether:soul_plain, subbiomes=1
-[22:27:57] [main/INFO]:  - betternether:poor_nether_grasslands, subbiomes=1
-[22:27:57] [main/INFO]:  - betternether:old_swampland, subbiomes=1
-[22:27:57] [main/INFO]:  - betternether:crimson_glowing_woods, subbiomes=1
-[22:27:57] [main/INFO]:  - betternether:nether_swampland_terraces, subbiomes=1
-[22:27:57] [main/INFO]:  - betternether:upside_down_forest_cleared, subbiomes=1
-[22:27:57] [main/INFO]:  - betternether:old_warped_woods, subbiomes=1
-[22:27:57] [main/INFO]:  - betternether:old_fungiwoods, subbiomes=1
-[22:27:57] [main/INFO]:  - betternether:crimson_pinewood, subbiomes=1
-[22:27:57] [main/INFO]:  - betternether:flooded_deltas, subbiomes=1
-[22:27:57] [main/INFO]:  - betternether:sulfuric_bone_reef, subbiomes=1
-[22:27:57] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (769cd292)
-[22:27:57] [main/INFO]: Added 11 Biomes
-[22:27:57] [main/INFO]:  - betternether:soul_plain, subbiomes=1
-[22:27:57] [main/INFO]:  - betternether:poor_nether_grasslands, subbiomes=1
-[22:27:57] [main/INFO]:  - betternether:old_swampland, subbiomes=1
-[22:27:57] [main/INFO]:  - betternether:crimson_glowing_woods, subbiomes=1
-[22:27:57] [main/INFO]:  - betternether:nether_swampland_terraces, subbiomes=1
-[22:27:57] [main/INFO]:  - betternether:upside_down_forest_cleared, subbiomes=1
-[22:27:57] [main/INFO]:  - betternether:old_warped_woods, subbiomes=1
-[22:27:57] [main/INFO]:  - betternether:old_fungiwoods, subbiomes=1
-[22:27:57] [main/INFO]:  - betternether:crimson_pinewood, subbiomes=1
-[22:27:57] [main/INFO]:  - betternether:flooded_deltas, subbiomes=1
-[22:27:57] [main/INFO]:  - betternether:sulfuric_bone_reef, subbiomes=1
-[22:27:58] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (769cd292)
-[22:27:58] [main/INFO]: Added 11 Biomes
-[22:27:58] [main/INFO]:  - betternether:soul_plain, subbiomes=1
-[22:27:58] [main/INFO]:  - betternether:poor_nether_grasslands, subbiomes=1
-[22:27:58] [main/INFO]:  - betternether:old_swampland, subbiomes=1
-[22:27:58] [main/INFO]:  - betternether:crimson_glowing_woods, subbiomes=1
-[22:27:58] [main/INFO]:  - betternether:nether_swampland_terraces, subbiomes=1
-[22:27:58] [main/INFO]:  - betternether:upside_down_forest_cleared, subbiomes=1
-[22:27:58] [main/INFO]:  - betternether:old_warped_woods, subbiomes=1
-[22:27:58] [main/INFO]:  - betternether:old_fungiwoods, subbiomes=1
-[22:27:58] [main/INFO]:  - betternether:crimson_pinewood, subbiomes=1
-[22:27:58] [main/INFO]:  - betternether:flooded_deltas, subbiomes=1
-[22:27:58] [main/INFO]:  - betternether:sulfuric_bone_reef, subbiomes=1
-[22:27:58] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (53758f9f)
-[22:27:58] [main/INFO]: Added 5 Biomes
-[22:27:58] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
-[22:27:58] [main/INFO]:  - betterend:megalake_grove, subbiomes=1
-[22:27:58] [main/INFO]:  - betterend:neon_oasis, subbiomes=1
-[22:27:58] [main/INFO]:  - betterend:painted_mountains, subbiomes=1
-[22:27:58] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
-[22:27:58] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
-[22:27:58] [main/INFO]: Applied 131 biome modifications and added 114 tags to 119 of 205 biomes in 47.03 ms
-[22:27:58] [main/INFO]: Applied 750 biome modifications to 198 of 205 new biomes in 52.95 ms
-[22:27:58] [Server thread/INFO]: Encoded Weapon Attribute registry size (with package overhead): 121928 bytes (in 13 string chunks with the size of 10000)
-[22:27:58] [Server thread/INFO]: [STDOUT]: Encoded SpellRegistry size (with package overhead): ??? bytes (in 24 string chunks with the size of 10000)
-[22:27:58] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[22:27:58] [Server thread/INFO]: Loading properties
-[22:27:58] [Server thread/INFO]: Default game type: SURVIVAL
-[22:27:58] [Server thread/INFO]: Generating keypair
-[22:27:59] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:27:59] [Server thread/INFO]: Using epoll channel type
-[22:27:59] [Server thread/INFO]: Preparing level "world"
-[22:27:59] [Server thread/INFO]: World Dimensions: 
+[22:34:53] [main/INFO]: Loaded 5251 recipes
+[22:34:54] [main/INFO]: Added 0 recipes in 3ms
+[22:34:54] [main/ERROR]: Couldn't load advancements: [minecraft:give_quest_trader_trade, minecraft:wander_add_map]
+[22:34:54] [main/INFO]: Loaded 3610 advancements
+[22:34:55] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[22:34:55] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseOreBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[22:34:55] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.betternether.blocks.RedstoneOreBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[22:34:55] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[22:34:55] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[22:34:55] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[22:34:56] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.betterend.blocks.basis.StoneLanternBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_322. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[22:34:56] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.betterend.blocks.BrimstoneBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[22:34:56] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[22:34:56] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.betterend.blocks.TenaneaFlowersBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_322. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[22:34:56] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.betterend.blocks.HelixTreeLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_322. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[22:34:56] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.betterend.blocks.JellyshroomCapBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_322. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[22:34:56] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.betterend.blocks.HydraluxPetalColoredBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_322. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[22:34:56] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseOreBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[22:34:56] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.betterend.blocks.BulbVineLanternColoredBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_322. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[22:34:56] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.betterend.blocks.AuroraCrystalBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_322. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[22:34:56] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.betterend.blocks.RespawnObeliskBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_322. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[22:34:56] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.betterend.blocks.EndPortalBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_322. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[22:34:57] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (595051c8)
+[22:34:57] [main/INFO]: Added 5 Biomes
+[22:34:57] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
+[22:34:57] [main/INFO]:  - betterend:neon_oasis, subbiomes=1
+[22:34:57] [main/INFO]:  - betterend:megalake_grove, subbiomes=1
+[22:34:57] [main/INFO]:  - betterend:painted_mountains, subbiomes=1
+[22:34:57] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
+[22:34:57] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
+[22:34:57] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[22:34:57] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (47e20477)
+[22:34:57] [main/INFO]: Added 11 Biomes
+[22:34:57] [main/INFO]:  - betternether:sulfuric_bone_reef, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:flooded_deltas, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:old_fungiwoods, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:soul_plain, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:nether_swampland_terraces, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:poor_nether_grasslands, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:upside_down_forest_cleared, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:crimson_glowing_woods, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:old_swampland, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:crimson_pinewood, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:old_warped_woods, subbiomes=1
+[22:34:57] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[22:34:57] [main/INFO]: Added Tags for 1 fabric biomes in 41.86 ms
+[22:34:57] [main/INFO]: Added 6 biomes to wover:is_end/highland in 7.411 ms
+[22:34:57] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (595051c8)
+[22:34:57] [main/INFO]: Added 5 Biomes
+[22:34:57] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
+[22:34:57] [main/INFO]:  - betterend:neon_oasis, subbiomes=1
+[22:34:57] [main/INFO]:  - betterend:megalake_grove, subbiomes=1
+[22:34:57] [main/INFO]:  - betterend:painted_mountains, subbiomes=1
+[22:34:57] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
+[22:34:57] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
+[22:34:57] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (63c8b34d)
+[22:34:57] [main/INFO]: Added 5 Biomes
+[22:34:57] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
+[22:34:57] [main/INFO]:  - betterend:neon_oasis, subbiomes=1
+[22:34:57] [main/INFO]:  - betterend:megalake_grove, subbiomes=1
+[22:34:57] [main/INFO]:  - betterend:painted_mountains, subbiomes=1
+[22:34:57] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
+[22:34:57] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
+[22:34:57] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (63c8b34d)
+[22:34:57] [main/INFO]: Added 5 Biomes
+[22:34:57] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
+[22:34:57] [main/INFO]:  - betterend:neon_oasis, subbiomes=1
+[22:34:57] [main/INFO]:  - betterend:megalake_grove, subbiomes=1
+[22:34:57] [main/INFO]:  - betterend:painted_mountains, subbiomes=1
+[22:34:57] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
+[22:34:57] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
+[22:34:57] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (47e20477)
+[22:34:57] [main/INFO]: Added 11 Biomes
+[22:34:57] [main/INFO]:  - betternether:sulfuric_bone_reef, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:flooded_deltas, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:old_fungiwoods, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:soul_plain, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:nether_swampland_terraces, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:poor_nether_grasslands, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:upside_down_forest_cleared, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:crimson_glowing_woods, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:old_swampland, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:crimson_pinewood, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:old_warped_woods, subbiomes=1
+[22:34:57] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (cb4c447)
+[22:34:57] [main/INFO]: Added 11 Biomes
+[22:34:57] [main/INFO]:  - betternether:sulfuric_bone_reef, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:flooded_deltas, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:old_fungiwoods, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:soul_plain, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:nether_swampland_terraces, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:poor_nether_grasslands, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:upside_down_forest_cleared, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:crimson_glowing_woods, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:old_swampland, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:crimson_pinewood, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:old_warped_woods, subbiomes=1
+[22:34:57] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (cb4c447)
+[22:34:57] [main/INFO]: Added 11 Biomes
+[22:34:57] [main/INFO]:  - betternether:sulfuric_bone_reef, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:flooded_deltas, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:old_fungiwoods, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:soul_plain, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:nether_swampland_terraces, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:poor_nether_grasslands, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:upside_down_forest_cleared, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:crimson_glowing_woods, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:old_swampland, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:crimson_pinewood, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:old_warped_woods, subbiomes=1
+[22:34:57] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (cb4c447)
+[22:34:57] [main/INFO]: Added 11 Biomes
+[22:34:57] [main/INFO]:  - betternether:sulfuric_bone_reef, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:flooded_deltas, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:old_fungiwoods, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:soul_plain, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:nether_swampland_terraces, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:poor_nether_grasslands, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:upside_down_forest_cleared, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:crimson_glowing_woods, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:old_swampland, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:crimson_pinewood, subbiomes=1
+[22:34:57] [main/INFO]:  - betternether:old_warped_woods, subbiomes=1
+[22:34:57] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (63c8b34d)
+[22:34:57] [main/INFO]: Added 5 Biomes
+[22:34:57] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
+[22:34:57] [main/INFO]:  - betterend:neon_oasis, subbiomes=1
+[22:34:57] [main/INFO]:  - betterend:megalake_grove, subbiomes=1
+[22:34:57] [main/INFO]:  - betterend:painted_mountains, subbiomes=1
+[22:34:57] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
+[22:34:57] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
+[22:34:57] [main/INFO]: Applied 131 biome modifications and added 114 tags to 119 of 205 biomes in 46.01 ms
+[22:34:57] [main/INFO]: Applied 750 biome modifications to 198 of 205 new biomes in 53.00 ms
+[22:34:58] [Server thread/INFO]: Encoded Weapon Attribute registry size (with package overhead): 121928 bytes (in 13 string chunks with the size of 10000)
+[22:34:58] [Server thread/INFO]: [STDOUT]: Encoded SpellRegistry size (with package overhead): ??? bytes (in 24 string chunks with the size of 10000)
+[22:34:58] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[22:34:58] [Server thread/INFO]: Loading properties
+[22:34:58] [Server thread/INFO]: Default game type: SURVIVAL
+[22:34:58] [Server thread/INFO]: Generating keypair
+[22:34:58] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:34:58] [Server thread/INFO]: Using epoll channel type
+[22:34:58] [Server thread/INFO]: Preparing level "world"
+[22:34:58] [Server thread/INFO]: World Dimensions: 
+ - minecraft:overworld: 
+     class_3754 (6775983d)
+         preset     = minecraft:normal
+         noise      = minecraft:overworld
+         features   = terralith(384), minecraft(153), jewelry(1), farmersdelight(9), immersiveores(2)
+     class_4766 (7cd6e27d)
+         biomes     = 147
+         namespaces = minecraft(53), terralith(94)
  - minecraft:the_end: 
-     WoVer - Chunk Generator (4bfdd40d)
+     WoVer - Chunk Generator (494d4acc)
          preset     = wover:normal
          noise      = minecraft:end
          features   = minecraft(5), immersiveores(2), betterend(127)
-     WoVer - The End  BiomeSource (53758f9f)
+     WoVer - The End  BiomeSource (63c8b34d)
          biomes     = 24
          namespaces = minecraft(5), betterend(19)
          seed       = -4664776404842430655
@@ -1940,79 +1950,72 @@ com.google.gson.JsonParseException: No key item in MapLike[{"nbt":{"minecraft:at
          deciders   = 0
          config     = EndConfig{mapVersion=hex, generatorVersion=vanilla, withVoidBiomes=true, innerVoidRadius=1024, voidBiomesSize=16, centerBiomesSize=16, landBiomesSize=16, barrensBiomesSize=16}
  - minecraft:the_nether: 
-     WoVer - Chunk Generator (465e4ddb)
+     WoVer - Chunk Generator (1bdf0632)
          preset     = wover:normal
          noise      = minecraft:nether
          features   = minecraft(37), betternether(95), immersiveores(2)
-     WoVer - Nether BiomeSource (769cd292)
+     WoVer - Nether BiomeSource (cb4c447)
          biomes     = 27
          namespaces = betternether(22), minecraft(5)
          seed       = -4664776404842430655
          height     = 128
          config     = NetherConfig{mapVersion=hex, useVerticalBiomes=true, biomeSize=16, biomeSizeVertical=5}
- - minecraft:overworld: 
-     class_3754 (5410fd85)
-         preset     = minecraft:normal
-         noise      = minecraft:overworld
-         features   = terralith(384), minecraft(153), jewelry(1), farmersdelight(9), immersiveores(2)
-     class_4766 (635b6a9a)
-         biomes     = 147
-         namespaces = minecraft(53), terralith(94)
-[22:27:59] [Server thread/INFO]: Merged 19 additional Surface Rules for Dimension minecraft:the_end => 20 (982.7 μs) using WoVer - The End  BiomeSource (53758f9f)
+[22:34:58] [Server thread/INFO]: Merged 19 additional Surface Rules for Dimension minecraft:the_end => 20 (1.045 ms) using WoVer - The End  BiomeSource (63c8b34d)
     biomes     = 24
     namespaces = minecraft(5), betterend(19)
     seed       = -4664776404842430655
     height     = 128
     deciders   = 0
     config     = EndConfig{mapVersion=hex, generatorVersion=vanilla, withVoidBiomes=true, innerVoidRadius=1024, voidBiomesSize=16, centerBiomesSize=16, landBiomesSize=16, barrensBiomesSize=16}
-[22:27:59] [Server thread/INFO]: Merged 22 additional Surface Rules for Dimension minecraft:the_nether => 74 (1.862 ms) using WoVer - Nether BiomeSource (769cd292)
+[22:34:58] [Server thread/INFO]: Merged 22 additional Surface Rules for Dimension minecraft:the_nether => 74 (2.298 ms) using WoVer - Nether BiomeSource (cb4c447)
     biomes     = 27
     namespaces = betternether(22), minecraft(5)
     seed       = -4664776404842430655
     height     = 128
     config     = NetherConfig{mapVersion=hex, useVerticalBiomes=true, biomeSize=16, biomeSizeVertical=5}
-[22:28:00] [Server thread/INFO]: Added 2 Biomes
-[22:28:00] [Server thread/INFO]:  - minecraft:end_barrens, subbiomes=1
-[22:28:00] [Server thread/INFO]:  - minecraft:end_midlands, subbiomes=1
-[22:28:02] [Server thread/INFO]: Added 2 Biomes
-[22:28:02] [Server thread/INFO]:  - minecraft:end_barrens, subbiomes=1
-[22:28:02] [Server thread/INFO]:  - minecraft:end_midlands, subbiomes=1
-[22:28:07] [Server thread/INFO]: Added 2 Biomes
-[22:28:07] [Server thread/INFO]:  - minecraft:end_barrens, subbiomes=1
-[22:28:07] [Server thread/INFO]:  - minecraft:end_midlands, subbiomes=1
-[22:28:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:28:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:28:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:28:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:28:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:28:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:28:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:28:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:28:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:28:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:28:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:28:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:28:13] [Worker-Main-5/INFO]: Preparing spawn area: 51%
-[22:28:13] [Server thread/INFO]: Time elapsed: 5823 ms
-[22:28:13] [Server thread/INFO]: Done (13.931s)! For help, type "help"
-[22:28:13] [Server thread/INFO]: init emc manager
-[22:28:13] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[22:28:13] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
-[22:30:00] [User Authenticator #1/INFO]: UUID of player aeonicspirit is b2f3514a-9e5b-4753-ba78-a65db2800349
-[22:30:09] [Server thread/INFO]: aeonicspirit[/127.247.121.201:52475] logged in with entity id 96 at (-60.413896824896874, 80.0, 43.477906223732184)
-[22:30:09] [Server thread/INFO]: aeonicspirit joined the game
-[22:30:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5160ms or 103 ticks behind
-[22:30:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[22:31:00] [Server thread/INFO]: aeonicspirit lost connection: Disconnected
-[22:31:00] [Server thread/INFO]: aeonicspirit left the game
-[22:31:19] [Server thread/INFO]: Stopping the server
-[22:31:19] [Server thread/INFO]: Stopping server
-[22:31:19] [Server thread/INFO]: Saving players
-[22:31:19] [Server thread/INFO]: Saving worlds
-[22:31:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:31:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:31:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:31:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:31:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:31:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:31:19] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:34:59] [Server thread/INFO]: Added 2 Biomes
+[22:34:59] [Server thread/INFO]:  - minecraft:end_barrens, subbiomes=1
+[22:34:59] [Server thread/INFO]:  - minecraft:end_midlands, subbiomes=1
+[22:35:01] [Server thread/INFO]: Added 2 Biomes
+[22:35:01] [Server thread/INFO]:  - minecraft:end_barrens, subbiomes=1
+[22:35:01] [Server thread/INFO]:  - minecraft:end_midlands, subbiomes=1
+[22:35:05] [Server thread/INFO]: Added 2 Biomes
+[22:35:05] [Server thread/INFO]:  - minecraft:end_barrens, subbiomes=1
+[22:35:05] [Server thread/INFO]:  - minecraft:end_midlands, subbiomes=1
+[22:35:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:35:11] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:35:11] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:35:11] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:35:11] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:35:11] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:35:11] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:35:11] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:35:11] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:35:11] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:35:11] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:35:11] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:35:11] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:35:12] [Server thread/INFO]: Time elapsed: 6171 ms
+[22:35:12] [Server thread/INFO]: Done (13.852s)! For help, type "help"
+[22:35:12] [Server thread/INFO]: init emc manager
+[22:35:12] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[22:35:12] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[22:38:22] [User Authenticator #1/INFO]: UUID of player aeonicspirit is b2f3514a-9e5b-4753-ba78-a65db2800349
+[22:38:31] [Server thread/INFO]: aeonicspirit[/127.247.121.201:42517] logged in with entity id 90 at (-62.7114453583292, 80.0, 43.764362541006726)
+[22:38:31] [Server thread/INFO]: aeonicspirit joined the game
+[22:38:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4399ms or 87 ticks behind
+[22:39:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[22:39:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[22:39:56] [Server thread/INFO]: aeonicspirit lost connection: Disconnected
+[22:39:56] [Server thread/INFO]: aeonicspirit left the game
+[22:40:13] [Server thread/INFO]: Stopping the server
+[22:40:13] [Server thread/INFO]: Stopping server
+[22:40:13] [Server thread/INFO]: Saving players
+[22:40:13] [Server thread/INFO]: Saving worlds
+[22:40:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:40:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:40:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:40:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:40:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:40:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:40:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
