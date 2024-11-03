@@ -67,4 +67,8 @@ https://cdn.modrinth.com/data/AqaIIO6D/versions/W1XTV2ev/ranged_weapon_api-2.0.4
 https://cdn.modrinth.com/data/sNJAIjUm/versions/IFiwtSBh/jewelry-2.0.2%2B1.21.1.jar
 https://cdn.modrinth.com/data/ETJGOhvj/versions/SXKLdshF/more_jewels-0.0.2-1.21.1.jar
 https://cdn.modrinth.com/data/LWXVAgkl/versions/LV9gcJeq/morerunesmod-0.0.2-1.21.1.jar
+https://cdn.modrinth.com/data/6I7NK0fd/versions/pnEQPwsW/dragonscale-0.0.2-1.21.1.jar
+https://cdn.modrinth.com/data/peuf5ER3/versions/AsICMItF/dragonsteel-0.0.3-1.21.1.jar
+https://cdn.modrinth.com/data/JrvR9OHr/versions/r73PhzrG/doubledoors-1.21.1-5.9.jar
+https://cdn.modrinth.com/data/e0M1UDsY/versions/nwmUrrgY/collective-1.21.1-7.87.jar
 ```
