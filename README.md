@@ -112,4 +112,6 @@ https://cdn.modrinth.com/data/kkmrDlKT/versions/yHeHBZPt/TerraBlender-fabric-1.2
 https://cdn.modrinth.com/data/qesipW4q/versions/omicA8kL/hammersandtables-6.0.6%2B1.21.jar
 https://cdn.modrinth.com/data/pOOlZva0/versions/Sp9Fenwu/crafting-manipulator-5.2.0%2B1.21.jar
 https://cdn.modrinth.com/data/xDwJf4pi/versions/UXvJZh70/everlastingabilities-1.21.1-fabric-2.3.0-224.jar
+https://cdn.modrinth.com/data/6pku8gW1/versions/27xQGxDh/energizedpower-1.21.1-2.12.4-fabric.jar
+https://cdn.modrinth.com/data/PvssKrgi/versions/boWXhbx9/thaumon-fabric-2.3.0%2B1.21.jar
 ```
