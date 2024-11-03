@@ -1,6 +1,5 @@
-[00:58:56] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.7
-[00:58:56] [ForkJoinPool-1-worker-7/WARN]: Mod tectonic uses the version 2.4.1a which isn't compatible with Loader's extended semantic version format (Could not parse version number component '1a'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[00:58:56] [main/INFO]: Loading 47 mods:
+[01:14:23] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.7
+[01:14:23] [main/INFO]: Loading 47 mods:
 	- fabric-api 0.107.0+1.21.1
 	   |-- fabric-api-base 0.4.42+6573ed8c19
 	   |-- fabric-api-lookup-api-v1 1.6.69+b559734419
@@ -56,52 +55,54 @@
 	- java 21
 	- lithium 0.13.1
 	- minecraft 1.21.1
-	- tectonic 2.4.1a
+	- mr_dungeons_andtaverns 1-v4.4.4
 	- terralith 2.5.6
 	- xaerominimap 24.6.1
 	- xaeroworldmap 1.39.0
-[00:58:56] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/home/user/Minecraft/libraries/net/fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/sponge-mixin-0.15.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[00:58:56] [main/INFO]: Compatibility level set to JAVA_17
-[00:58:56] [main/INFO]: Compatibility level set to JAVA_21
-[00:58:57] [main/INFO]: Loaded configuration file for Lithium: 144 options available, 0 override(s) found
-[00:58:58] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[00:59:14] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[00:59:14] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
-[00:59:14] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:59:18] [main/INFO]: Loaded 1365 recipes
-[00:59:18] [main/INFO]: Loaded 1481 advancements
-[00:59:19] [main/INFO]: Applied 314 biome modifications to 157 of 158 new biomes in 51.46 ms
-[00:59:19] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[00:59:19] [Server thread/INFO]: Loading properties
-[00:59:19] [Server thread/INFO]: Default game type: SURVIVAL
-[00:59:19] [Server thread/INFO]: Generating keypair
-[00:59:20] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:59:20] [Server thread/INFO]: Using epoll channel type
-[00:59:20] [Server thread/INFO]: Preparing level "world"
-[00:59:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:59:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:59:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:59:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:59:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:59:27] [Server thread/INFO]: Time elapsed: 2124 ms
-[00:59:27] [Server thread/INFO]: Done (6.875s)! For help, type "help"
-[00:59:27] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[00:59:27] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
-[01:00:48] [User Authenticator #1/INFO]: UUID of player aeonicspirit is b2f3514a-9e5b-4753-ba78-a65db2800349
-[01:00:52] [Server thread/INFO]: aeonicspirit[/127.247.121.201:34629] logged in with entity id 76 at (-4.5, 78.0, 25.5)
-[01:00:52] [Server thread/INFO]: aeonicspirit joined the game
-[01:01:18] [Server thread/INFO]: aeonicspirit lost connection: Disconnected
-[01:01:18] [Server thread/INFO]: aeonicspirit left the game
-[01:01:27] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[01:01:27] [Server thread/INFO]: stopstop<--[HERE]
-[01:01:32] [Server thread/INFO]: Stopping the server
-[01:01:32] [Server thread/INFO]: Stopping server
-[01:01:32] [Server thread/INFO]: Saving players
-[01:01:32] [Server thread/INFO]: Saving worlds
-[01:01:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:01:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:01:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:01:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:01:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:01:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:01:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:14:23] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/home/user/Minecraft/libraries/net/fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/sponge-mixin-0.15.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[01:14:23] [main/INFO]: Compatibility level set to JAVA_17
+[01:14:23] [main/INFO]: Compatibility level set to JAVA_21
+[01:14:23] [main/INFO]: Loaded configuration file for Lithium: 144 options available, 0 override(s) found
+[01:14:25] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[01:14:40] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[01:14:40] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[01:14:40] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:14:41] [main/WARN]: Missing data pack tectonic:tectonic
+[01:14:45] [main/INFO]: Loaded 1365 recipes
+[01:14:45] [main/ERROR]: Couldn't load advancements: [minecraft:wander_add_map, minecraft:give_quest_trader_trade]
+[01:14:45] [main/INFO]: Loaded 1515 advancements
+[01:14:46] [main/INFO]: Applied 314 biome modifications to 157 of 158 new biomes in 53.39 ms
+[01:14:46] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[01:14:46] [Server thread/INFO]: Loading properties
+[01:14:46] [Server thread/INFO]: Default game type: SURVIVAL
+[01:14:46] [Server thread/INFO]: Generating keypair
+[01:14:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:14:46] [Server thread/INFO]: Using epoll channel type
+[01:14:47] [Server thread/INFO]: Preparing level "world"
+[01:14:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:14:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:14:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:14:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:14:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:14:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:14:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:14:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:14:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:14:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:14:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:14:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:14:55] [Server thread/INFO]: Time elapsed: 5564 ms
+[01:14:55] [Server thread/INFO]: Done (8.533s)! For help, type "help"
+[01:14:55] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[01:14:55] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[01:17:11] [Server thread/INFO]: Stopping the server
+[01:17:11] [Server thread/INFO]: Stopping server
+[01:17:11] [Server thread/INFO]: Saving players
+[01:17:11] [Server thread/INFO]: Saving worlds
+[01:17:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:17:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:17:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:17:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:17:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:17:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:17:11] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
