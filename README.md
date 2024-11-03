@@ -71,4 +71,8 @@ https://cdn.modrinth.com/data/6I7NK0fd/versions/pnEQPwsW/dragonscale-0.0.2-1.21.
 https://cdn.modrinth.com/data/peuf5ER3/versions/AsICMItF/dragonsteel-0.0.3-1.21.1.jar
 https://cdn.modrinth.com/data/JrvR9OHr/versions/r73PhzrG/doubledoors-1.21.1-5.9.jar
 https://cdn.modrinth.com/data/e0M1UDsY/versions/nwmUrrgY/collective-1.21.1-7.87.jar
+https://cdn.modrinth.com/data/GAIa01Mz/versions/zdgICPr1/tatimod-0.1.1-1.21.1.jar
+https://cdn.modrinth.com/data/uvpKDJJr/versions/k1zSjf7x/tctimod-0.0.8-1.21.1.jar
+https://cdn.modrinth.com/data/mBSHALKK/versions/Z1ae5ewP/tdacmod-0.0.2-1.21.1.jar
+https://cdn.modrinth.com/data/bDA9ozpC/versions/B3yIhIiF/taacmod-0.0.3-1.21.1.jar
 ```

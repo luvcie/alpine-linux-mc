@@ -1,0 +1,11 @@
+{
+  "ancient_city_dark_sack_spawn_chance": 0.25,
+  "nether_bridge_dark_sack_spawn_chance": 0.3,
+  "ruined_portal_dark_sack_spawn_chance": 0.3,
+  "simple_dungeon_dark_sack_spawn_chance": 0.25,
+  "bastion_treasure_dark_sack_spawn_chance": 0.25,
+  "end_city_dark_sack_spawn_chance": 0.25,
+  "bastion_treasure_forbidden_sack_spawn_chance": 0.25,
+  "end_city_forbidden_sack_spawn_chance": 0.25,
+  "lich_forbidden_sack_drop_chance": 0.2
+}

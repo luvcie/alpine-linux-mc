@@ -1,0 +1,10 @@
+{
+  "tier_1_spell_power_bonus": 0.15,
+  "tier_1_spell_haste_bonus": 0.1,
+  "tier_2_spell_power_bonus": 0.3,
+  "tier_2_spell_haste_bonus": 0.2,
+  "tier_3_spell_power_bonus": 0.5,
+  "tier_3_spell_haste_bonus": 0.3,
+  "tier_3_spell_critical_damage_bonus": 0.2,
+  "tier_3_spell_critical_chance_bonus": 0.1
+}
