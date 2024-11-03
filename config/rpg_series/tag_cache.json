@@ -1,0 +1,50 @@
+{
+  "cache": {
+    "rpg_series:tier_4_weapons": [
+      "forcemaster_rpg:bloody_knuckle",
+      "forcemaster_rpg:aeternium_knuckle",
+      "forcemaster_rpg:ruby_knuckle"
+    ],
+    "rpg_series:tier_1_armors": [
+      "forcemaster_rpg:oriene_feet",
+      "forcemaster_rpg:oriene_head",
+      "forcemaster_rpg:oriene_legs",
+      "forcemaster_rpg:oriene_chest"
+    ],
+    "rpg_series:tier_2_armors": [
+      "forcemaster_rpg:phasleb_feet",
+      "forcemaster_rpg:phasleb_head",
+      "forcemaster_rpg:phasleb_legs",
+      "forcemaster_rpg:phasleb_chest"
+    ],
+    "rpg_series:tier_3_armors": [
+      "forcemaster_rpg:netherite_aken_feet",
+      "forcemaster_rpg:netherite_aken_head",
+      "forcemaster_rpg:netherite_aken_legs",
+      "forcemaster_rpg:netherite_aken_chest"
+    ],
+    "rpg_series:tier_0_accessories": [],
+    "rpg_series:tier_1_accessories": [],
+    "rpg_series:tier_3_weapons": [
+      "forcemaster_rpg:guardian_knuckle",
+      "forcemaster_rpg:legendary_golden_knuckle",
+      "forcemaster_rpg:netherite_knuckle"
+    ],
+    "rpg_series:tier_2_accessories": [],
+    "rpg_series:tier_3_accessories": [],
+    "rpg_series:tier_1_weapons": [
+      "forcemaster_rpg:iron_knuckle"
+    ],
+    "rpg_series:golden_weapons": [
+      "forcemaster_rpg:golden_knuckle"
+    ],
+    "rpg_series:tier_2_weapons": [
+      "forcemaster_rpg:diamond_knuckle"
+    ],
+    "rpg_series:tier_4_accessories": [],
+    "rpg_series:tier_0_weapons": [
+      "forcemaster_rpg:wooden_knuckle",
+      "forcemaster_rpg:stone_knuckle"
+    ]
+  }
+}

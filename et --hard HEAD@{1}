@@ -1,0 +1,46 @@
+68cfbe7 (HEAD -> main) HEAD@{0}: reset: moving to 68cfbe7
+68cfbe7 (HEAD -> main) HEAD@{1}: reset: moving to 68cfbe7
+46a0548 (origin/main) HEAD@{2}: commit: Add Trinkets, More RPG Classes, Spell Engine, Azure Lib Armor, Forcemaster class
+68cfbe7 (HEAD -> main) HEAD@{3}: commit: Add Timo
+a6d4642 HEAD@{4}: commit: Add Furnicraft
+0a69ccf HEAD@{5}: commit: Add Enchants plus, Spell Power Attribute, More Spell Attributes, Enchantment tooltips
+9776698 HEAD@{6}: commit: Add Balm, Mouse Tweaks, and Crafting Tweaks
+b94ed17 HEAD@{7}: commit: Update list
+b5a2c18 HEAD@{8}: commit: Add Krypton
+c0f979a HEAD@{9}: commit: Add Automessage, Chat Heads, Zoomify, Dynamic Lights, No Chat Reports, Monolib, Kotlin for Fabric, and Yet Ano
+ther Config Lib
+7db2fdb HEAD@{10}: commit: Update links
+472a2ff HEAD@{11}: commit: Add Architectury API, Squat Grow, Apple Skin, Mod Menu | Set break mode to FALL_ITEM in Falling Trees
+b34fde1 HEAD@{12}: commit: Add Falling Trees
+ee47515 HEAD@{13}: commit: rm Better Fabric Console | Reason: Backspace problem
+34ce998 HEAD@{14}: reset: moving to HEAD
+34ce998 HEAD@{15}: commit: Add Better Fabric Console, rm Prism
+1058b39 HEAD@{16}: commit: rm Iceberg, Legendary Tooltips, add Better Combat, Cloth Config, Player Animation Lib
+899ad54 HEAD@{17}: commit: Add Not Enough Crashes, Legendary Tooltips, Iceberg, and Prism
+f2af88a HEAD@{18}: commit: Add Just Enough Ressources and Just Enough Items
+15f629f HEAD@{19}: commit: Minor changes
+11879b1 HEAD@{20}: commit: Minor changes
+f6e7c0d HEAD@{21}: commit: Add instructions
+0c362f2 HEAD@{22}: commit: Minor change
+2a40595 HEAD@{23}: commit: modlist
+62b5840 HEAD@{24}: commit: Add Better End
+18f942c HEAD@{25}: commit: Add Better Nether
+13743ed HEAD@{26}: commit: Add BCLib, WunderLib, and WorldWeaver
+af0ff4a HEAD@{27}: reset: moving to HEAD
+af0ff4a HEAD@{28}: commit: Add Additional Structures
+33c52bf HEAD@{29}: commit: Add Towns and Towers and Cristel Lib
+906c5db HEAD@{30}: commit: Add Dungeons and Taverns, rm Tectonic
+913e3dc HEAD@{31}: commit: Add lithium
+a1ad398 HEAD@{32}: commit: Add sodium
+853f2a4 HEAD@{33}: commit: Add immersive ores
+dd85720 HEAD@{34}: reset: moving to origin/main
+a4ecb78 HEAD@{35}: reset: moving to HEAD
+a4ecb78 HEAD@{36}: reset: moving to HEAD
+a4ecb78 HEAD@{37}: reset: moving to HEAD~1
+dd85720 HEAD@{38}: commit: Add Xaero's Minimap and World Map
+a4ecb78 HEAD@{39}: commit: Add Fabric API, Terralith, Tectonic
+e26a19e HEAD@{40}: pull origin main (finish): returning to refs/heads/main
+e26a19e HEAD@{41}: pull origin main (pick): Initial commit
+e66a72e HEAD@{42}: pull origin main (start): checkout e66a72e4bec5f7776030e0d0fcd3ebac27e4e830
+753e159 HEAD@{43}: commit (initial): Initial commit
+
