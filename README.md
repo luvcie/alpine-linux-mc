@@ -57,4 +57,5 @@ https://cdn.modrinth.com/data/uZGu7slq/versions/LG18ZrUE/enchant-tooltips-1.0.1.
 https://cdn.modrinth.com/data/8ooWzSQP/versions/Yr88WIqG/spell_power-1.0.5%2B1.21.1.jar
 https://cdn.modrinth.com/data/z7YR5Db9/versions/V06N65Zq/more_spell_attributes-0.0.7-1.21.1.jar
 https://cdn.modrinth.com/data/N72bKhby/versions/p9Xx8UGN/enchants-plus-1.3.jar
+https://cdn.modrinth.com/data/7OgRKPcG/versions/nqkLY3mr/ketkets-furnicraft-4.4.jar
 ```
