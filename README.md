@@ -42,4 +42,12 @@ https://cdn.modrinth.com/data/EsAfCjCV/versions/b5ZiCjAr/appleskin-fabric-mc1.21
 https://cdn.modrinth.com/data/b5JMdB5V/versions/vG7bCwlI/squatgrow-fabric-21.1.0%2Bmc1.21.1.jar
 https://cdn.modrinth.com/data/lhGA9TYQ/versions/Wto0RchG/architectury-13.0.8-fabric.jar
 https://cdn.modrinth.com/data/qQyHxfxd/versions/sOHvPS0X/NoChatReports-FABRIC-1.21.1-v2.9.0.jar
+https://cdn.modrinth.com/data/w7ThoJFB/versions/mGFci27z/Zoomify-2.14.2%2B1.21.1.jar
+https://cdn.modrinth.com/data/yBW8D80W/versions/f0UyHyXq/lambdynamiclights-3.1.2%2B1.21.1.jar
+https://cdn.modrinth.com/data/Wb5oqrBJ/versions/sUiKbxOv/chat_heads-0.13.4-fabric-1.21.jar
+https://cdn.modrinth.com/data/vtggzSb5/versions/ZRVSBzFc/automessage-merged-1.21-2.3.0.jar
+https://cdn.modrinth.com/data/9leXt4A5/versions/601ORtJv/monolib-fabric-1.21.1-1.4.1.jar
+https://cdn.modrinth.com/data/Ha28R6CL/versions/B0fZidZi/fabric-language-kotlin-1.12.3%2Bkotlin.2.0.21.jar
+https://cdn.modrinth.com/data/1eAoo2KR/versions/f9ZVX07g/YetAnotherConfigLib-3.6.1%2B1.21-fabric.jar
+https://cdn.modrinth.com/data/fQEb0iXm/versions/Acz3ttTp/krypton-0.2.8.jar
 ```
