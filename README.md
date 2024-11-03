@@ -105,4 +105,8 @@ https://cdn.modrinth.com/data/Du77FavA/versions/zvin6zVf/morechestsfabric-2.1.ja
 https://cdn.modrinth.com/data/CNYyGWn5/versions/qePaOrBM/compact_storage-1.21-fabric-8.0.75.jar
 https://cdn.modrinth.com/data/jGVzcXaf/versions/x4Q4rxsO/InventoryTweaks-3.0.jar
 https://cdn.modrinth.com/data/ccKDOlHs/versions/vCCHsvEa/owo-lib-0.12.15%2B1.21.jar
+https://cdn.modrinth.com/data/D5h9NKNI/versions/cAWHE1fJ/lavender-0.1.14%2B1.21.jar
+https://cdn.modrinth.com/data/Y8TA5POy/versions/VIgWKL0Z/affinity-0.1.5%2B1.21.jar
+https://cdn.modrinth.com/data/K01OU20C/versions/tVPYyTPV/cardinal-components-api-6.1.1.jar
+https://cdn.modrinth.com/data/kkmrDlKT/versions/yHeHBZPt/TerraBlender-fabric-1.21.1-4.1.0.5.jar
 ```
