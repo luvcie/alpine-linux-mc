@@ -1,5 +1,6 @@
-[01:28:41] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.7
-[01:28:41] [main/INFO]: Loading 50 mods:
+[01:36:49] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.7
+[01:36:49] [main/INFO]: Loading 51 mods:
+	- additionalstructures 5.0.1-fabric
 	- cristellib 1.2.8
 	   \-- blue_endless_jankson 1.2.3
 	- fabric-api 0.107.0+1.21.1
@@ -62,82 +63,87 @@
 	- terralith 2.5.6
 	- xaerominimap 24.6.1
 	- xaeroworldmap 1.39.0
-[01:28:41] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/home/user/Minecraft/libraries/net/fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/sponge-mixin-0.15.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[01:28:42] [main/INFO]: Compatibility level set to JAVA_17
-[01:28:42] [main/INFO]: Compatibility level set to JAVA_21
-[01:28:42] [main/INFO]: Loaded configuration file for Lithium: 144 options available, 0 override(s) found
-[01:28:43] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[01:28:59] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[01:28:59] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
-[01:29:00] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:29:00] [main/INFO]: Found new data pack fabric, loading it automatically
-[01:29:00] [main/INFO]: Found new data pack fabric-convention-tags-v2, loading it automatically
-[01:29:00] [main/INFO]: Found new data pack immersiveores, loading it automatically
-[01:29:00] [main/INFO]: Found new data pack mr_dungeons_andtaverns, loading it automatically
-[01:29:00] [main/INFO]: Found new data pack t_and_t, loading it automatically
-[01:29:00] [main/INFO]: Found new data pack terralith, loading it automatically
-[01:29:02] [main/INFO]: No existing world data, creating new world
-[01:29:04] [main/INFO]: Loaded 1365 recipes
-[01:29:05] [main/ERROR]: Couldn't load advancements: [minecraft:wander_add_map, minecraft:give_quest_trader_trade]
-[01:29:05] [main/INFO]: Loaded 1515 advancements
-[01:29:06] [main/INFO]: Applied 314 biome modifications to 157 of 158 new biomes in 53.15 ms
-[01:29:06] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[01:29:06] [Server thread/INFO]: Loading properties
-[01:29:06] [Server thread/INFO]: Default game type: SURVIVAL
-[01:29:06] [Server thread/INFO]: Generating keypair
-[01:29:06] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:29:06] [Server thread/INFO]: Using epoll channel type
-[01:29:06] [Server thread/INFO]: Preparing level "world"
-[01:29:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:29:22] [Worker-Main-7/INFO]: Preparing spawn area: 2%
-[01:29:22] [Worker-Main-7/INFO]: Preparing spawn area: 2%
-[01:29:22] [Worker-Main-7/INFO]: Preparing spawn area: 2%
-[01:29:22] [Worker-Main-7/INFO]: Preparing spawn area: 2%
-[01:29:22] [Worker-Main-7/INFO]: Preparing spawn area: 2%
-[01:29:22] [Worker-Main-7/INFO]: Preparing spawn area: 2%
-[01:29:22] [Worker-Main-7/INFO]: Preparing spawn area: 2%
-[01:29:22] [Worker-Main-7/INFO]: Preparing spawn area: 2%
-[01:29:22] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[01:29:23] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[01:29:23] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[01:29:24] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[01:29:24] [Worker-Main-5/INFO]: Preparing spawn area: 2%
-[01:29:25] [Worker-Main-5/INFO]: Preparing spawn area: 18%
-[01:29:25] [Worker-Main-6/INFO]: Preparing spawn area: 18%
-[01:29:26] [Worker-Main-2/INFO]: Preparing spawn area: 18%
-[01:29:26] [Worker-Main-5/INFO]: Preparing spawn area: 18%
-[01:29:27] [Worker-Main-6/INFO]: Preparing spawn area: 18%
-[01:29:27] [Worker-Main-2/INFO]: Preparing spawn area: 18%
-[01:29:28] [Worker-Main-6/INFO]: Preparing spawn area: 42%
-[01:29:29] [Worker-Main-6/INFO]: Preparing spawn area: 51%
-[01:29:29] [Worker-Main-6/INFO]: Preparing spawn area: 51%
-[01:29:31] [Worker-Main-6/INFO]: Preparing spawn area: 51%
-[01:29:31] [Worker-Main-6/INFO]: Preparing spawn area: 51%
-[01:29:31] [Worker-Main-6/INFO]: Preparing spawn area: 51%
-[01:29:31] [Worker-Main-6/INFO]: Preparing spawn area: 51%
-[01:29:31] [Worker-Main-6/INFO]: Preparing spawn area: 51%
-[01:29:32] [Worker-Main-3/INFO]: Preparing spawn area: 51%
-[01:29:32] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[01:29:33] [Worker-Main-5/INFO]: Preparing spawn area: 51%
-[01:29:33] [Worker-Main-5/INFO]: Preparing spawn area: 51%
-[01:29:34] [Worker-Main-5/INFO]: Preparing spawn area: 51%
-[01:29:34] [Server thread/INFO]: Time elapsed: 15740 ms
-[01:29:34] [Server thread/INFO]: Done (27.722s)! For help, type "help"
-[01:29:34] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[01:29:34] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
-[01:31:06] [User Authenticator #1/INFO]: UUID of player aeonicspirit is b2f3514a-9e5b-4753-ba78-a65db2800349
-[01:31:10] [Server thread/INFO]: aeonicspirit[/127.247.121.201:53329] logged in with entity id 49 at (26.5, 64.0, -49.5)
-[01:31:10] [Server thread/INFO]: aeonicspirit joined the game
-[01:32:00] [Server thread/INFO]: aeonicspirit lost connection: Disconnected
-[01:32:00] [Server thread/INFO]: aeonicspirit left the game
-[01:32:31] [Server thread/INFO]: Stopping the server
-[01:32:31] [Server thread/INFO]: Stopping server
-[01:32:31] [Server thread/INFO]: Saving players
-[01:32:31] [Server thread/INFO]: Saving worlds
-[01:32:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:32:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:32:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:32:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:32:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:32:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:32:35] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:36:49] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/home/user/Minecraft/libraries/net/fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/sponge-mixin-0.15.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[01:36:49] [main/INFO]: Compatibility level set to JAVA_17
+[01:36:49] [main/INFO]: Compatibility level set to JAVA_21
+[01:36:49] [main/INFO]: Loaded configuration file for Lithium: 144 options available, 0 override(s) found
+[01:36:51] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[01:37:06] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[01:37:06] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[01:37:07] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:37:07] [main/INFO]: Found new data pack additionalstructures, loading it automatically
+[01:37:07] [main/INFO]: Found new data pack fabric, loading it automatically
+[01:37:07] [main/INFO]: Found new data pack fabric-convention-tags-v2, loading it automatically
+[01:37:07] [main/INFO]: Found new data pack immersiveores, loading it automatically
+[01:37:07] [main/INFO]: Found new data pack mr_dungeons_andtaverns, loading it automatically
+[01:37:07] [main/INFO]: Found new data pack t_and_t, loading it automatically
+[01:37:07] [main/INFO]: Found new data pack terralith, loading it automatically
+[01:37:09] [main/INFO]: No existing world data, creating new world
+[01:37:11] [main/INFO]: Loaded 1365 recipes
+[01:37:12] [main/ERROR]: Couldn't load advancements: [minecraft:wander_add_map, minecraft:give_quest_trader_trade]
+[01:37:12] [main/INFO]: Loaded 1515 advancements
+[01:37:13] [main/INFO]: Applied 314 biome modifications to 157 of 158 new biomes in 46.15 ms
+[01:37:13] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[01:37:13] [Server thread/INFO]: Loading properties
+[01:37:13] [Server thread/INFO]: Default game type: SURVIVAL
+[01:37:13] [Server thread/INFO]: Generating keypair
+[01:37:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:37:13] [Server thread/INFO]: Using epoll channel type
+[01:37:13] [Server thread/INFO]: Preparing level "world"
+[01:37:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:37:41] [Worker-Main-7/INFO]: Preparing spawn area: 2%
+[01:37:41] [Worker-Main-7/INFO]: Preparing spawn area: 2%
+[01:37:41] [Worker-Main-7/INFO]: Preparing spawn area: 2%
+[01:37:41] [Worker-Main-7/INFO]: Preparing spawn area: 2%
+[01:37:41] [Worker-Main-7/INFO]: Preparing spawn area: 2%
+[01:37:41] [Worker-Main-7/INFO]: Preparing spawn area: 2%
+[01:37:41] [Worker-Main-7/INFO]: Preparing spawn area: 2%
+[01:37:41] [Worker-Main-7/INFO]: Preparing spawn area: 2%
+[01:37:41] [Worker-Main-7/INFO]: Preparing spawn area: 2%
+[01:37:41] [Worker-Main-7/INFO]: Preparing spawn area: 2%
+[01:37:42] [Worker-Main-7/INFO]: Preparing spawn area: 2%
+[01:37:43] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[01:37:43] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[01:37:43] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[01:37:44] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:37:44] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:37:45] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:37:45] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[01:37:46] [Worker-Main-7/INFO]: Preparing spawn area: 2%
+[01:37:46] [Worker-Main-5/INFO]: Preparing spawn area: 2%
+[01:37:47] [Worker-Main-4/INFO]: Preparing spawn area: 2%
+[01:37:47] [Worker-Main-4/INFO]: Preparing spawn area: 18%
+[01:37:48] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[01:37:48] [Worker-Main-5/INFO]: Preparing spawn area: 18%
+[01:37:49] [Worker-Main-5/INFO]: Preparing spawn area: 18%
+[01:37:49] [Worker-Main-4/INFO]: Preparing spawn area: 18%
+[01:37:50] [Worker-Main-7/INFO]: Preparing spawn area: 18%
+[01:37:50] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[01:37:51] [Worker-Main-4/INFO]: Preparing spawn area: 18%
+[01:37:51] [Worker-Main-5/INFO]: Preparing spawn area: 18%
+[01:37:52] [Worker-Main-6/INFO]: Preparing spawn area: 51%
+[01:37:52] [Worker-Main-7/INFO]: Preparing spawn area: 51%
+[01:37:53] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[01:37:53] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[01:37:54] [Worker-Main-7/INFO]: Preparing spawn area: 51%
+[01:37:54] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[01:37:55] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[01:37:55] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[01:37:56] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[01:37:56] [Worker-Main-7/INFO]: Preparing spawn area: 51%
+[01:37:57] [Worker-Main-2/INFO]: Preparing spawn area: 53%
+[01:37:57] [Server thread/INFO]: Time elapsed: 20184 ms
+[01:37:57] [Server thread/INFO]: Done (43.880s)! For help, type "help"
+[01:37:57] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[01:37:57] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[01:38:09] [Server thread/INFO]: Stopping the server
+[01:38:09] [Server thread/INFO]: Stopping server
+[01:38:09] [Server thread/INFO]: Saving players
+[01:38:09] [Server thread/INFO]: Saving worlds
+[01:38:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:38:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:38:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:38:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:38:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:38:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:38:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
