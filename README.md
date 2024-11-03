@@ -62,4 +62,5 @@ https://cdn.modrinth.com/data/Th80Dayj/versions/UvL9Hjoh/timo_11-6.4%2B1.21.2.ja
 https://cdn.modrinth.com/data/XvoWJaA2/versions/cyrSy7dK/spell_engine-1.1.2%2B1.21.1.jar
 https://cdn.modrinth.com/data/5aaWibi9/versions/JagCscwi/trinkets-3.10.0.jar
 https://cdn.modrinth.com/data/7zlUOZvb/versions/RPHw6gC8/azurelib-fabric-1.21.1-2.3.27.jar
+https://cdn.modrinth.com/data/lP9Yrr1E/versions/ajtep1px/runes-1.0.3%2B1.21.1.jar
 ```
