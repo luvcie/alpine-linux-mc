@@ -1,15 +1,14 @@
 {
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2024-11-03 01:10:11 +0000"
+      "unlock_right_away": "2024-11-03 01:31:10 +0000"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:cold_ocean": "2024-11-03 01:11:48 +0000",
-      "minecraft:forest": "2024-11-03 01:10:13 +0000",
-      "minecraft:taiga": "2024-11-03 01:11:23 +0000"
+      "minecraft:sunflower_plains": "2024-11-03 01:31:11 +0000",
+      "minecraft:plains": "2024-11-03 01:31:49 +0000"
     },
     "done": false
   },
