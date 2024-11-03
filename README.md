@@ -61,7 +61,6 @@ https://cdn.modrinth.com/data/7OgRKPcG/versions/nqkLY3mr/ketkets-furnicraft-4.4.
 https://cdn.modrinth.com/data/Th80Dayj/versions/UvL9Hjoh/timo_11-6.4%2B1.21.2.jar
 https://cdn.modrinth.com/data/XvoWJaA2/versions/cyrSy7dK/spell_engine-1.1.2%2B1.21.1.jar
 https://cdn.modrinth.com/data/5aaWibi9/versions/JagCscwi/trinkets-3.10.0.jar
-https://cdn.modrinth.com/data/7zlUOZvb/versions/RPHw6gC8/azurelib-fabric-1.21.1-2.3.27.jar
 https://cdn.modrinth.com/data/lP9Yrr1E/versions/ajtep1px/runes-1.0.3%2B1.21.1.jar
 https://cdn.modrinth.com/data/AqaIIO6D/versions/W1XTV2ev/ranged_weapon_api-2.0.4%2B1.21.1.jar
 https://cdn.modrinth.com/data/sNJAIjUm/versions/IFiwtSBh/jewelry-2.0.2%2B1.21.1.jar
@@ -77,4 +76,10 @@ https://cdn.modrinth.com/data/mBSHALKK/versions/Z1ae5ewP/tdacmod-0.0.2-1.21.1.ja
 https://cdn.modrinth.com/data/bDA9ozpC/versions/B3yIhIiF/taacmod-0.0.3-1.21.1.jar
 https://cdn.modrinth.com/data/zWOXoXzb/versions/oh7tjrZR/tgacmod-4.0.4-1.21.1.jar
 https://cdn.modrinth.com/data/p1Gta4IP/versions/VINnVjSu/tsapmod-0.0.1-1.21.1.jar
+https://cdn.modrinth.com/data/QgooUXAJ/versions/NGCVkcDm/archers-2.1.1%2B1.21.1.jar
+https://cdn.modrinth.com/data/FxXkHaLe/versions/vxPwoQ0X/paladins-2.1.1%2B1.21.1.jar
+https://cdn.modrinth.com/data/y9clIFY4/versions/gS70MjKr/ShieldAPI-2.0.2%2B1.21.1.jar
+https://cdn.modrinth.com/data/pduQXSbl/versions/HxFeGlOi/azurelibarmor-fabric-1.21.1-2.3.13.jar
+https://cdn.modrinth.com/data/3MKqoGuP/versions/uUukxUSN/rogues-2.1.0%2B1.21.1.jar
+https://cdn.modrinth.com/data/NkGaQMDA/versions/kCvuj9ae/wizards-2.1.0%2B1.21.1.jar
 ```
