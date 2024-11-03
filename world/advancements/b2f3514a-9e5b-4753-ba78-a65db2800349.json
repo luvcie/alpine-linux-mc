@@ -1400,6 +1400,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-11-03 14:20:19 +0000",
+      "minecraft:spider": "2024-11-03 21:22:19 +0000",
       "minecraft:zombie": "2024-11-03 13:56:16 +0000",
       "minecraft:creeper": "2024-11-03 16:11:34 +0000"
     },
@@ -1660,6 +1661,7 @@
   "timo:tab_timo/legacy_master": {
     "criteria": {
       "in20091231-2": "2024-11-03 18:28:23 +0000",
+      "c0.0.27st": "2024-11-03 21:22:19 +0000",
       "in20091223-2": "2024-11-03 18:28:23 +0000",
       "rd132211": "2024-11-03 18:32:50 +0000"
     },
@@ -1710,6 +1712,54 @@
   "rpg_series:root": {
     "criteria": {
       "always": "2024-11-03 19:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-11-03 21:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-11-03 21:22:22 +0000"
+    },
+    "done": true
+  },
+  "timo:tab_timo/legacy/c0.0.27st": {
+    "criteria": {
+      "requirement": "2024-11-03 21:22:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2024-11-03 21:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-11-03 21:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-11-03 21:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-11-03 21:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-11-03 21:22:22 +0000"
     },
     "done": true
   },

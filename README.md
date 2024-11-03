@@ -82,4 +82,11 @@ https://cdn.modrinth.com/data/y9clIFY4/versions/gS70MjKr/ShieldAPI-2.0.2%2B1.21.
 https://cdn.modrinth.com/data/pduQXSbl/versions/HxFeGlOi/azurelibarmor-fabric-1.21.1-2.3.13.jar
 https://cdn.modrinth.com/data/3MKqoGuP/versions/uUukxUSN/rogues-2.1.0%2B1.21.1.jar
 https://cdn.modrinth.com/data/NkGaQMDA/versions/kCvuj9ae/wizards-2.1.0%2B1.21.1.jar
+https://cdn.modrinth.com/data/SLhfoy0B/versions/OLIqBV5d/fallenwizardsmod-0.1.6-1.21.1.jar
+https://cdn.modrinth.com/data/PjK1ZOiw/versions/eETOiBYh/fpapmod-2.2.4-1.21.1.jar
+https://cdn.modrinth.com/data/ieB1lff9/versions/Kl12IqPJ/blood_mages-0.0.7-1.21.1.jar
+https://cdn.modrinth.com/data/o88ZjSh6/versions/lDozQzCw/druid-0.0.7-1.21.1.jar
+https://cdn.modrinth.com/data/mqF8xISJ/versions/V3556zts/elemental_metals-0.0.4-1.21.1.jar
+https://cdn.modrinth.com/data/oJkZIwJu/versions/ayXT13J0/morewizardsmod-0.1.6-1.21.1.jar
+https://cdn.modrinth.com/data/7RTcs7yj/versions/UkTknADo/battlemages-0.0.7-1.21.1.jar
 ```
