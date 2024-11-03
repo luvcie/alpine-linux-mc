@@ -1,6 +1,7 @@
-[01:36:49] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.7
-[01:36:49] [main/INFO]: Loading 51 mods:
+[01:50:20] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.7
+[01:50:20] [main/INFO]: Loading 70 mods:
 	- additionalstructures 5.0.1-fabric
+	- bclib 21.0.13
 	- cristellib 1.2.8
 	   \-- blue_endless_jankson 1.2.3
 	- fabric-api 0.107.0+1.21.1
@@ -61,89 +62,167 @@
 	- mr_dungeons_andtaverns 1-v4.4.4
 	- t_and_t 1.13.2
 	- terralith 2.5.6
+	- wover 21.0.13
+	   |-- wover-biome 21.0.13
+	   |-- wover-block 21.0.13
+	   |-- wover-common 21.0.13
+	   |-- wover-core 21.0.13
+	   |-- wover-datagen 21.0.13
+	   |-- wover-events 21.0.13
+	   |-- wover-feature 21.0.13
+	   |-- wover-generator 21.0.13
+	   |-- wover-item 21.0.13
+	   |-- wover-math 21.0.13
+	   |-- wover-preset 21.0.13
+	   |-- wover-recipe 21.0.13
+	   |-- wover-structure 21.0.13
+	   |-- wover-surface 21.0.13
+	   |-- wover-tag 21.0.13
+	   \-- wover-ui 21.0.13
+	- wunderlib 21.0.8
 	- xaerominimap 24.6.1
 	- xaeroworldmap 1.39.0
-[01:36:49] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/home/user/Minecraft/libraries/net/fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/sponge-mixin-0.15.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[01:36:49] [main/INFO]: Compatibility level set to JAVA_17
-[01:36:49] [main/INFO]: Compatibility level set to JAVA_21
-[01:36:49] [main/INFO]: Loaded configuration file for Lithium: 144 options available, 0 override(s) found
-[01:36:51] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[01:37:06] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[01:37:06] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
-[01:37:07] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:37:07] [main/INFO]: Found new data pack additionalstructures, loading it automatically
-[01:37:07] [main/INFO]: Found new data pack fabric, loading it automatically
-[01:37:07] [main/INFO]: Found new data pack fabric-convention-tags-v2, loading it automatically
-[01:37:07] [main/INFO]: Found new data pack immersiveores, loading it automatically
-[01:37:07] [main/INFO]: Found new data pack mr_dungeons_andtaverns, loading it automatically
-[01:37:07] [main/INFO]: Found new data pack t_and_t, loading it automatically
-[01:37:07] [main/INFO]: Found new data pack terralith, loading it automatically
-[01:37:09] [main/INFO]: No existing world data, creating new world
-[01:37:11] [main/INFO]: Loaded 1365 recipes
-[01:37:12] [main/ERROR]: Couldn't load advancements: [minecraft:wander_add_map, minecraft:give_quest_trader_trade]
-[01:37:12] [main/INFO]: Loaded 1515 advancements
-[01:37:13] [main/INFO]: Applied 314 biome modifications to 157 of 158 new biomes in 46.15 ms
-[01:37:13] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[01:37:13] [Server thread/INFO]: Loading properties
-[01:37:13] [Server thread/INFO]: Default game type: SURVIVAL
-[01:37:13] [Server thread/INFO]: Generating keypair
-[01:37:13] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:37:13] [Server thread/INFO]: Using epoll channel type
-[01:37:13] [Server thread/INFO]: Preparing level "world"
-[01:37:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:37:41] [Worker-Main-7/INFO]: Preparing spawn area: 2%
-[01:37:41] [Worker-Main-7/INFO]: Preparing spawn area: 2%
-[01:37:41] [Worker-Main-7/INFO]: Preparing spawn area: 2%
-[01:37:41] [Worker-Main-7/INFO]: Preparing spawn area: 2%
-[01:37:41] [Worker-Main-7/INFO]: Preparing spawn area: 2%
-[01:37:41] [Worker-Main-7/INFO]: Preparing spawn area: 2%
-[01:37:41] [Worker-Main-7/INFO]: Preparing spawn area: 2%
-[01:37:41] [Worker-Main-7/INFO]: Preparing spawn area: 2%
-[01:37:41] [Worker-Main-7/INFO]: Preparing spawn area: 2%
-[01:37:41] [Worker-Main-7/INFO]: Preparing spawn area: 2%
-[01:37:42] [Worker-Main-7/INFO]: Preparing spawn area: 2%
-[01:37:43] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[01:37:43] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[01:37:43] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[01:37:44] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[01:37:44] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[01:37:45] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[01:37:45] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[01:37:46] [Worker-Main-7/INFO]: Preparing spawn area: 2%
-[01:37:46] [Worker-Main-5/INFO]: Preparing spawn area: 2%
-[01:37:47] [Worker-Main-4/INFO]: Preparing spawn area: 2%
-[01:37:47] [Worker-Main-4/INFO]: Preparing spawn area: 18%
-[01:37:48] [Worker-Main-2/INFO]: Preparing spawn area: 18%
-[01:37:48] [Worker-Main-5/INFO]: Preparing spawn area: 18%
-[01:37:49] [Worker-Main-5/INFO]: Preparing spawn area: 18%
-[01:37:49] [Worker-Main-4/INFO]: Preparing spawn area: 18%
-[01:37:50] [Worker-Main-7/INFO]: Preparing spawn area: 18%
-[01:37:50] [Worker-Main-2/INFO]: Preparing spawn area: 18%
-[01:37:51] [Worker-Main-4/INFO]: Preparing spawn area: 18%
-[01:37:51] [Worker-Main-5/INFO]: Preparing spawn area: 18%
-[01:37:52] [Worker-Main-6/INFO]: Preparing spawn area: 51%
-[01:37:52] [Worker-Main-7/INFO]: Preparing spawn area: 51%
-[01:37:53] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[01:37:53] [Worker-Main-3/INFO]: Preparing spawn area: 51%
-[01:37:54] [Worker-Main-7/INFO]: Preparing spawn area: 51%
-[01:37:54] [Worker-Main-1/INFO]: Preparing spawn area: 51%
-[01:37:55] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[01:37:55] [Worker-Main-3/INFO]: Preparing spawn area: 51%
-[01:37:56] [Worker-Main-1/INFO]: Preparing spawn area: 51%
-[01:37:56] [Worker-Main-7/INFO]: Preparing spawn area: 51%
-[01:37:57] [Worker-Main-2/INFO]: Preparing spawn area: 53%
-[01:37:57] [Server thread/INFO]: Time elapsed: 20184 ms
-[01:37:57] [Server thread/INFO]: Done (43.880s)! For help, type "help"
-[01:37:57] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[01:37:57] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
-[01:38:09] [Server thread/INFO]: Stopping the server
-[01:38:09] [Server thread/INFO]: Stopping server
-[01:38:09] [Server thread/INFO]: Saving players
-[01:38:09] [Server thread/INFO]: Saving worlds
-[01:38:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:38:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:38:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:38:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:38:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:38:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:38:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:50:20] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/home/user/Minecraft/libraries/net/fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/sponge-mixin-0.15.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[01:50:21] [main/INFO]: Compatibility level set to JAVA_21
+[01:50:21] [main/INFO]: Loaded configuration file for Lithium: 144 options available, 0 override(s) found
+[01:50:22] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[01:50:39] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[01:50:39] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[01:50:39] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:50:39] [main/INFO]: Ignoring Patch{ModCore: bclib (bclib):3.0.11:196619}
+[01:50:39] [main/INFO]: Running Pre Patchers on ./world/.
+[01:50:39] [main/INFO]: Everything up to date
+[01:50:40] [main/INFO]: Processing wover.datapack.registry Entrypoints
+[01:50:40] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.BiomeDatapackRegistryEntrypoint
+[01:50:40] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.FeatureDatapackRegistryEntrypoint
+[01:50:40] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.ItemDatapackRegistryEntrypoint
+[01:50:40] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.StructureDatapackRegistryEntrypoint
+[01:50:40] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.SurfaceDatapackRegistryEntrypoint
+[01:50:41] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (400309be)
+[01:50:41] [main/INFO]: Unable to build Biome List yet
+[01:50:41] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[01:50:41] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (b3a3fc1)
+[01:50:41] [main/INFO]: Unable to build Biome List yet
+[01:50:41] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[01:50:41] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (41c733a6)
+[01:50:41] [main/INFO]: Unable to build Biome List yet
+[01:50:41] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[01:50:41] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (1afede3b)
+[01:50:41] [main/INFO]: Unable to build Biome List yet
+[01:50:41] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[01:50:41] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (3f8bac42)
+[01:50:41] [main/INFO]: Unable to build Biome List yet
+[01:50:41] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[01:50:41] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (55168b9a)
+[01:50:41] [main/INFO]: Unable to build Biome List yet
+[01:50:41] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[01:50:42] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (2c339bd9)
+[01:50:42] [main/INFO]: Unable to build Biome List yet
+[01:50:42] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[01:50:42] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (7aafef4a)
+[01:50:42] [main/INFO]: Unable to build Biome List yet
+[01:50:42] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[01:50:44] [Worker-Main-4/ERROR]: Couldn't load tag wover:vegetation/plant as it is missing following references: #wover:vegetation/vine (from wover-tag)
+[01:50:44] [main/INFO]: Disabling Recipe: bclib:test_star
+[01:50:44] [main/INFO]: Loaded 1365 recipes
+[01:50:44] [main/INFO]: Added 0 recipes in 5ms
+[01:50:45] [main/ERROR]: Couldn't load advancements: [minecraft:wander_add_map, minecraft:give_quest_trader_trade]
+[01:50:45] [main/INFO]: Loaded 1515 advancements
+[01:50:45] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (788dd40c)
+[01:50:45] [main/INFO]: Added 2 Biomes
+[01:50:45] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
+[01:50:45] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
+[01:50:45] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
+[01:50:45] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[01:50:45] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (53a1cb2a)
+[01:50:45] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[01:50:45] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (53a1cb2a)
+[01:50:45] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (7aafef4a)
+[01:50:45] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (7aafef4a)
+[01:50:45] [main/INFO]: Added 4 biomes to wover:is_end/highland in 7.106 ms
+[01:50:45] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (788dd40c)
+[01:50:45] [main/INFO]: Added 2 Biomes
+[01:50:45] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
+[01:50:45] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
+[01:50:45] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
+[01:50:45] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (2c339bd9)
+[01:50:45] [main/INFO]: Added 2 Biomes
+[01:50:45] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
+[01:50:45] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
+[01:50:45] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
+[01:50:45] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (2c339bd9)
+[01:50:45] [main/INFO]: Added 2 Biomes
+[01:50:45] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
+[01:50:45] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
+[01:50:45] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
+[01:50:46] [main/INFO]: Applied 0 biome modifications and added 0 tags to 0 of 158 biomes in 6.637 ms
+[01:50:46] [main/INFO]: Applied 314 biome modifications to 157 of 158 new biomes in 50.79 ms
+[01:50:46] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[01:50:46] [Server thread/INFO]: Loading properties
+[01:50:46] [Server thread/INFO]: Default game type: SURVIVAL
+[01:50:46] [Server thread/INFO]: Generating keypair
+[01:50:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:50:46] [Server thread/INFO]: Using epoll channel type
+[01:50:46] [Server thread/INFO]: Preparing level "world"
+[01:50:46] [Server thread/INFO]: World Dimensions: 
+ - minecraft:the_nether: 
+     WoVer - Chunk Generator (8827471)
+         preset     = wover:normal
+         noise      = minecraft:nether
+         features   = minecraft(37), immersiveores(2)
+     WoVer - Nether BiomeSource (7aafef4a)
+         biomes     = 5
+         namespaces = minecraft(5)
+         seed       = 8534043592492726432
+         height     = 128
+         config     = NetherConfig{mapVersion=hex, useVerticalBiomes=true, biomeSize=16, biomeSizeVertical=5}
+ - minecraft:the_end: 
+     WoVer - Chunk Generator (4993a0d2)
+         preset     = wover:normal
+         noise      = minecraft:end
+         features   = minecraft(5), immersiveores(2)
+     WoVer - The End  BiomeSource (2c339bd9)
+         biomes     = 5
+         namespaces = minecraft(5)
+         seed       = 8534043592492726432
+         height     = 128
+         deciders   = 0
+         config     = EndConfig{mapVersion=hex, generatorVersion=vanilla, withVoidBiomes=true, innerVoidRadius=1024, voidBiomesSize=16, centerBiomesSize=16, landBiomesSize=16, barrensBiomesSize=16}
+ - minecraft:overworld: 
+     class_3754 (6eca622e)
+         preset     = minecraft:normal
+         noise      = minecraft:overworld
+         features   = terralith(384), minecraft(153), immersiveores(2)
+     class_4766 (2baa8d8e)
+         biomes     = 147
+         namespaces = minecraft(53), terralith(94)
+[01:50:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:50:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:50:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:50:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:50:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:50:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:50:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:50:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:50:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:50:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:50:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:50:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:50:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:50:55] [Server thread/INFO]: Time elapsed: 5773 ms
+[01:50:55] [Server thread/INFO]: Done (9.090s)! For help, type "help"
+[01:50:55] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[01:50:55] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[01:50:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:50:55] [Server thread/INFO]: <--[HERE]
+[01:51:08] [Server thread/INFO]: Stopping the server
+[01:51:08] [Server thread/INFO]: Stopping server
+[01:51:08] [Server thread/INFO]: Saving players
+[01:51:08] [Server thread/INFO]: Saving worlds
+[01:51:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:51:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:51:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:51:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:51:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:51:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:51:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
