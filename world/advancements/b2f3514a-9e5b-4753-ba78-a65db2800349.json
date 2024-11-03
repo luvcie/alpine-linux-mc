@@ -5,17 +5,17 @@
     },
     "done": true
   },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2024-11-03 00:53:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:plains": "2024-11-03 00:52:20 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-11-03 00:53:34 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3955
 }
