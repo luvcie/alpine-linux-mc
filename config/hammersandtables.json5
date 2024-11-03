@@ -1,0 +1,21 @@
+{
+	// Play smithing sounds when crafting items that require smithing table [Restart Required]
+	"isSmithingSoundWhenCraftingEnabled": true,
+	// Play extinguish sound when smelting [Restart Required]
+	"isSmeltingSoundWhenCraftingEnabled": true,
+	// Copper items cannot be crafted if you don't stand near Copper Smithing Table (or better smithing table)
+	"isCopperRecipeBlocked": true,
+	// Iron items cannot be crafted if you don't stand near Iron Smithing Table (or better smithing table)
+	"isIronRecipeBlocked": true,
+	// Golden items cannot be crafted if you don't stand near Golden Smithing Table (or better smithing table)
+	"isGoldRecipeBlocked": true,
+	// Diamond items cannot be crafted if you don't stand near Diamond Smithing Table
+	"isDiamondRecipeBlocked": true,
+	// Vanilla golden items cannot be crafted if you don't stand near Piglins Forge
+	"isVanillaGoldenRecipeBlocked": true,
+	"modifyTradeOffersForArmorer": true,
+	"modifyTradeOffersForToolsmith": true,
+	"modifyTradeOffersForWeaponsmith": true,
+	// Modify trade offers for Librarian (Librarian won't sell enchanted book on first level) [Restart required]
+	"modifyTradeOffersForLibrarian": false
+}

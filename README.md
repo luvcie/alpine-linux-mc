@@ -109,4 +109,7 @@ https://cdn.modrinth.com/data/D5h9NKNI/versions/cAWHE1fJ/lavender-0.1.14%2B1.21.
 https://cdn.modrinth.com/data/Y8TA5POy/versions/VIgWKL0Z/affinity-0.1.5%2B1.21.jar
 https://cdn.modrinth.com/data/K01OU20C/versions/tVPYyTPV/cardinal-components-api-6.1.1.jar
 https://cdn.modrinth.com/data/kkmrDlKT/versions/yHeHBZPt/TerraBlender-fabric-1.21.1-4.1.0.5.jar
+https://cdn.modrinth.com/data/qesipW4q/versions/omicA8kL/hammersandtables-6.0.6%2B1.21.jar
+https://cdn.modrinth.com/data/pOOlZva0/versions/Sp9Fenwu/crafting-manipulator-5.2.0%2B1.21.jar
+https://cdn.modrinth.com/data/xDwJf4pi/versions/UXvJZh70/everlastingabilities-1.21.1-fabric-2.3.0-224.jar
 ```

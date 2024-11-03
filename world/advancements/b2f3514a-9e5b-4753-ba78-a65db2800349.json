@@ -125,15 +125,21 @@
     },
     "done": true
   },
+  "affinity:big_girl_decisions": {
+    "criteria": {
+      "staff": "2024-11-03 23:11:10 +0000"
+    },
+    "done": true
+  },
   "affinity:root": {
     "criteria": {
       "tick": "2024-11-03 23:11:11 +0000"
     },
     "done": true
   },
-  "affinity:big_girl_decisions": {
+  "hammersandtables:recipes/combat/stone_hammer": {
     "criteria": {
-      "staff": "2024-11-03 23:11:10 +0000"
+      "has_iron_ingot": "2024-11-03 23:22:48 +0000"
     },
     "done": true
   },
