@@ -1,5 +1,5 @@
 fabric 0.16.7 - 1.21.1
-
+---
 [Prism Launcher](https://prismlauncher.org/) is recommended for the best experience.
 
 ## Installing Mods
@@ -12,7 +12,7 @@ fabric 0.16.7 - 1.21.1
 ```sh
 wget -i list.txt
 ```
-
+## list.txt
 ```sh
 https://cdn.modrinth.com/data/NcUtCpym/versions/373K4YJh/XaerosWorldMap_1.39.0_Fabric_1.21.jar
 https://cdn.modrinth.com/data/1bokaNcj/versions/C6gFqr7V/Xaeros_Minimap_24.6.1_Fabric_1.21.jar
