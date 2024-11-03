@@ -1715,6 +1715,12 @@
     },
     "done": true
   },
+  "timo:tab_timo/legacy/c0.0.27st": {
+    "criteria": {
+      "requirement": "2024-11-03 21:22:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-11-03 21:22:22 +0000"
@@ -1724,12 +1730,6 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2024-11-03 21:22:22 +0000"
-    },
-    "done": true
-  },
-  "timo:tab_timo/legacy/c0.0.27st": {
-    "criteria": {
-      "requirement": "2024-11-03 21:22:19 +0000"
     },
     "done": true
   },

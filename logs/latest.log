@@ -1,5 +1,5 @@
-[21:17:54] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.7
-[21:17:54] [main/INFO]: Loading 153 mods:
+[21:27:12] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.7
+[21:27:13] [main/INFO]: Loading 154 mods:
 	- additionalstructures 5.0.1-fabric
 	- appleskin 3.0.6+mc1.21
 	- archers 2.1.1+1.21.1
@@ -23,6 +23,7 @@
 	- craftingtweaks 21.1.3
 	- cristellib 1.2.8
 	   \-- blue_endless_jankson 1.2.3
+	- cyclopscore 1.25.2
 	- doubledoors 5.9
 	- dragonscale 0.0.2-1.21.1
 	- dragonsteel 0.0.3-1.21.1
@@ -185,149 +186,143 @@
 	   |-- com_twelvemonkeys_imageio_imageio-webp 3.10.0
 	   |-- org_quiltmc_parsers_gson 0.2.1
 	   \-- org_quiltmc_parsers_json 0.2.1
-[21:17:54] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/home/user/Minecraft/libraries/net/fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/sponge-mixin-0.15.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[21:17:55] [main/INFO]: Compatibility level set to JAVA_21
-[21:17:55] [main/WARN]: Reference map 'craftingtweaks.refmap.json' for craftingtweaks.mixins.json could not be read. If this is a development environment you can ignore this message
-[21:17:55] [main/WARN]: Reference map 'craftingtweaks.refmap.json' for craftingtweaks.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[21:17:55] [main/INFO]: Loaded configuration file for Lithium: 144 options available, 0 override(s) found
-[21:17:56] [main/WARN]: Error loading class: net/coderbot/iris/Iris (java.lang.ClassNotFoundException: net/coderbot/iris/Iris)
-[21:17:56] [main/WARN]: @Mixin target net.coderbot.iris.Iris was not found notenoughcrashes.fabric.mixins.json:iris.SilentNEC from mod notenoughcrashes
-[21:17:57] [main/WARN]: Error loading class: net/minecraft/class_442 (java.lang.ClassNotFoundException: net/minecraft/class_442)
-[21:17:57] [main/WARN]: @Mixin target net.minecraft.class_442 was not found taacmod.mixins.json:ExampleMixin from mod taacmod
-[21:17:57] [main/WARN]: Error loading class: net/minecraft/class_442 (java.lang.ClassNotFoundException: net/minecraft/class_442)
-[21:17:57] [main/WARN]: @Mixin target net.minecraft.class_442 was not found tatimod.mixins.json:ExampleMixin from mod tatimod
-[21:17:57] [main/WARN]: Error loading class: net/minecraft/class_442 (java.lang.ClassNotFoundException: net/minecraft/class_442)
-[21:17:57] [main/WARN]: @Mixin target net.minecraft.class_442 was not found tctimod.mixins.json:ExampleMixin from mod tctimod
-[21:17:57] [main/WARN]: Error loading class: net/minecraft/class_442 (java.lang.ClassNotFoundException: net/minecraft/class_442)
-[21:17:57] [main/WARN]: @Mixin target net.minecraft.class_442 was not found tdacmod.mixins.json:ExampleMixin from mod tdacmod
-[21:17:57] [main/WARN]: Error loading class: net/minecraft/class_442 (java.lang.ClassNotFoundException: net/minecraft/class_442)
-[21:17:57] [main/WARN]: @Mixin target net.minecraft.class_442 was not found tsapmod.mixins.json:ExampleMixin from mod tsapmod
-[21:17:57] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[21:18:32] [main/INFO]: =^..^=    BetterNether for 1.21    =^..^=
-[21:18:33] [main/INFO]: Loading Collective version 7.87.
-[21:18:33] [main/INFO]: Registering Item Groups for fpapmod
-[21:18:33] [main/INFO]: [STDERR]: Failed to resolve EntityAttribute with id: combat_roll:recharge
-[21:18:33] [main/INFO]: [STDERR]: Failed to resolve EntityAttribute with id: combat_roll:count
-[21:18:33] [main/INFO]: [STDERR]: Failed to resolve EntityAttribute with id: combat_roll:recharge
-[21:18:33] [main/INFO]: [STDERR]: Failed to resolve EntityAttribute with id: combat_roll:count
-[21:18:33] [main/INFO]: Compression will use libdeflate (Linux aarch64), encryption will use OpenSSL (Linux aarch64)
-[21:18:33] [main/INFO]: Shield API initialized!
-[21:18:34] [main/INFO]: Registered action: Actions$$Lambda/0x000000c001eb3618
-[21:18:34] [main/INFO]: Registered action: Actions$$Lambda/0x000000c001eb31d0
-[21:18:34] [main/INFO]: Registered action: Actions$$Lambda/0x000000c001eb3a60
-[21:18:34] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
-[21:18:34] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[21:18:34] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
-[21:18:34] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:18:35] [main/INFO]: Ignoring Patch{ModCore: bclib (bclib):3.0.11:196619}
-[21:18:35] [main/INFO]: Ignoring Patch{ModCore: betternether (betternether):5.3.5:328453}
-[21:18:35] [main/INFO]: Ignoring Patch{ModCore: betternether (betternether):8.2.2:524802}
-[21:18:35] [main/INFO]: Ignoring Patch{ModCore: betternether (betternether):9.0.1:589825}
-[21:18:35] [main/INFO]: Running Pre Patchers on ./world/.
-[21:18:35] [main/INFO]: Everything up to date
-[21:18:35] [main/INFO]: Found new data pack battlemages, loading it automatically
-[21:18:35] [main/INFO]: Found new data pack blood_mages, loading it automatically
-[21:18:35] [main/INFO]: Found new data pack druid, loading it automatically
-[21:18:35] [main/INFO]: Found new data pack elemental_metals, loading it automatically
-[21:18:35] [main/INFO]: Found new data pack fallenwizardsmod, loading it automatically
-[21:18:35] [main/INFO]: Found new data pack fpapmod, loading it automatically
-[21:18:35] [main/INFO]: Found new data pack morewizardsmod, loading it automatically
-[21:18:35] [main/INFO]: Processing wover.datapack.registry Entrypoints
-[21:18:35] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.BiomeDatapackRegistryEntrypoint
-[21:18:35] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.FeatureDatapackRegistryEntrypoint
-[21:18:35] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.ItemDatapackRegistryEntrypoint
-[21:18:35] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.StructureDatapackRegistryEntrypoint
-[21:18:35] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.SurfaceDatapackRegistryEntrypoint
-[21:18:37] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (536df66a)
-[21:18:37] [main/INFO]: Unable to build Biome List yet
-[21:18:37] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
-[21:18:37] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (34bf9fcb)
-[21:18:37] [main/INFO]: Unable to build Biome List yet
-[21:18:37] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[21:18:37] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (12f1448e)
-[21:18:37] [main/INFO]: Unable to build Biome List yet
-[21:18:37] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
-[21:18:37] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (7897d4b7)
-[21:18:37] [main/INFO]: Unable to build Biome List yet
-[21:18:37] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[21:18:37] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (68731c17)
-[21:18:37] [main/INFO]: Unable to build Biome List yet
-[21:18:37] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
-[21:18:37] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (5f789be7)
-[21:18:37] [main/INFO]: Unable to build Biome List yet
-[21:18:37] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[21:18:37] [main/INFO]: Adding End Highland Biome to Fabric: betterend:amber_land
-[21:18:37] [main/INFO]: Adding End Highland Biome to Fabric: betterend:amber_land
-[21:18:37] [main/INFO]: Adding End Highland Biome to Fabric: betterend:blossoming_spires
-[21:18:37] [main/INFO]: Adding End Highland Biome to Fabric: betterend:blossoming_spires
-[21:18:37] [main/INFO]: Adding Nether Biome to Fabric: betternether:bone_reef (class_4762[temperature=-100, humidity=-500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[21:18:37] [main/INFO]: Adding End Highland Biome to Fabric: betterend:chorus_forest
-[21:18:37] [main/INFO]: Adding Nether Biome to Fabric: betternether:crimson_glowing_woods (class_4762[temperature=4000, humidity=-500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[21:18:37] [main/INFO]: Adding Nether Biome to Fabric: betternether:crimson_pinewood (class_4762[temperature=3500, humidity=1000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[21:18:37] [main/INFO]: Adding End Highland Biome to Fabric: betterend:crystal_mountains
-[21:18:37] [main/INFO]: Adding End Highland Biome to Fabric: betterend:crystal_mountains
-[21:18:37] [main/INFO]: Adding End Highland Biome to Fabric: betterend:dragon_graveyards
-[21:18:37] [main/INFO]: Adding End Highland Biome to Fabric: betterend:dragon_graveyards
-[21:18:37] [main/INFO]: Adding End Highland Biome to Fabric: betterend:dry_shrubland
-[21:18:37] [main/INFO]: Adding End Highland Biome to Fabric: betterend:dry_shrubland
-[21:18:37] [main/INFO]: Adding End Highland Biome to Fabric: betterend:dust_wastelands
-[21:18:37] [main/INFO]: Adding Nether Biome to Fabric: betternether:flooded_deltas (class_4762[temperature=-3000, humidity=-100, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1750])
-[21:18:37] [main/INFO]: Adding End Highland Biome to Fabric: betterend:foggy_mushroomland
-[21:18:37] [main/INFO]: Adding End Highland Biome to Fabric: betterend:foggy_mushroomland
-[21:18:37] [main/INFO]: Adding End Highland Biome to Fabric: betterend:glowing_grasslands
-[21:18:37] [main/INFO]: Adding End Highland Biome to Fabric: betterend:glowing_grasslands
-[21:18:37] [main/INFO]: Adding Nether Biome to Fabric: betternether:gravel_desert (class_4762[temperature=-1000, humidity=1000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=2000])
-[21:18:37] [main/INFO]: Adding Small End Island Biome to Fabric: betterend:ice_starfield
-[21:18:37] [main/INFO]: Adding End Highland Biome to Fabric: betterend:lantern_woods
-[21:18:37] [main/INFO]: Adding End Highland Biome to Fabric: betterend:lantern_woods
-[21:18:37] [main/INFO]: Adding Nether Biome to Fabric: betternether:magma_land (class_4762[temperature=8000, humidity=-7000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[21:18:37] [main/INFO]: Adding End Highland Biome to Fabric: betterend:megalake
-[21:18:37] [main/INFO]: Adding End Highland Biome to Fabric: betterend:megalake
-[21:18:37] [main/INFO]: Adding End Highland Biome to Fabric: betterend:megalake_grove
-[21:18:37] [main/INFO]: Adding End Highland Biome to Fabric: betterend:megalake_grove
-[21:18:37] [main/INFO]: Adding End Highland Biome to Fabric: betterend:neon_oasis
-[21:18:37] [main/INFO]: Adding End Highland Biome to Fabric: betterend:neon_oasis
-[21:18:37] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_grasslands (class_4762[temperature=0, humidity=7000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[21:18:37] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_jungle (class_4762[temperature=5000, humidity=8000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[21:18:37] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_mushroom_forest (class_4762[temperature=0, humidity=7000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[21:18:37] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_mushroom_forest_edge (class_4762[temperature=0, humidity=7000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1000])
-[21:18:37] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_swampland (class_4762[temperature=1000, humidity=8000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1000])
-[21:18:37] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_swampland_terraces (class_4762[temperature=800, humidity=8500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1000])
-[21:18:37] [main/INFO]: Adding Nether Biome to Fabric: betternether:old_fungiwoods (class_4762[temperature=0, humidity=6500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[21:18:37] [main/INFO]: Adding Nether Biome to Fabric: betternether:old_swampland (class_4762[temperature=1000, humidity=7500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1000])
-[21:18:37] [main/INFO]: Adding Nether Biome to Fabric: betternether:old_warped_woods (class_4762[temperature=0, humidity=5500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=3750])
-[21:18:37] [main/INFO]: Adding End Highland Biome to Fabric: betterend:painted_mountains
-[21:18:37] [main/INFO]: Adding End Highland Biome to Fabric: betterend:painted_mountains
-[21:18:37] [main/INFO]: Adding Nether Biome to Fabric: betternether:poor_nether_grasslands (class_4762[temperature=0, humidity=3000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[21:18:37] [main/INFO]: Adding End Highland Biome to Fabric: betterend:shadow_forest
-[21:18:37] [main/INFO]: Adding End Highland Biome to Fabric: betterend:shadow_forest
-[21:18:37] [main/INFO]: Adding Nether Biome to Fabric: betternether:soul_plain (class_4762[temperature=100, humidity=-5000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[21:18:37] [main/INFO]: Adding Nether Biome to Fabric: betternether:sulfuric_bone_reef (class_4762[temperature=0, humidity=6000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=3700])
-[21:18:37] [main/INFO]: Adding End Highland Biome to Fabric: betterend:sulphur_springs
-[21:18:37] [main/INFO]: Adding End Highland Biome to Fabric: betterend:sulphur_springs
-[21:18:37] [main/INFO]: Adding End Highland Biome to Fabric: betterend:umbra_valley
-[21:18:37] [main/INFO]: Adding End Highland Biome to Fabric: betterend:umbra_valley
-[21:18:37] [main/INFO]: Adding End Highland Biome to Fabric: betterend:umbrella_jungle
-[21:18:37] [main/INFO]: Adding End Highland Biome to Fabric: betterend:umbrella_jungle
-[21:18:37] [main/INFO]: Adding Nether Biome to Fabric: betternether:upside_down_forest (class_4762[temperature=4500, humidity=8000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1250])
-[21:18:37] [main/INFO]: Adding Nether Biome to Fabric: betternether:upside_down_forest_cleared (class_4762[temperature=4500, humidity=3000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1250])
-[21:18:37] [main/INFO]: Adding Nether Biome to Fabric: betternether:wart_forest (class_4762[temperature=-5000, humidity=5000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[21:18:37] [main/INFO]: Adding Nether Biome to Fabric: betternether:wart_forest_edge (class_4762[temperature=-5000, humidity=4500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[21:18:38] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (460f03ae)
-[21:18:38] [main/INFO]: Unable to build Biome List yet
-[21:18:38] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
-[21:18:38] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (40118d8b)
-[21:18:38] [main/INFO]: Unable to build Biome List yet
-[21:18:38] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[21:18:38] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/minecraft:entities/ender_dragon - Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: minecraft:elyta
-[21:18:39] [Worker-Main-3/ERROR]: Unable to building bartering table
-[21:18:39] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:entities/husk}.pools[2].entries[0]: Unknown loot table called husks_drop_sand:entities/husk
-[21:18:39] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:entities/villager}.pools[2].entries[0]: Unknown loot table called villager_death:entities/villager
-[21:18:39] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:entities/bat}.pools[2].entries[0]: Unknown loot table called bat_membranes:entities/bat
-[21:18:39] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:entities/player}.pools[1].entries[0]: Unknown loot table called graves:entities/player
-[21:18:39] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:entities/shulker}.pools[2].entries[0]: Unknown loot table called double_shulker_shells:entities/shulker
-[21:18:40] [main/INFO]: Disabling Recipe: bclib:test_star
-[21:18:40] [main/ERROR]: Parsing error loading recipe dragonsteel:star_alloy_block_to_ingot
+[21:27:13] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/home/user/Minecraft/libraries/net/fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/sponge-mixin-0.15.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[21:27:13] [main/INFO]: Compatibility level set to JAVA_21
+[21:27:14] [main/WARN]: Reference map 'craftingtweaks.refmap.json' for craftingtweaks.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:27:14] [main/WARN]: Reference map 'craftingtweaks.refmap.json' for craftingtweaks.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:27:14] [main/INFO]: Loaded configuration file for Lithium: 144 options available, 0 override(s) found
+[21:27:15] [main/WARN]: Error loading class: net/coderbot/iris/Iris (java.lang.ClassNotFoundException: net/coderbot/iris/Iris)
+[21:27:15] [main/WARN]: @Mixin target net.coderbot.iris.Iris was not found notenoughcrashes.fabric.mixins.json:iris.SilentNEC from mod notenoughcrashes
+[21:27:15] [main/WARN]: Error loading class: net/minecraft/class_442 (java.lang.ClassNotFoundException: net/minecraft/class_442)
+[21:27:15] [main/WARN]: @Mixin target net.minecraft.class_442 was not found taacmod.mixins.json:ExampleMixin from mod taacmod
+[21:27:15] [main/WARN]: Error loading class: net/minecraft/class_442 (java.lang.ClassNotFoundException: net/minecraft/class_442)
+[21:27:15] [main/WARN]: @Mixin target net.minecraft.class_442 was not found tatimod.mixins.json:ExampleMixin from mod tatimod
+[21:27:15] [main/WARN]: Error loading class: net/minecraft/class_442 (java.lang.ClassNotFoundException: net/minecraft/class_442)
+[21:27:15] [main/WARN]: @Mixin target net.minecraft.class_442 was not found tctimod.mixins.json:ExampleMixin from mod tctimod
+[21:27:15] [main/WARN]: Error loading class: net/minecraft/class_442 (java.lang.ClassNotFoundException: net/minecraft/class_442)
+[21:27:15] [main/WARN]: @Mixin target net.minecraft.class_442 was not found tdacmod.mixins.json:ExampleMixin from mod tdacmod
+[21:27:15] [main/WARN]: Error loading class: net/minecraft/class_442 (java.lang.ClassNotFoundException: net/minecraft/class_442)
+[21:27:15] [main/WARN]: @Mixin target net.minecraft.class_442 was not found tsapmod.mixins.json:ExampleMixin from mod tsapmod
+[21:27:15] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[21:27:49] [main/INFO]: =^..^=    BetterNether for 1.21    =^..^=
+[21:27:50] [main/INFO]: Loading Collective version 7.87.
+[21:27:50] [main/INFO]: Registering Item Groups for fpapmod
+[21:27:50] [main/INFO]: [STDERR]: Failed to resolve EntityAttribute with id: combat_roll:recharge
+[21:27:50] [main/INFO]: [STDERR]: Failed to resolve EntityAttribute with id: combat_roll:count
+[21:27:50] [main/INFO]: [STDERR]: Failed to resolve EntityAttribute with id: combat_roll:recharge
+[21:27:50] [main/INFO]: [STDERR]: Failed to resolve EntityAttribute with id: combat_roll:count
+[21:27:50] [main/INFO]: Compression will use libdeflate (Linux aarch64), encryption will use OpenSSL (Linux aarch64)
+[21:27:50] [main/INFO]: Shield API initialized!
+[21:27:51] [main/INFO]: Registered action: Actions$$Lambda/0x0000005001f83c70
+[21:27:51] [main/INFO]: Registered action: Actions$$Lambda/0x0000005001f83828
+[21:27:51] [main/INFO]: Registered action: Actions$$Lambda/0x0000005001f833e0
+[21:27:51] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
+[21:27:51] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[21:27:51] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[21:27:52] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:27:52] [main/INFO]: Ignoring Patch{ModCore: bclib (bclib):3.0.11:196619}
+[21:27:52] [main/INFO]: Ignoring Patch{ModCore: betternether (betternether):5.3.5:328453}
+[21:27:52] [main/INFO]: Ignoring Patch{ModCore: betternether (betternether):8.2.2:524802}
+[21:27:52] [main/INFO]: Ignoring Patch{ModCore: betternether (betternether):9.0.1:589825}
+[21:27:52] [main/INFO]: Running Pre Patchers on ./world/.
+[21:27:52] [main/INFO]: Everything up to date
+[21:27:52] [main/INFO]: Found new data pack cyclopscore, loading it automatically
+[21:27:52] [main/INFO]: Processing wover.datapack.registry Entrypoints
+[21:27:52] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.BiomeDatapackRegistryEntrypoint
+[21:27:52] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.FeatureDatapackRegistryEntrypoint
+[21:27:52] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.ItemDatapackRegistryEntrypoint
+[21:27:52] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.StructureDatapackRegistryEntrypoint
+[21:27:52] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.SurfaceDatapackRegistryEntrypoint
+[21:27:54] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (35d406be)
+[21:27:54] [main/INFO]: Unable to build Biome List yet
+[21:27:54] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[21:27:54] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (c6dd089)
+[21:27:54] [main/INFO]: Unable to build Biome List yet
+[21:27:54] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[21:27:54] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (1d7885b3)
+[21:27:54] [main/INFO]: Unable to build Biome List yet
+[21:27:54] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[21:27:54] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (3fb47913)
+[21:27:54] [main/INFO]: Unable to build Biome List yet
+[21:27:54] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[21:27:54] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (67ee67e5)
+[21:27:54] [main/INFO]: Unable to build Biome List yet
+[21:27:54] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[21:27:54] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (565322b9)
+[21:27:54] [main/INFO]: Unable to build Biome List yet
+[21:27:54] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[21:27:54] [main/INFO]: Adding End Highland Biome to Fabric: betterend:amber_land
+[21:27:54] [main/INFO]: Adding End Highland Biome to Fabric: betterend:amber_land
+[21:27:54] [main/INFO]: Adding End Highland Biome to Fabric: betterend:blossoming_spires
+[21:27:54] [main/INFO]: Adding End Highland Biome to Fabric: betterend:blossoming_spires
+[21:27:54] [main/INFO]: Adding Nether Biome to Fabric: betternether:bone_reef (class_4762[temperature=-100, humidity=-500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[21:27:54] [main/INFO]: Adding End Highland Biome to Fabric: betterend:chorus_forest
+[21:27:54] [main/INFO]: Adding Nether Biome to Fabric: betternether:crimson_glowing_woods (class_4762[temperature=4000, humidity=-500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[21:27:54] [main/INFO]: Adding Nether Biome to Fabric: betternether:crimson_pinewood (class_4762[temperature=3500, humidity=1000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[21:27:54] [main/INFO]: Adding End Highland Biome to Fabric: betterend:crystal_mountains
+[21:27:54] [main/INFO]: Adding End Highland Biome to Fabric: betterend:crystal_mountains
+[21:27:54] [main/INFO]: Adding End Highland Biome to Fabric: betterend:dragon_graveyards
+[21:27:54] [main/INFO]: Adding End Highland Biome to Fabric: betterend:dragon_graveyards
+[21:27:54] [main/INFO]: Adding End Highland Biome to Fabric: betterend:dry_shrubland
+[21:27:54] [main/INFO]: Adding End Highland Biome to Fabric: betterend:dry_shrubland
+[21:27:54] [main/INFO]: Adding End Highland Biome to Fabric: betterend:dust_wastelands
+[21:27:54] [main/INFO]: Adding Nether Biome to Fabric: betternether:flooded_deltas (class_4762[temperature=-3000, humidity=-100, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1750])
+[21:27:54] [main/INFO]: Adding End Highland Biome to Fabric: betterend:foggy_mushroomland
+[21:27:54] [main/INFO]: Adding End Highland Biome to Fabric: betterend:foggy_mushroomland
+[21:27:54] [main/INFO]: Adding End Highland Biome to Fabric: betterend:glowing_grasslands
+[21:27:54] [main/INFO]: Adding End Highland Biome to Fabric: betterend:glowing_grasslands
+[21:27:54] [main/INFO]: Adding Nether Biome to Fabric: betternether:gravel_desert (class_4762[temperature=-1000, humidity=1000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=2000])
+[21:27:54] [main/INFO]: Adding Small End Island Biome to Fabric: betterend:ice_starfield
+[21:27:54] [main/INFO]: Adding End Highland Biome to Fabric: betterend:lantern_woods
+[21:27:54] [main/INFO]: Adding End Highland Biome to Fabric: betterend:lantern_woods
+[21:27:54] [main/INFO]: Adding Nether Biome to Fabric: betternether:magma_land (class_4762[temperature=8000, humidity=-7000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[21:27:54] [main/INFO]: Adding End Highland Biome to Fabric: betterend:megalake
+[21:27:54] [main/INFO]: Adding End Highland Biome to Fabric: betterend:megalake
+[21:27:54] [main/INFO]: Adding End Highland Biome to Fabric: betterend:megalake_grove
+[21:27:54] [main/INFO]: Adding End Highland Biome to Fabric: betterend:megalake_grove
+[21:27:54] [main/INFO]: Adding End Highland Biome to Fabric: betterend:neon_oasis
+[21:27:54] [main/INFO]: Adding End Highland Biome to Fabric: betterend:neon_oasis
+[21:27:54] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_grasslands (class_4762[temperature=0, humidity=7000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[21:27:54] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_jungle (class_4762[temperature=5000, humidity=8000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[21:27:54] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_mushroom_forest (class_4762[temperature=0, humidity=7000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[21:27:54] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_mushroom_forest_edge (class_4762[temperature=0, humidity=7000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1000])
+[21:27:54] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_swampland (class_4762[temperature=1000, humidity=8000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1000])
+[21:27:54] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_swampland_terraces (class_4762[temperature=800, humidity=8500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1000])
+[21:27:54] [main/INFO]: Adding Nether Biome to Fabric: betternether:old_fungiwoods (class_4762[temperature=0, humidity=6500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[21:27:54] [main/INFO]: Adding Nether Biome to Fabric: betternether:old_swampland (class_4762[temperature=1000, humidity=7500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1000])
+[21:27:54] [main/INFO]: Adding Nether Biome to Fabric: betternether:old_warped_woods (class_4762[temperature=0, humidity=5500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=3750])
+[21:27:54] [main/INFO]: Adding End Highland Biome to Fabric: betterend:painted_mountains
+[21:27:54] [main/INFO]: Adding End Highland Biome to Fabric: betterend:painted_mountains
+[21:27:54] [main/INFO]: Adding Nether Biome to Fabric: betternether:poor_nether_grasslands (class_4762[temperature=0, humidity=3000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[21:27:54] [main/INFO]: Adding End Highland Biome to Fabric: betterend:shadow_forest
+[21:27:54] [main/INFO]: Adding End Highland Biome to Fabric: betterend:shadow_forest
+[21:27:54] [main/INFO]: Adding Nether Biome to Fabric: betternether:soul_plain (class_4762[temperature=100, humidity=-5000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[21:27:54] [main/INFO]: Adding Nether Biome to Fabric: betternether:sulfuric_bone_reef (class_4762[temperature=0, humidity=6000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=3700])
+[21:27:54] [main/INFO]: Adding End Highland Biome to Fabric: betterend:sulphur_springs
+[21:27:54] [main/INFO]: Adding End Highland Biome to Fabric: betterend:sulphur_springs
+[21:27:54] [main/INFO]: Adding End Highland Biome to Fabric: betterend:umbra_valley
+[21:27:54] [main/INFO]: Adding End Highland Biome to Fabric: betterend:umbra_valley
+[21:27:54] [main/INFO]: Adding End Highland Biome to Fabric: betterend:umbrella_jungle
+[21:27:54] [main/INFO]: Adding End Highland Biome to Fabric: betterend:umbrella_jungle
+[21:27:54] [main/INFO]: Adding Nether Biome to Fabric: betternether:upside_down_forest (class_4762[temperature=4500, humidity=8000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1250])
+[21:27:54] [main/INFO]: Adding Nether Biome to Fabric: betternether:upside_down_forest_cleared (class_4762[temperature=4500, humidity=3000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1250])
+[21:27:54] [main/INFO]: Adding Nether Biome to Fabric: betternether:wart_forest (class_4762[temperature=-5000, humidity=5000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[21:27:54] [main/INFO]: Adding Nether Biome to Fabric: betternether:wart_forest_edge (class_4762[temperature=-5000, humidity=4500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[21:27:55] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (4215b187)
+[21:27:55] [main/INFO]: Unable to build Biome List yet
+[21:27:55] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[21:27:55] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (717edf59)
+[21:27:55] [main/INFO]: Unable to build Biome List yet
+[21:27:55] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[21:27:56] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/minecraft:entities/ender_dragon - Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: minecraft:elyta
+[21:27:56] [Worker-Main-3/ERROR]: Unable to building bartering table
+[21:27:56] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:entities/husk}.pools[2].entries[0]: Unknown loot table called husks_drop_sand:entities/husk
+[21:27:56] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:entities/villager}.pools[2].entries[0]: Unknown loot table called villager_death:entities/villager
+[21:27:56] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:entities/bat}.pools[2].entries[0]: Unknown loot table called bat_membranes:entities/bat
+[21:27:56] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:entities/player}.pools[1].entries[0]: Unknown loot table called graves:entities/player
+[21:27:56] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:entities/shulker}.pools[2].entries[0]: Unknown loot table called double_shulker_shells:entities/shulker
+[21:27:57] [main/INFO]: Disabling Recipe: bclib:test_star
+[21:27:57] [main/ERROR]: Parsing error loading recipe dragonsteel:star_alloy_block_to_ingot
 com.google.gson.JsonParseException: Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"item":"dragonsteel:star_alloy_block"}]; Second: Failed to parse either. First: Not a json array: {"item":"dragonsteel:star_alloy_block"}; Second: No key tag in MapLike[{"item":"dragonsteel:star_alloy_block"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: dragonsteel:star_alloy_block; No ingredients for shapeless recipe
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -344,7 +339,7 @@ com.google.gson.JsonParseException: Failed to parse either. First: Input does no
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[21:18:40] [main/ERROR]: Parsing error loading recipe dragonsteel:star_alloy_block
+[21:27:57] [main/ERROR]: Parsing error loading recipe dragonsteel:star_alloy_block
 com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: dragonsteel:star_alloy_block
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -361,7 +356,7 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[21:18:40] [main/ERROR]: Parsing error loading recipe tgacmod:fire_absorbing_amalgamate
+[21:27:57] [main/ERROR]: Parsing error loading recipe tgacmod:fire_absorbing_amalgamate
 com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: tgacmod:fire_absorbing_amalgamate
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -378,225 +373,232 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.7.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [launcher12110167.jar:1.0.1]
-[21:18:40] [main/INFO]: Loaded 3842 recipes
-[21:18:40] [main/INFO]: Added 0 recipes in 4ms
-[21:18:41] [main/ERROR]: Couldn't load advancements: [minecraft:give_quest_trader_trade, minecraft:wander_add_map]
-[21:18:41] [main/INFO]: Loaded 3213 advancements
-[21:18:42] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[21:18:42] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseOreBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[21:18:42] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.betternether.blocks.RedstoneOreBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[21:18:42] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[21:18:42] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[21:18:42] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[21:18:42] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.betterend.blocks.basis.StoneLanternBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_322. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[21:18:43] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.betterend.blocks.BrimstoneBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[21:18:43] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[21:18:43] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.betterend.blocks.TenaneaFlowersBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_322. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[21:18:43] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.betterend.blocks.HelixTreeLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_322. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[21:18:43] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.betterend.blocks.JellyshroomCapBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_322. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[21:18:43] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.betterend.blocks.HydraluxPetalColoredBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_322. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[21:18:43] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseOreBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[21:18:43] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.betterend.blocks.BulbVineLanternColoredBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_322. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[21:18:43] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.betterend.blocks.AuroraCrystalBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_322. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[21:18:43] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.betterend.blocks.RespawnObeliskBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_322. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[21:18:43] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.betterend.blocks.EndPortalBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_322. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[21:18:43] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (144666c7)
-[21:18:43] [main/INFO]: Added 5 Biomes
-[21:18:43] [main/INFO]:  - betterend:megalake_grove, subbiomes=1
-[21:18:43] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
-[21:18:43] [main/INFO]:  - betterend:painted_mountains, subbiomes=1
-[21:18:43] [main/INFO]:  - betterend:neon_oasis, subbiomes=1
-[21:18:43] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
-[21:18:43] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
-[21:18:43] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
-[21:18:43] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (68c86730)
-[21:18:43] [main/INFO]: Added 11 Biomes
-[21:18:43] [main/INFO]:  - betternether:poor_nether_grasslands, subbiomes=1
-[21:18:43] [main/INFO]:  - betternether:crimson_pinewood, subbiomes=1
-[21:18:43] [main/INFO]:  - betternether:old_fungiwoods, subbiomes=1
-[21:18:43] [main/INFO]:  - betternether:crimson_glowing_woods, subbiomes=1
-[21:18:43] [main/INFO]:  - betternether:sulfuric_bone_reef, subbiomes=1
-[21:18:43] [main/INFO]:  - betternether:upside_down_forest_cleared, subbiomes=1
-[21:18:43] [main/INFO]:  - betternether:soul_plain, subbiomes=1
-[21:18:43] [main/INFO]:  - betternether:old_warped_woods, subbiomes=1
-[21:18:43] [main/INFO]:  - betternether:nether_swampland_terraces, subbiomes=1
-[21:18:43] [main/INFO]:  - betternether:old_swampland, subbiomes=1
-[21:18:43] [main/INFO]:  - betternether:flooded_deltas, subbiomes=1
-[21:18:43] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[21:18:43] [main/INFO]: Added Tags for 1 fabric biomes in 44.19 ms
-[21:18:43] [main/INFO]: Added 6 biomes to wover:is_end/highland in 7.554 ms
-[21:18:43] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (144666c7)
-[21:18:43] [main/INFO]: Added 5 Biomes
-[21:18:43] [main/INFO]:  - betterend:megalake_grove, subbiomes=1
-[21:18:43] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
-[21:18:43] [main/INFO]:  - betterend:painted_mountains, subbiomes=1
-[21:18:43] [main/INFO]:  - betterend:neon_oasis, subbiomes=1
-[21:18:43] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
-[21:18:43] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
-[21:18:43] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (460f03ae)
-[21:18:43] [main/INFO]: Added 5 Biomes
-[21:18:43] [main/INFO]:  - betterend:megalake_grove, subbiomes=1
-[21:18:43] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
-[21:18:43] [main/INFO]:  - betterend:painted_mountains, subbiomes=1
-[21:18:43] [main/INFO]:  - betterend:neon_oasis, subbiomes=1
-[21:18:43] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
-[21:18:43] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
-[21:18:43] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (460f03ae)
-[21:18:43] [main/INFO]: Added 5 Biomes
-[21:18:43] [main/INFO]:  - betterend:megalake_grove, subbiomes=1
-[21:18:43] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
-[21:18:43] [main/INFO]:  - betterend:painted_mountains, subbiomes=1
-[21:18:43] [main/INFO]:  - betterend:neon_oasis, subbiomes=1
-[21:18:43] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
-[21:18:43] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
-[21:18:43] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (68c86730)
-[21:18:43] [main/INFO]: Added 11 Biomes
-[21:18:43] [main/INFO]:  - betternether:poor_nether_grasslands, subbiomes=1
-[21:18:43] [main/INFO]:  - betternether:crimson_pinewood, subbiomes=1
-[21:18:43] [main/INFO]:  - betternether:old_fungiwoods, subbiomes=1
-[21:18:43] [main/INFO]:  - betternether:crimson_glowing_woods, subbiomes=1
-[21:18:43] [main/INFO]:  - betternether:sulfuric_bone_reef, subbiomes=1
-[21:18:43] [main/INFO]:  - betternether:upside_down_forest_cleared, subbiomes=1
-[21:18:43] [main/INFO]:  - betternether:soul_plain, subbiomes=1
-[21:18:43] [main/INFO]:  - betternether:old_warped_woods, subbiomes=1
-[21:18:43] [main/INFO]:  - betternether:nether_swampland_terraces, subbiomes=1
-[21:18:43] [main/INFO]:  - betternether:old_swampland, subbiomes=1
-[21:18:43] [main/INFO]:  - betternether:flooded_deltas, subbiomes=1
-[21:18:43] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (40118d8b)
-[21:18:43] [main/INFO]: Added 11 Biomes
-[21:18:43] [main/INFO]:  - betternether:poor_nether_grasslands, subbiomes=1
-[21:18:43] [main/INFO]:  - betternether:crimson_pinewood, subbiomes=1
-[21:18:43] [main/INFO]:  - betternether:old_fungiwoods, subbiomes=1
-[21:18:43] [main/INFO]:  - betternether:crimson_glowing_woods, subbiomes=1
-[21:18:43] [main/INFO]:  - betternether:sulfuric_bone_reef, subbiomes=1
-[21:18:43] [main/INFO]:  - betternether:upside_down_forest_cleared, subbiomes=1
-[21:18:43] [main/INFO]:  - betternether:soul_plain, subbiomes=1
-[21:18:43] [main/INFO]:  - betternether:old_warped_woods, subbiomes=1
-[21:18:43] [main/INFO]:  - betternether:nether_swampland_terraces, subbiomes=1
-[21:18:43] [main/INFO]:  - betternether:old_swampland, subbiomes=1
-[21:18:43] [main/INFO]:  - betternether:flooded_deltas, subbiomes=1
-[21:18:43] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (40118d8b)
-[21:18:43] [main/INFO]: Added 11 Biomes
-[21:18:43] [main/INFO]:  - betternether:poor_nether_grasslands, subbiomes=1
-[21:18:43] [main/INFO]:  - betternether:crimson_pinewood, subbiomes=1
-[21:18:43] [main/INFO]:  - betternether:old_fungiwoods, subbiomes=1
-[21:18:43] [main/INFO]:  - betternether:crimson_glowing_woods, subbiomes=1
-[21:18:43] [main/INFO]:  - betternether:sulfuric_bone_reef, subbiomes=1
-[21:18:43] [main/INFO]:  - betternether:upside_down_forest_cleared, subbiomes=1
-[21:18:43] [main/INFO]:  - betternether:soul_plain, subbiomes=1
-[21:18:43] [main/INFO]:  - betternether:old_warped_woods, subbiomes=1
-[21:18:43] [main/INFO]:  - betternether:nether_swampland_terraces, subbiomes=1
-[21:18:43] [main/INFO]:  - betternether:old_swampland, subbiomes=1
-[21:18:43] [main/INFO]:  - betternether:flooded_deltas, subbiomes=1
-[21:18:44] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (40118d8b)
-[21:18:44] [main/INFO]: Added 11 Biomes
-[21:18:44] [main/INFO]:  - betternether:poor_nether_grasslands, subbiomes=1
-[21:18:44] [main/INFO]:  - betternether:crimson_pinewood, subbiomes=1
-[21:18:44] [main/INFO]:  - betternether:old_fungiwoods, subbiomes=1
-[21:18:44] [main/INFO]:  - betternether:crimson_glowing_woods, subbiomes=1
-[21:18:44] [main/INFO]:  - betternether:sulfuric_bone_reef, subbiomes=1
-[21:18:44] [main/INFO]:  - betternether:upside_down_forest_cleared, subbiomes=1
-[21:18:44] [main/INFO]:  - betternether:soul_plain, subbiomes=1
-[21:18:44] [main/INFO]:  - betternether:old_warped_woods, subbiomes=1
-[21:18:44] [main/INFO]:  - betternether:nether_swampland_terraces, subbiomes=1
-[21:18:44] [main/INFO]:  - betternether:old_swampland, subbiomes=1
-[21:18:44] [main/INFO]:  - betternether:flooded_deltas, subbiomes=1
-[21:18:44] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (460f03ae)
-[21:18:44] [main/INFO]: Added 5 Biomes
-[21:18:44] [main/INFO]:  - betterend:megalake_grove, subbiomes=1
-[21:18:44] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
-[21:18:44] [main/INFO]:  - betterend:painted_mountains, subbiomes=1
-[21:18:44] [main/INFO]:  - betterend:neon_oasis, subbiomes=1
-[21:18:44] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
-[21:18:44] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
-[21:18:44] [main/INFO]: Applied 131 biome modifications and added 114 tags to 119 of 205 biomes in 47.50 ms
-[21:18:44] [main/INFO]: Applied 543 biome modifications to 198 of 205 new biomes in 40.70 ms
-[21:18:44] [Server thread/INFO]: Encoded Weapon Attribute registry size (with package overhead): 115263 bytes (in 12 string chunks with the size of 10000)
-[21:18:44] [Server thread/INFO]: [STDOUT]: Encoded SpellRegistry size (with package overhead): ??? bytes (in 24 string chunks with the size of 10000)
-[21:18:44] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[21:18:44] [Server thread/INFO]: Loading properties
-[21:18:44] [Server thread/INFO]: Default game type: SURVIVAL
-[21:18:44] [Server thread/INFO]: Generating keypair
-[21:18:44] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:18:44] [Server thread/INFO]: Using epoll channel type
-[21:18:44] [Server thread/INFO]: Preparing level "world"
-[21:18:45] [Server thread/INFO]: World Dimensions: 
- - minecraft:the_end: 
-     WoVer - Chunk Generator (3ec31d23)
-         preset     = wover:normal
-         noise      = minecraft:end
-         features   = minecraft(5), immersiveores(2), betterend(127)
-     WoVer - The End  BiomeSource (460f03ae)
-         biomes     = 24
-         namespaces = minecraft(5), betterend(19)
-         seed       = -1232327767669589652
-         height     = 128
-         deciders   = 0
-         config     = EndConfig{mapVersion=hex, generatorVersion=vanilla, withVoidBiomes=true, innerVoidRadius=1024, voidBiomesSize=16, centerBiomesSize=16, landBiomesSize=16, barrensBiomesSize=16}
- - minecraft:overworld: 
-     class_3754 (75acdb65)
-         preset     = minecraft:normal
-         noise      = minecraft:overworld
-         features   = terralith(384), minecraft(153), jewelry(1), immersiveores(2)
-     class_4766 (3a94975d)
-         biomes     = 147
-         namespaces = minecraft(53), terralith(94)
+[21:27:57] [main/INFO]: Loaded 3842 recipes
+[21:27:57] [main/INFO]: Added 0 recipes in 5ms
+[21:27:58] [main/ERROR]: Couldn't load advancements: [minecraft:give_quest_trader_trade, minecraft:wander_add_map]
+[21:27:58] [main/INFO]: Loaded 3213 advancements
+[21:27:59] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[21:27:59] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseOreBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[21:27:59] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.betternether.blocks.RedstoneOreBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[21:27:59] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[21:27:59] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[21:27:59] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[21:27:59] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.betterend.blocks.basis.StoneLanternBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_322. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[21:28:00] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.betterend.blocks.BrimstoneBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[21:28:00] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[21:28:00] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.betterend.blocks.TenaneaFlowersBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_322. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[21:28:00] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.betterend.blocks.HelixTreeLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_322. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[21:28:00] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.betterend.blocks.JellyshroomCapBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_322. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[21:28:00] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.betterend.blocks.HydraluxPetalColoredBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_322. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[21:28:00] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseOreBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[21:28:00] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.betterend.blocks.BulbVineLanternColoredBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_322. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[21:28:00] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.betterend.blocks.AuroraCrystalBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_322. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[21:28:00] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.betterend.blocks.RespawnObeliskBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_322. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[21:28:00] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.betterend.blocks.EndPortalBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_322. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[21:28:00] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (14a1afa5)
+[21:28:00] [main/INFO]: Added 5 Biomes
+[21:28:00] [main/INFO]:  - betterend:painted_mountains, subbiomes=1
+[21:28:00] [main/INFO]:  - betterend:megalake_grove, subbiomes=1
+[21:28:00] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
+[21:28:00] [main/INFO]:  - betterend:neon_oasis, subbiomes=1
+[21:28:00] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
+[21:28:00] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
+[21:28:00] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[21:28:00] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (2b7ca6af)
+[21:28:00] [main/INFO]: Added 11 Biomes
+[21:28:00] [main/INFO]:  - betternether:nether_swampland_terraces, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:sulfuric_bone_reef, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:crimson_glowing_woods, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:old_warped_woods, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:old_fungiwoods, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:soul_plain, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:poor_nether_grasslands, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:flooded_deltas, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:upside_down_forest_cleared, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:crimson_pinewood, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:old_swampland, subbiomes=1
+[21:28:00] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[21:28:00] [main/INFO]: Added Tags for 1 fabric biomes in 43.50 ms
+[21:28:00] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (2b7ca6af)
+[21:28:00] [main/INFO]: Added 11 Biomes
+[21:28:00] [main/INFO]:  - betternether:nether_swampland_terraces, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:sulfuric_bone_reef, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:crimson_glowing_woods, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:old_warped_woods, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:old_fungiwoods, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:soul_plain, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:poor_nether_grasslands, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:flooded_deltas, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:upside_down_forest_cleared, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:crimson_pinewood, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:old_swampland, subbiomes=1
+[21:28:00] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (717edf59)
+[21:28:00] [main/INFO]: Added 11 Biomes
+[21:28:00] [main/INFO]:  - betternether:nether_swampland_terraces, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:sulfuric_bone_reef, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:crimson_glowing_woods, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:old_warped_woods, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:old_fungiwoods, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:soul_plain, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:poor_nether_grasslands, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:flooded_deltas, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:upside_down_forest_cleared, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:crimson_pinewood, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:old_swampland, subbiomes=1
+[21:28:00] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (717edf59)
+[21:28:00] [main/INFO]: Added 11 Biomes
+[21:28:00] [main/INFO]:  - betternether:nether_swampland_terraces, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:sulfuric_bone_reef, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:crimson_glowing_woods, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:old_warped_woods, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:old_fungiwoods, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:soul_plain, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:poor_nether_grasslands, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:flooded_deltas, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:upside_down_forest_cleared, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:crimson_pinewood, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:old_swampland, subbiomes=1
+[21:28:00] [main/INFO]: Added 6 biomes to wover:is_end/highland in 7.708 ms
+[21:28:00] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (14a1afa5)
+[21:28:00] [main/INFO]: Added 5 Biomes
+[21:28:00] [main/INFO]:  - betterend:painted_mountains, subbiomes=1
+[21:28:00] [main/INFO]:  - betterend:megalake_grove, subbiomes=1
+[21:28:00] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
+[21:28:00] [main/INFO]:  - betterend:neon_oasis, subbiomes=1
+[21:28:00] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
+[21:28:00] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
+[21:28:00] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (4215b187)
+[21:28:00] [main/INFO]: Added 5 Biomes
+[21:28:00] [main/INFO]:  - betterend:painted_mountains, subbiomes=1
+[21:28:00] [main/INFO]:  - betterend:megalake_grove, subbiomes=1
+[21:28:00] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
+[21:28:00] [main/INFO]:  - betterend:neon_oasis, subbiomes=1
+[21:28:00] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
+[21:28:00] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
+[21:28:00] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (4215b187)
+[21:28:00] [main/INFO]: Added 5 Biomes
+[21:28:00] [main/INFO]:  - betterend:painted_mountains, subbiomes=1
+[21:28:00] [main/INFO]:  - betterend:megalake_grove, subbiomes=1
+[21:28:00] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
+[21:28:00] [main/INFO]:  - betterend:neon_oasis, subbiomes=1
+[21:28:00] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
+[21:28:00] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
+[21:28:00] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (717edf59)
+[21:28:00] [main/INFO]: Added 11 Biomes
+[21:28:00] [main/INFO]:  - betternether:nether_swampland_terraces, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:sulfuric_bone_reef, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:crimson_glowing_woods, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:old_warped_woods, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:old_fungiwoods, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:soul_plain, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:poor_nether_grasslands, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:flooded_deltas, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:upside_down_forest_cleared, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:crimson_pinewood, subbiomes=1
+[21:28:00] [main/INFO]:  - betternether:old_swampland, subbiomes=1
+[21:28:00] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (4215b187)
+[21:28:00] [main/INFO]: Added 5 Biomes
+[21:28:00] [main/INFO]:  - betterend:painted_mountains, subbiomes=1
+[21:28:00] [main/INFO]:  - betterend:megalake_grove, subbiomes=1
+[21:28:00] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
+[21:28:00] [main/INFO]:  - betterend:neon_oasis, subbiomes=1
+[21:28:00] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
+[21:28:00] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
+[21:28:00] [main/INFO]: Applied 131 biome modifications and added 114 tags to 119 of 205 biomes in 42.27 ms
+[21:28:00] [main/INFO]: Applied 543 biome modifications to 198 of 205 new biomes in 41.06 ms
+[21:28:01] [Server thread/INFO]: Encoded Weapon Attribute registry size (with package overhead): 115263 bytes (in 12 string chunks with the size of 10000)
+[21:28:01] [Server thread/INFO]: [STDOUT]: Encoded SpellRegistry size (with package overhead): ??? bytes (in 24 string chunks with the size of 10000)
+[21:28:01] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[21:28:01] [Server thread/INFO]: Loading properties
+[21:28:01] [Server thread/INFO]: Default game type: SURVIVAL
+[21:28:01] [Server thread/INFO]: Generating keypair
+[21:28:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:28:01] [Server thread/INFO]: Using epoll channel type
+[21:28:01] [Server thread/INFO]: Preparing level "world"
+[21:28:01] [Server thread/INFO]: World Dimensions: 
  - minecraft:the_nether: 
-     WoVer - Chunk Generator (62125f8d)
+     WoVer - Chunk Generator (6343add5)
          preset     = wover:normal
          noise      = minecraft:nether
          features   = minecraft(37), betternether(95), immersiveores(2)
-     WoVer - Nether BiomeSource (40118d8b)
+     WoVer - Nether BiomeSource (717edf59)
          biomes     = 27
          namespaces = betternether(22), minecraft(5)
          seed       = -1232327767669589652
          height     = 128
          config     = NetherConfig{mapVersion=hex, useVerticalBiomes=true, biomeSize=16, biomeSizeVertical=5}
-[21:18:45] [Server thread/INFO]: Merged 19 additional Surface Rules for Dimension minecraft:the_end => 20 (963.1 μs) using WoVer - The End  BiomeSource (460f03ae)
-    biomes     = 24
-    namespaces = minecraft(5), betterend(19)
-    seed       = -1232327767669589652
-    height     = 128
-    deciders   = 0
-    config     = EndConfig{mapVersion=hex, generatorVersion=vanilla, withVoidBiomes=true, innerVoidRadius=1024, voidBiomesSize=16, centerBiomesSize=16, landBiomesSize=16, barrensBiomesSize=16}
-[21:18:45] [Server thread/INFO]: Merged 22 additional Surface Rules for Dimension minecraft:the_nether => 74 (2.358 ms) using WoVer - Nether BiomeSource (40118d8b)
+ - minecraft:overworld: 
+     class_3754 (3f068460)
+         preset     = minecraft:normal
+         noise      = minecraft:overworld
+         features   = terralith(384), minecraft(153), jewelry(1), immersiveores(2)
+     class_4766 (3f4bcd6c)
+         biomes     = 147
+         namespaces = minecraft(53), terralith(94)
+ - minecraft:the_end: 
+     WoVer - Chunk Generator (4e5605b)
+         preset     = wover:normal
+         noise      = minecraft:end
+         features   = minecraft(5), immersiveores(2), betterend(127)
+     WoVer - The End  BiomeSource (4215b187)
+         biomes     = 24
+         namespaces = betterend(19), minecraft(5)
+         seed       = -1232327767669589652
+         height     = 128
+         deciders   = 0
+         config     = EndConfig{mapVersion=hex, generatorVersion=vanilla, withVoidBiomes=true, innerVoidRadius=1024, voidBiomesSize=16, centerBiomesSize=16, landBiomesSize=16, barrensBiomesSize=16}
+[21:28:01] [Server thread/INFO]: Merged 22 additional Surface Rules for Dimension minecraft:the_nether => 74 (2.206 ms) using WoVer - Nether BiomeSource (717edf59)
     biomes     = 27
     namespaces = betternether(22), minecraft(5)
     seed       = -1232327767669589652
     height     = 128
     config     = NetherConfig{mapVersion=hex, useVerticalBiomes=true, biomeSize=16, biomeSizeVertical=5}
-[21:18:45] [Server thread/INFO]: Added 2 Biomes
-[21:18:45] [Server thread/INFO]:  - minecraft:end_midlands, subbiomes=1
-[21:18:45] [Server thread/INFO]:  - minecraft:end_barrens, subbiomes=1
-[21:18:48] [Server thread/INFO]: Added 2 Biomes
-[21:18:48] [Server thread/INFO]:  - minecraft:end_midlands, subbiomes=1
-[21:18:48] [Server thread/INFO]:  - minecraft:end_barrens, subbiomes=1
-[21:18:52] [Server thread/INFO]: Added 2 Biomes
-[21:18:52] [Server thread/INFO]:  - minecraft:end_midlands, subbiomes=1
-[21:18:52] [Server thread/INFO]:  - minecraft:end_barrens, subbiomes=1
-[21:18:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:18:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:18:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:18:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:18:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:18:54] [Server thread/INFO]: Time elapsed: 1975 ms
-[21:18:54] [Server thread/INFO]: Done (9.960s)! For help, type "help"
-[21:18:54] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[21:18:54] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
-[21:21:23] [User Authenticator #1/INFO]: UUID of player aeonicspirit is b2f3514a-9e5b-4753-ba78-a65db2800349
-[21:21:31] [Server thread/INFO]: aeonicspirit[/127.247.121.201:42033] logged in with entity id 35 at (-63.65605844316062, 83.0, -39.79011652641198)
-[21:21:31] [Server thread/INFO]: aeonicspirit joined the game
-[21:22:19] [Server thread/INFO]: aeonicspirit has made the advancement [Arthropods (C0.0.27ST)]
-[21:22:44] [Server thread/INFO]: aeonicspirit lost connection: Disconnected
-[21:22:44] [Server thread/INFO]: aeonicspirit left the game
-[21:22:58] [Server thread/INFO]: Stopping the server
-[21:22:58] [Server thread/INFO]: Stopping server
-[21:22:58] [Server thread/INFO]: Saving players
-[21:22:58] [Server thread/INFO]: Saving worlds
-[21:22:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:22:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[21:22:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[21:22:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:22:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:22:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:22:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:28:01] [Server thread/INFO]: Merged 19 additional Surface Rules for Dimension minecraft:the_end => 20 (924.0 μs) using WoVer - The End  BiomeSource (4215b187)
+    biomes     = 24
+    namespaces = betterend(19), minecraft(5)
+    seed       = -1232327767669589652
+    height     = 128
+    deciders   = 0
+    config     = EndConfig{mapVersion=hex, generatorVersion=vanilla, withVoidBiomes=true, innerVoidRadius=1024, voidBiomesSize=16, centerBiomesSize=16, landBiomesSize=16, barrensBiomesSize=16}
+[21:28:02] [Server thread/INFO]: Added 2 Biomes
+[21:28:02] [Server thread/INFO]:  - minecraft:end_midlands, subbiomes=1
+[21:28:02] [Server thread/INFO]:  - minecraft:end_barrens, subbiomes=1
+[21:28:05] [Server thread/INFO]: Added 2 Biomes
+[21:28:05] [Server thread/INFO]:  - minecraft:end_midlands, subbiomes=1
+[21:28:05] [Server thread/INFO]:  - minecraft:end_barrens, subbiomes=1
+[21:28:05] [Server thread/INFO]: Added 2 Biomes
+[21:28:05] [Server thread/INFO]:  - minecraft:end_midlands, subbiomes=1
+[21:28:05] [Server thread/INFO]:  - minecraft:end_barrens, subbiomes=1
+[21:28:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:28:11] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:28:11] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:28:11] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:28:11] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:28:11] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:28:11] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:28:11] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:28:11] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:28:11] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:28:11] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:28:11] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:28:11] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:28:12] [Server thread/INFO]: Time elapsed: 6089 ms
+[21:28:12] [Server thread/INFO]: Done (10.225s)! For help, type "help"
+[21:28:12] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[21:28:12] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[21:29:57] [User Authenticator #1/INFO]: UUID of player aeonicspirit is b2f3514a-9e5b-4753-ba78-a65db2800349
+[21:30:06] [Server thread/INFO]: aeonicspirit[/127.247.121.201:52621] logged in with entity id 29 at (-67.76249998807907, 82.0, -27.938788328533132)
+[21:30:07] [Server thread/INFO]: aeonicspirit joined the game
+[21:30:48] [Server thread/INFO]: aeonicspirit lost connection: Disconnected
+[21:30:48] [Server thread/INFO]: aeonicspirit left the game
+[21:33:24] [Server thread/INFO]: Stopping the server
+[21:33:24] [Server thread/INFO]: Stopping server
+[21:33:24] [Server thread/INFO]: Saving players
+[21:33:24] [Server thread/INFO]: Saving worlds
+[21:33:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:33:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:33:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:33:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:33:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:33:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:33:25] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

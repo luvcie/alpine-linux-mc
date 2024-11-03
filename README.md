@@ -89,4 +89,6 @@ https://cdn.modrinth.com/data/o88ZjSh6/versions/lDozQzCw/druid-0.0.7-1.21.1.jar
 https://cdn.modrinth.com/data/mqF8xISJ/versions/V3556zts/elemental_metals-0.0.4-1.21.1.jar
 https://cdn.modrinth.com/data/oJkZIwJu/versions/ayXT13J0/morewizardsmod-0.1.6-1.21.1.jar
 https://cdn.modrinth.com/data/7RTcs7yj/versions/UkTknADo/battlemages-0.0.7-1.21.1.jar
+https://cdn.modrinth.com/data/Z9DM0LJ4/versions/3lodDajk/cyclopscore-1.21.1-fabric-1.25.2-634.jar
+https://cdn.modrinth.com/data/8DfbfASn/versions/4eH50FuY/DungeonsArise-1.21.x-2.1.60-fabric-release.jar
 ```
