@@ -53,4 +53,8 @@ https://cdn.modrinth.com/data/fQEb0iXm/versions/Acz3ttTp/krypton-0.2.8.jar
 https://cdn.modrinth.com/data/DMu0oBKf/versions/EauT7WNY/craftingtweaks-fabric-1.21.1-21.1.3.jar
 https://cdn.modrinth.com/data/aC3cM3Vq/versions/ylmBQ38A/MouseTweaks-fabric-mc1.21-2.26.jar
 https://cdn.modrinth.com/data/MBAkmtvl/versions/8y2siHEz/balm-fabric-1.21.1-21.0.20.jar
+https://cdn.modrinth.com/data/uZGu7slq/versions/LG18ZrUE/enchant-tooltips-1.0.1.jar
+https://cdn.modrinth.com/data/8ooWzSQP/versions/Yr88WIqG/spell_power-1.0.5%2B1.21.1.jar
+https://cdn.modrinth.com/data/z7YR5Db9/versions/V06N65Zq/more_spell_attributes-0.0.7-1.21.1.jar
+https://cdn.modrinth.com/data/N72bKhby/versions/p9Xx8UGN/enchants-plus-1.3.jar
 ```
