@@ -61,4 +61,5 @@ https://cdn.modrinth.com/data/7OgRKPcG/versions/nqkLY3mr/ketkets-furnicraft-4.4.
 https://cdn.modrinth.com/data/Th80Dayj/versions/UvL9Hjoh/timo_11-6.4%2B1.21.2.jar
 https://cdn.modrinth.com/data/XvoWJaA2/versions/cyrSy7dK/spell_engine-1.1.2%2B1.21.1.jar
 https://cdn.modrinth.com/data/5aaWibi9/versions/JagCscwi/trinkets-3.10.0.jar
+https://cdn.modrinth.com/data/7zlUOZvb/versions/RPHw6gC8/azurelib-fabric-1.21.1-2.3.27.jar
 ```
