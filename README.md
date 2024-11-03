@@ -75,4 +75,6 @@ https://cdn.modrinth.com/data/GAIa01Mz/versions/zdgICPr1/tatimod-0.1.1-1.21.1.ja
 https://cdn.modrinth.com/data/uvpKDJJr/versions/k1zSjf7x/tctimod-0.0.8-1.21.1.jar
 https://cdn.modrinth.com/data/mBSHALKK/versions/Z1ae5ewP/tdacmod-0.0.2-1.21.1.jar
 https://cdn.modrinth.com/data/bDA9ozpC/versions/B3yIhIiF/taacmod-0.0.3-1.21.1.jar
+https://cdn.modrinth.com/data/zWOXoXzb/versions/oh7tjrZR/tgacmod-4.0.4-1.21.1.jar
+https://cdn.modrinth.com/data/p1Gta4IP/versions/VINnVjSu/tsapmod-0.0.1-1.21.1.jar
 ```
