@@ -50,4 +50,7 @@ https://cdn.modrinth.com/data/9leXt4A5/versions/601ORtJv/monolib-fabric-1.21.1-1
 https://cdn.modrinth.com/data/Ha28R6CL/versions/B0fZidZi/fabric-language-kotlin-1.12.3%2Bkotlin.2.0.21.jar
 https://cdn.modrinth.com/data/1eAoo2KR/versions/f9ZVX07g/YetAnotherConfigLib-3.6.1%2B1.21-fabric.jar
 https://cdn.modrinth.com/data/fQEb0iXm/versions/Acz3ttTp/krypton-0.2.8.jar
+https://cdn.modrinth.com/data/DMu0oBKf/versions/EauT7WNY/craftingtweaks-fabric-1.21.1-21.1.3.jar
+https://cdn.modrinth.com/data/aC3cM3Vq/versions/ylmBQ38A/MouseTweaks-fabric-mc1.21-2.26.jar
+https://cdn.modrinth.com/data/MBAkmtvl/versions/8y2siHEz/balm-fabric-1.21.1-21.0.20.jar
 ```
