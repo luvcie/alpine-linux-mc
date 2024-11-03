@@ -59,5 +59,65 @@
     },
     "done": true
   },
+  "compact_storage:barrel_me_this": {
+    "criteria": {
+      "got_barrel": "2024-11-03 22:48:28 +0000"
+    },
+    "done": true
+  },
+  "compact_storage:storage_on_the_move": {
+    "criteria": {
+      "got_backpack": "2024-11-03 22:48:28 +0000"
+    },
+    "done": true
+  },
+  "compact_storage:drum_me_up": {
+    "criteria": {
+      "got_drum": "2024-11-03 22:48:28 +0000"
+    },
+    "done": true
+  },
+  "compact_storage:compacting_your_storage": {
+    "criteria": {
+      "got_chest": "2024-11-03 22:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-11-03 22:48:38 +0000"
+    },
+    "done": true
+  },
+  "more_chests:recipes/decorations/dark_oak_plank_chest_log": {
+    "criteria": {
+      "has_log": "2024-11-03 22:57:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-11-03 22:57:33 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2024-11-03 22:57:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-11-03 22:57:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-11-03 22:57:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
