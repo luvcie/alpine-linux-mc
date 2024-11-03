@@ -1,5 +1,19 @@
 fabric 0.16.7 - 1.21.1
 
+## Recommended Launcher
+[Prism Launcher](https://prismlauncher.org/) is recommended for the best experience.
+
+## Installing Mods
+### Automatic Installation (Linux/Mac)
+1. Create a new instance in Prism Launcher with mc 1.21.1 and Fabric 0.16.7
+2. Open terminal in the instance's mods folder (right click instance => edit => mods => view folder) 
+3. Create a file named `list.txt`
+4. Paste the list of links from below inside the `list.txt` file
+5. Open terminal in the mods folder and run:
+```sh
+wget -i list.txt
+```
+
 ```sh
 https://cdn.modrinth.com/data/NcUtCpym/versions/373K4YJh/XaerosWorldMap_1.39.0_Fabric_1.21.jar
 https://cdn.modrinth.com/data/1bokaNcj/versions/C6gFqr7V/Xaeros_Minimap_24.6.1_Fabric_1.21.jar
