@@ -8,7 +8,7 @@ fabric 0.16.7 - 1.21.1
 2. Open terminal in the instance's mods folder (right click instance => edit => mods => view folder) 
 3. Create a file named `list.txt`
 4. Paste the list of links from below inside the `list.txt` file
-5. Open terminal in the mods folder and run:
+5. From the terminal in the mods folder, run:
 ```sh
 wget -i list.txt
 ```
@@ -149,4 +149,6 @@ https://cdn.modrinth.com/data/wnEe9KBa/versions/mUvDaDZl/vmp-fabric-mc1.21.1-0.2
 https://cdn.modrinth.com/data/QwxR6Gcd/versions/dO7QNiof/Debugify-1.21.1%2B1.0.jar
 https://cdn.modrinth.com/data/JNRr4jji/versions/I0camD8b/Palladium-1.21x-1.0.9.5.jar
 https://cdn.modrinth.com/data/CYQ7VYrM/versions/xhpnRgM3/ToadLib-1.21x-1.1.6.jar
+https://cdn.modrinth.com/data/4WWQxlQP/versions/wPZETsJM/servercore-fabric-1.5.5%2B1.21.1.jar
+https://cdn.modrinth.com/data/uXXizFIs/versions/bwKMSBhn/ferritecore-7.0.2-hotfix-fabric.jar
 ```
