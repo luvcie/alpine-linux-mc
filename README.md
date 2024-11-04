@@ -153,4 +153,8 @@ https://cdn.modrinth.com/data/4WWQxlQP/versions/wPZETsJM/servercore-fabric-1.5.5
 https://cdn.modrinth.com/data/uXXizFIs/versions/bwKMSBhn/ferritecore-7.0.2-hotfix-fabric.jar
 https://cdn.modrinth.com/data/KuNKN7d2/versions/4sGQgiu2/noisium-fabric-2.3.0%2Bmc1.21-1.21.1.jar
 https://cdn.modrinth.com/data/nmDcB62a/versions/T1ftCUJv/modernfix-fabric-5.19.3%2Bmc1.21.1.jar
+https://cdn.modrinth.com/data/5ZwdcRci/versions/1jIYgnG2/ImmediatelyFast-Fabric-1.3.1%2B1.21.1.jar
+https://cdn.modrinth.com/data/Ps1zyz6x/versions/Oh80nTJ5/ScalableLux-0.1.0%2Bfabric.26c6e72-all.jar
+https://cdn.modrinth.com/data/SvXrP8rT/versions/NdqCDuuA/AchievementOptimizer-fabric-1.21.1-1.2.0.jar
+https://cdn.modrinth.com/data/VSNURh3q/versions/4Dtxhzpd/c2me-fabric-mc1.21.1-0.3.0%2Balpha.0.295.jar
 ```
