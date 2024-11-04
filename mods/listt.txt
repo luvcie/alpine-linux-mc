@@ -1,4 +1,2 @@
-https://cdn.modrinth.com/data/yn9u3ypm/versions/Fg64B87Y/graves-3.4.4%2B1.21.jar
-https://cdn.modrinth.com/data/FbHSPTyF/versions/M6GLQXYq/KeepInventorySortedSimple-0.3.1.jar
-https://cdn.modrinth.com/data/yppxDTPT/versions/Eoy5raaC/Stackable%20Potions-fabric-1.21-1.0.0.jar
-
+https://cdn.modrinth.com/data/KuNKN7d2/versions/4sGQgiu2/noisium-fabric-2.3.0%2Bmc1.21-1.21.1.jar
+https://cdn.modrinth.com/data/nmDcB62a/versions/T1ftCUJv/modernfix-fabric-5.19.3%2Bmc1.21.1.jar
