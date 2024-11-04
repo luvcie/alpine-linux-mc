@@ -23,13 +23,6 @@
     },
     "done": true
   },
-  "naturescompass:natures_compass": {
-    "criteria": {
-      "has_recipe": "2024-11-04 00:25:11 +0000",
-      "has_compass": "2024-11-04 00:25:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2024-11-04 00:25:11 +0000"
@@ -51,19 +44,6 @@
   "hammersandtables:recipes/combat/stone_hammer": {
     "criteria": {
       "has_iron_ingot": "2024-11-04 00:25:11 +0000"
-    },
-    "done": true
-  },
-  "naturescompass:natures_compass_log": {
-    "criteria": {
-      "has_log": "2024-11-04 00:25:11 +0000",
-      "has_recipe": "2024-11-04 00:25:11 +0000"
-    },
-    "done": true
-  },
-  "naturescompass:natures_compass_sapling": {
-    "criteria": {
-      "has_sapling": "2024-11-04 00:25:11 +0000"
     },
     "done": true
   },

@@ -157,4 +157,5 @@ https://cdn.modrinth.com/data/5ZwdcRci/versions/1jIYgnG2/ImmediatelyFast-Fabric-
 https://cdn.modrinth.com/data/Ps1zyz6x/versions/Oh80nTJ5/ScalableLux-0.1.0%2Bfabric.26c6e72-all.jar
 https://cdn.modrinth.com/data/SvXrP8rT/versions/NdqCDuuA/AchievementOptimizer-fabric-1.21.1-1.2.0.jar
 https://cdn.modrinth.com/data/VSNURh3q/versions/4Dtxhzpd/c2me-fabric-mc1.21.1-0.3.0%2Balpha.0.295.jar
+https://cdn.modrinth.com/data/YILwj7iC/versions/yV6S5bpi/Wild_Tool_Access-1.21.1-1.5.1.jar
 ```
