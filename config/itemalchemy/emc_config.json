@@ -5154,5 +5154,9 @@
   "mcwdoors:spruce_mystic_door": 51,
   "mcwdoors:metal_windowed_door": 644,
   "mcwwindows:birch_plank_window2": 9,
-  "mcwdoors:oak_barn_glass_door": 8
+  "mcwdoors:oak_barn_glass_door": 8,
+  "mcwwindows:sandstone_four_window": 8,
+  "mcwwindows:red_sandstone_four_window": 8,
+  "mcwwindows:stone_four_window": 8,
+  "mcwwindows:deepslate_four_window": 8
 }
