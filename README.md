@@ -134,4 +134,8 @@ https://cdn.modrinth.com/data/iP3wH1ha/versions/mPtTPM2b/mcw-stairs-1.0.0-1.21.1
 https://cdn.modrinth.com/data/kNxa8z3e/versions/ifAa0a3q/mcw-doors-1.1.1-mc1.21.1fabric.jar
 https://cdn.modrinth.com/data/C7I0BCni/versions/7IXnPFd0/mcw-windows-2.3.0-mc1.21.1fabric.jar
 https://cdn.modrinth.com/data/fPetb5Kh/versions/tBmAcdOX/NaturesCompass-1.21-2.2.6-fabric.jar
+https://cdn.modrinth.com/data/Cz0fHRKU/versions/7nZIadF1/YeehawTowns-1.0.3-1.21.x-fabric.jar
+https://cdn.modrinth.com/data/MRK4tULJ/versions/IOxi2RHE/UndergroundBunkers-1.0.4-1.21.x-fabric.jar
+https://cdn.modrinth.com/data/mb68eIfx/versions/5Ldpp3lm/SkyVillages-1.0.6-1.21.x-fabric-release.jar
+https://cdn.modrinth.com/data/uiADepy3/versions/R4lKotJA/AureljPaintings-1.0.4-1.21.x-fabric.jar
 ```

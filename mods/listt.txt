@@ -1,10 +1,4 @@
-https://cdn.modrinth.com/data/tPe4xnPd/versions/MWH0DcT7/formations-1.0.2-fabric-mc1.21.jar
-https://cdn.modrinth.com/data/XaDC71GB/versions/94cenLm9/lithostitched-fabric-1.21.1-1.3.4.jar
-https://cdn.modrinth.com/data/cGvQGRls/versions/6DBJbZXK/formationsnether-1.0.5-mc1.21%2B.jar
-https://cdn.modrinth.com/data/pJmCFF0p/versions/yeyZ6DeE/handcrafted-fabric-1.21.1-4.0.2.jar
-https://cdn.modrinth.com/data/G1hIVOrD/versions/qhDtAMev/resourcefullib-fabric-1.21-3.0.11.jar
-https://cdn.modrinth.com/data/w4an97C2/versions/w1stH7Sp/mcw-lights-1.1.1-mc1.21.1fabric.jar
-https://cdn.modrinth.com/data/iP3wH1ha/versions/mPtTPM2b/mcw-stairs-1.0.0-1.21.1fabric.jar
-https://cdn.modrinth.com/data/kNxa8z3e/versions/ifAa0a3q/mcw-doors-1.1.1-mc1.21.1fabric.jar
-https://cdn.modrinth.com/data/C7I0BCni/versions/7IXnPFd0/mcw-windows-2.3.0-mc1.21.1fabric.jar
-
+https://cdn.modrinth.com/data/Cz0fHRKU/versions/7nZIadF1/YeehawTowns-1.0.3-1.21.x-fabric.jar
+https://cdn.modrinth.com/data/MRK4tULJ/versions/IOxi2RHE/UndergroundBunkers-1.0.4-1.21.x-fabric.jar
+https://cdn.modrinth.com/data/mb68eIfx/versions/5Ldpp3lm/SkyVillages-1.0.6-1.21.x-fabric-release.jar
+https://cdn.modrinth.com/data/uiADepy3/versions/R4lKotJA/AureljPaintings-1.0.4-1.21.x-fabric.jar
