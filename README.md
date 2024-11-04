@@ -138,4 +138,7 @@ https://cdn.modrinth.com/data/Cz0fHRKU/versions/7nZIadF1/YeehawTowns-1.0.3-1.21.
 https://cdn.modrinth.com/data/MRK4tULJ/versions/IOxi2RHE/UndergroundBunkers-1.0.4-1.21.x-fabric.jar
 https://cdn.modrinth.com/data/mb68eIfx/versions/5Ldpp3lm/SkyVillages-1.0.6-1.21.x-fabric-release.jar
 https://cdn.modrinth.com/data/uiADepy3/versions/R4lKotJA/AureljPaintings-1.0.4-1.21.x-fabric.jar
+https://cdn.modrinth.com/data/RPOSBQgq/versions/Ux9mBEPJ/itemswapper-fabric-0.7.2-mc1.21.jar
+https://cdn.modrinth.com/data/yn9u3ypm/versions/Fg64B87Y/graves-3.4.4%2B1.21.jar
+https://cdn.modrinth.com/data/FbHSPTyF/versions/M6GLQXYq/KeepInventorySortedSimple-0.3.1.jar
 ```
