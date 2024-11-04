@@ -1,11 +1,11 @@
 {
   "tabDisplayHandler": {
-    "enabled": false
+    "enabled": true
   },
   "actionBarDisplayHandler": {
-    "enabled": true
+    "enabled": false
   },
   "bossBarDisplayHandler": {
-    "enabled": true
+    "enabled": false
   }
 }

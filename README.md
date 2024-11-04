@@ -144,6 +144,9 @@ https://cdn.modrinth.com/data/gWO6Zqey/versions/TvzkWk5w/vanilla-refresh-1.4.25_
 https://cdn.modrinth.com/data/Vr3O6THr/versions/NdFZCyPb/Wabi-Sabi%20Structures%203.0.1-1.21.jar
 https://cdn.modrinth.com/data/2k6aLirX/versions/t0LeTXl2/portfolio-1.21.1-1.4.1-fabric.jar
 https://cdn.modrinth.com/data/Cw8IlnGM/versions/Yy52wehM/serversleep-datapack2.jar
-https://cdn.modrinth.com/data/VYRu7qmG/versions/cSO055dw/observable-5.4.3.jar
 https://cdn.modrinth.com/data/cUhi3iB2/versions/XxA9k8Fb/tabtps-fabric-mc1.21.1-1.3.25.jar
+https://cdn.modrinth.com/data/wnEe9KBa/versions/mUvDaDZl/vmp-fabric-mc1.21.1-0.2.0%2Bbeta.7.169-all.jar
+https://cdn.modrinth.com/data/QwxR6Gcd/versions/dO7QNiof/Debugify-1.21.1%2B1.0.jar
+https://cdn.modrinth.com/data/JNRr4jji/versions/I0camD8b/Palladium-1.21x-1.0.9.5.jar
+https://cdn.modrinth.com/data/CYQ7VYrM/versions/xhpnRgM3/ToadLib-1.21x-1.1.6.jar
 ```
