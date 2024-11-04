@@ -4464,5 +4464,11 @@
     },
     "done": true
   },
+  "vanilla_refresh:player/hurt": {
+    "criteria": {
+      "requirement": "2024-11-04 17:34:49 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
