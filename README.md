@@ -163,4 +163,13 @@ https://cdn.modrinth.com/data/vLUPqRLH/versions/X9G5sRdi/villager-transportation
 https://cdn.modrinth.com/data/BuWCQzqf/versions/6216ulJB/HopoBetterUnderwaterRuins-%5B1.21.1-1.21.3%5D-1.2.1.jar
 https://cdn.modrinth.com/data/swbUV1cr/versions/Ysj3eVYx/bluemap-5.4-fabric.jar
 https://cdn.modrinth.com/data/7mHyGgvW/versions/rHtTi59k/IronChests-2.0.4.jar
+https://cdn.modrinth.com/data/D0sHdnXY/versions/vx7HS6q7/Discord-MC-Chat-2.3.5.jar
+https://cdn.modrinth.com/data/GmwLse2I/versions/IMH6jnRT/mcw-fences-1.1.2-mc1.21.1fabric.jar
+https://cdn.modrinth.com/data/B8jaH3P1/versions/iAwEC8LY/mcw-roofs-2.3.1-mc1.21.1fabric.jar
+https://cdn.modrinth.com/data/GURcjz8O/versions/IyFgopwQ/mcw-bridges-3.0.0-mc1.21.1fabric.jar
+https://cdn.modrinth.com/data/n2fvCDlM/versions/ggIkVURb/mcw-trapdoors-1.1.3-mc1.21.1fabric.jar
+https://cdn.modrinth.com/data/VRLhWB91/versions/8FewGHHv/mcw-paths-1.0.5-1.21.1fabric.jar
+https://cdn.modrinth.com/data/iP3wH1ha/versions/mPtTPM2b/mcw-stairs-1.0.0-1.21.1fabric.jar
+https://cdn.modrinth.com/data/9rlXSyLg/versions/FrhCIuEF/cratedelight-24.11.04-1.21-fabric.jar
+https://cdn.modrinth.com/data/PYjpoAys/versions/L0CZyrhq/ubesdelight-fabric-1.21-0.2.0.jar
 ```
