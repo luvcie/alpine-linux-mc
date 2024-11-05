@@ -1,12 +1,12 @@
 {
   "generic": {
     "language": "en_us",
-    "botToken": "",
+    "botToken": "MTMwMzQzNTQ3MjAzMDI2OTQ1MA.Gw42rY.anptbXrMHZ7teTVlSeOwaJ-9tRcrgIx3w8jW4E",
     "showServerStatusInBotStatus": true,
     "botPlayingActivity": "Minecraft (%onlinePlayerCount%/%maxPlayerCount%)",
     "botListeningActivity": "",
     "useWebhook": true,
-    "channelId": "",
+    "channelId": "1071337684158664776",
     "consoleLogChannelId": "",
     "updateNotificationChannelId": "",
     "useUuidInsteadOfName": true,
@@ -44,7 +44,7 @@
     "adminsIds": []
   },
   "multiServer": {
-    "enable": false,
+    "enable": true,
     "host": "127.0.0.1",
     "port": 5000,
     "name": "SMP",
@@ -75,5 +75,5 @@
     "onlineChannelTopicForMultiServer": ""
   },
   "latestVersion": "2.3.5",
-  "latestCheckTime": 0
+  "latestCheckTime": 1730847676917
 }
