@@ -1,1 +1,1 @@
-{}
+{"waystones:sharestones":{"label":"Sharestones","toggleable":true,"defaultHidden":false,"sorting":0,"markers":{}},"waystones:waystones":{"label":"Waystones","toggleable":true,"defaultHidden":false,"sorting":0,"markers":{"1da24460-9378-4015-9157-8898934b6765":{"classes":[],"detail":"","icon":"assets/poi.svg","anchor":{"x":25,"y":45},"minDistance":0.0,"maxDistance":1000.0,"type":"poi","label":"","position":{"x":-128,"y":60,"z":-48},"sorting":0,"listed":true}}}}
