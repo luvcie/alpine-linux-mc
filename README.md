@@ -160,4 +160,5 @@ https://cdn.modrinth.com/data/YILwj7iC/versions/yV6S5bpi/Wild_Tool_Access-1.21.1
 https://cdn.modrinth.com/data/gNPj0UDg/versions/Apa2Scyy/sit-anywhere-by-sozoka-1.1.1.jar
 https://cdn.modrinth.com/data/RPOSBQgq/versions/Ux9mBEPJ/itemswapper-fabric-0.7.2-mc1.21.jar
 https://cdn.modrinth.com/data/vLUPqRLH/versions/X9G5sRdi/villager-transportation-1.3.1.jar
+https://cdn.modrinth.com/data/BuWCQzqf/versions/6216ulJB/HopoBetterUnderwaterRuins-%5B1.21.1-1.21.3%5D-1.2.1.jar
 ```
