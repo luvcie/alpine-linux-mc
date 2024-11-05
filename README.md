@@ -101,7 +101,6 @@ https://cdn.modrinth.com/data/cfQx2fbQ/versions/ta4gQZJ7/itemalchemy-1.0.5.jar
 https://cdn.modrinth.com/data/uNRoUnGT/versions/nFOuE7Q0/mcpitanlib-2.5.2-1.21-fabric.jar
 https://cdn.modrinth.com/data/rH20L2Lp/versions/VycPNGaJ/mcw-holidays-1.1.0-mc1.21.1fabric.jar
 https://cdn.modrinth.com/data/dtWC90iB/versions/9l6iYqCb/mcw-furniture-3.3.0-mc1.21.1fabric.jar
-https://cdn.modrinth.com/data/Du77FavA/versions/zvin6zVf/morechestsfabric-2.1.jar
 https://cdn.modrinth.com/data/CNYyGWn5/versions/qePaOrBM/compact_storage-1.21-fabric-8.0.75.jar
 https://cdn.modrinth.com/data/jGVzcXaf/versions/x4Q4rxsO/InventoryTweaks-3.0.jar
 https://cdn.modrinth.com/data/ccKDOlHs/versions/vCCHsvEa/owo-lib-0.12.15%2B1.21.jar
