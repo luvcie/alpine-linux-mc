@@ -5232,12 +5232,6 @@
     },
     "done": true
   },
-  "vanilla_refresh:player/hurt": {
-    "criteria": {
-      "requirement": "2024-11-05 04:54:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2024-11-05 02:06:25 +0000"
@@ -5286,69 +5280,45 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2024-11-05 02:36:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-11-05 02:36:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2024-11-05 02:36:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2024-11-05 02:36:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-11-05 02:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-11-05 02:47:13 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/melon_juice": {
     "criteria": {
       "has_melon_slice": "2024-11-05 02:54:13 +0000"
-    },
-    "done": true
-  },
-  "mcwholidays:recipes/cat_wall_deco_1": {
-    "criteria": {
-      "has_planks": "2024-11-05 03:15:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2024-11-05 03:13:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
-    "criteria": {
-      "has_glass": "2024-11-05 03:10:04 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/quartz_glass_framed_purple": {
-    "criteria": {
-      "has_purple_dye": "2024-11-05 02:55:42 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/iron_bulb_lantern_purple": {
-    "criteria": {
-      "has_purple_dye": "2024-11-05 02:55:42 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/hydralux_petal_block_light_blue": {
-    "criteria": {
-      "has_light_blue_dye": "2024-11-05 02:55:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_purple_dye": "2024-11-05 02:55:42 +0000"
-    },
-    "done": true
-  },
-  "waystones:recipes/decorations/return_scroll": {
-    "criteria": {
-      "has_paper": "2024-11-05 03:15:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2024-11-05 03:13:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/orange_stained_glass": {
-    "criteria": {
-      "has_glass": "2024-11-05 03:10:04 +0000"
     },
     "done": true
   },
@@ -5358,39 +5328,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/purple_candle": {
+  "minecraft:recipes/building_blocks/melon": {
     "criteria": {
-      "has_purple_dye": "2024-11-05 02:55:42 +0000"
+      "has_melon": "2024-11-05 02:54:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+  "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
-      "has_glass_pane": "2024-11-05 03:13:40 +0000"
+      "has_melon": "2024-11-05 02:54:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/pink_stained_glass": {
+  "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
-      "has_glass": "2024-11-05 03:10:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/black_stained_glass": {
-    "criteria": {
-      "has_glass": "2024-11-05 03:10:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_stained_glass": {
-    "criteria": {
-      "has_glass": "2024-11-05 03:10:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
-    "criteria": {
-      "has_purple_dye": "2024-11-05 02:55:42 +0000"
+      "has_melon": "2024-11-05 02:54:13 +0000"
     },
     "done": true
   },
@@ -5400,33 +5352,9 @@
     },
     "done": true
   },
-  "mcwholidays:recipes/witch_hat_wall_deco_2": {
-    "criteria": {
-      "has_planks": "2024-11-05 03:15:45 +0000"
-    },
-    "done": true
-  },
-  "mcwholidays:recipes/witch_hat_wall_deco_1": {
-    "criteria": {
-      "has_planks": "2024-11-05 03:15:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_light_blue_dye": "2024-11-05 02:55:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_white_bed": {
     "criteria": {
       "has_needed_dye": "2024-11-05 02:55:38 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/quartz_glass_framed_pane_purple": {
-    "criteria": {
-      "has_purple_dye": "2024-11-05 02:55:42 +0000"
     },
     "done": true
   },
@@ -5442,21 +5370,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2024-11-05 03:13:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_white_dye": "2024-11-05 02:55:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_stained_glass": {
-    "criteria": {
-      "has_glass": "2024-11-05 03:10:04 +0000"
     },
     "done": true
   },
@@ -5472,27 +5388,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
-    "criteria": {
-      "has_glass": "2024-11-05 03:10:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_white_dye": "2024-11-05 02:55:38 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/terminite_bulb_lantern_purple": {
-    "criteria": {
-      "has_purple_dye": "2024-11-05 02:55:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cyan_stained_glass": {
-    "criteria": {
-      "has_glass": "2024-11-05 03:10:04 +0000"
     },
     "done": true
   },
@@ -5514,51 +5412,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/melon": {
-    "criteria": {
-      "has_melon": "2024-11-05 02:54:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2024-11-05 03:13:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2024-11-05 03:13:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2024-11-05 03:17:40 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/iron_bulb_lantern_light_blue": {
-    "criteria": {
-      "has_light_blue_dye": "2024-11-05 02:55:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_white_dye": "2024-11-05 02:55:38 +0000"
-    },
-    "done": true
-  },
-  "waystones:recipes/decorations/blank_scroll": {
-    "criteria": {
-      "has_paper": "2024-11-05 03:15:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
-    "criteria": {
-      "has_orange_tulip": "2024-11-05 03:20:16 +0000"
     },
     "done": true
   },
@@ -5568,81 +5424,9 @@
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/quartz_glass_light_blue": {
-    "criteria": {
-      "has_light_blue_dye": "2024-11-05 02:55:44 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/thallasium_bulb_lantern_purple": {
-    "criteria": {
-      "has_purple_dye": "2024-11-05 02:55:42 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/decorations/quartz_glass_framed_pane_white": {
     "criteria": {
       "has_white_dye": "2024-11-05 02:55:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_candle": {
-    "criteria": {
-      "has_light_blue_dye": "2024-11-05 02:55:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/melon_seeds": {
-    "criteria": {
-      "has_melon": "2024-11-05 02:54:13 +0000"
-    },
-    "done": true
-  },
-  "mcwholidays:recipes/bat_wall_deco_3": {
-    "criteria": {
-      "has_planks": "2024-11-05 03:15:45 +0000"
-    },
-    "done": true
-  },
-  "mcwholidays:recipes/bat_wall_deco_2": {
-    "criteria": {
-      "has_planks": "2024-11-05 03:15:45 +0000"
-    },
-    "done": true
-  },
-  "mcwholidays:recipes/bat_wall_deco_1": {
-    "criteria": {
-      "has_planks": "2024-11-05 03:15:45 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/thallasium_bulb_lantern_light_blue": {
-    "criteria": {
-      "has_light_blue_dye": "2024-11-05 02:55:44 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/wood_cup": {
-    "criteria": {
-      "has_wood_cup": "2024-11-05 02:36:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/green_stained_glass": {
-    "criteria": {
-      "has_glass": "2024-11-05 03:10:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2024-11-05 03:15:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brown_stained_glass": {
-    "criteria": {
-      "has_glass": "2024-11-05 03:10:04 +0000"
     },
     "done": true
   },
@@ -5652,33 +5436,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blue_stained_glass": {
-    "criteria": {
-      "has_glass": "2024-11-05 03:10:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2024-11-05 02:47:13 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/building_blocks/quartz_glass_white": {
     "criteria": {
       "has_white_dye": "2024-11-05 02:55:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2024-11-05 02:36:06 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/quartz_glass_framed_light_blue": {
-    "criteria": {
-      "has_light_blue_dye": "2024-11-05 02:55:44 +0000"
     },
     "done": true
   },
@@ -5694,69 +5454,87 @@
     },
     "done": true
   },
-  "betterend:recipes/misc/terminite_bulb_lantern_light_blue": {
-    "criteria": {
-      "has_light_blue_dye": "2024-11-05 02:55:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lime_stained_glass": {
-    "criteria": {
-      "has_glass": "2024-11-05 03:10:04 +0000"
-    },
-    "done": true
-  },
-  "vanilla_refresh:biome/lush_caves": {
-    "criteria": {
-      "requirement": "2024-11-05 04:59:05 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/quartz_glass_pane_light_blue": {
-    "criteria": {
-      "has_light_blue_dye": "2024-11-05 02:55:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2024-11-05 03:13:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2024-11-05 03:13:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2024-11-05 03:13:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glass_pane": {
-    "criteria": {
-      "has_glass": "2024-11-05 03:10:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magenta_stained_glass": {
-    "criteria": {
-      "has_glass": "2024-11-05 03:10:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_stained_glass": {
-    "criteria": {
-      "has_glass": "2024-11-05 03:10:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_white_dye": "2024-11-05 02:55:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-11-05 02:55:38 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/iron_bulb_lantern_white": {
+    "criteria": {
+      "has_white_dye": "2024-11-05 02:55:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-11-05 02:55:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-11-05 02:55:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-11-05 02:55:38 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_framed_purple": {
+    "criteria": {
+      "has_purple_dye": "2024-11-05 02:55:42 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/iron_bulb_lantern_purple": {
+    "criteria": {
+      "has_purple_dye": "2024-11-05 02:55:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_purple_dye": "2024-11-05 02:55:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2024-11-05 02:55:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2024-11-05 02:55:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/quartz_glass_framed_pane_purple": {
+    "criteria": {
+      "has_purple_dye": "2024-11-05 02:55:42 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_bulb_lantern_purple": {
+    "criteria": {
+      "has_purple_dye": "2024-11-05 02:55:42 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_bulb_lantern_purple": {
+    "criteria": {
+      "has_purple_dye": "2024-11-05 02:55:42 +0000"
     },
     "done": true
   },
@@ -5778,63 +5556,9 @@
     },
     "done": true
   },
-  "betternether:recipes/decorations/quartz_glass_framed_pane_light_blue": {
-    "criteria": {
-      "has_light_blue_dye": "2024-11-05 02:55:44 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/tined_glass_from_smaragdant": {
-    "criteria": {
-      "has_glass": "2024-11-05 03:10:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_purple_wool": {
     "criteria": {
       "has_needed_dye": "2024-11-05 02:55:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
-    "criteria": {
-      "has_melon": "2024-11-05 02:54:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/glass_bottle": {
-    "criteria": {
-      "has_glass": "2024-11-05 03:10:04 +0000"
-    },
-    "done": true
-  },
-  "mcwholidays:recipes/spider_wall_deco_1": {
-    "criteria": {
-      "has_planks": "2024-11-05 03:15:45 +0000"
-    },
-    "done": true
-  },
-  "mcwholidays:recipes/spider_wall_deco_2": {
-    "criteria": {
-      "has_planks": "2024-11-05 03:15:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_light_blue_wool": {
-    "criteria": {
-      "has_needed_dye": "2024-11-05 02:55:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_white_carpet": {
-    "criteria": {
-      "has_needed_dye": "2024-11-05 02:55:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_light_blue_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-11-05 02:55:44 +0000"
     },
     "done": true
   },
@@ -5844,27 +5568,81 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+  "betternether:recipes/building_blocks/quartz_glass_purple": {
     "criteria": {
-      "has_glass_pane": "2024-11-05 03:13:40 +0000"
+      "has_purple_dye": "2024-11-05 02:55:42 +0000"
     },
     "done": true
   },
-  "mcwholidays:recipes/pumpkin_wall_deco_1": {
+  "betterend:recipes/misc/hydralux_petal_block_light_blue": {
     "criteria": {
-      "has_planks": "2024-11-05 03:15:45 +0000"
+      "has_light_blue_dye": "2024-11-05 02:55:44 +0000"
     },
     "done": true
   },
-  "mcwholidays:recipes/pumpkin_wall_deco_2": {
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
-      "has_planks": "2024-11-05 03:15:45 +0000"
+      "has_light_blue_dye": "2024-11-05 02:55:44 +0000"
     },
     "done": true
   },
-  "mcwwindows:recipes/mosaic_glass": {
+  "betterend:recipes/misc/iron_bulb_lantern_light_blue": {
     "criteria": {
-      "has_wood": "2024-11-05 03:10:04 +0000"
+      "has_light_blue_dye": "2024-11-05 02:55:44 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_light_blue": {
+    "criteria": {
+      "has_light_blue_dye": "2024-11-05 02:55:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_candle": {
+    "criteria": {
+      "has_light_blue_dye": "2024-11-05 02:55:44 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_bulb_lantern_light_blue": {
+    "criteria": {
+      "has_light_blue_dye": "2024-11-05 02:55:44 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_framed_light_blue": {
+    "criteria": {
+      "has_light_blue_dye": "2024-11-05 02:55:44 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_bulb_lantern_light_blue": {
+    "criteria": {
+      "has_light_blue_dye": "2024-11-05 02:55:44 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/quartz_glass_pane_light_blue": {
+    "criteria": {
+      "has_light_blue_dye": "2024-11-05 02:55:44 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/quartz_glass_framed_pane_light_blue": {
+    "criteria": {
+      "has_light_blue_dye": "2024-11-05 02:55:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-11-05 02:55:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-11-05 02:55:44 +0000"
     },
     "done": true
   },
@@ -5874,9 +5652,111 @@
     },
     "done": true
   },
-  "betterend:recipes/misc/iron_bulb_lantern_white": {
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
-      "has_white_dye": "2024-11-05 02:55:38 +0000"
+      "has_glass": "2024-11-05 03:10:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-05 03:10:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-05 03:10:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-05 03:10:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-05 03:10:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-05 03:10:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-05 03:10:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-05 03:10:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-05 03:10:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-05 03:10:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-05 03:10:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-05 03:10:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2024-11-05 03:10:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-05 03:10:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-05 03:10:04 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/tined_glass_from_smaragdant": {
+    "criteria": {
+      "has_glass": "2024-11-05 03:10:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2024-11-05 03:10:04 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/mosaic_glass": {
+    "criteria": {
+      "has_wood": "2024-11-05 03:10:04 +0000"
     },
     "done": true
   },
@@ -5886,39 +5766,69 @@
     },
     "done": true
   },
-  "mcwholidays:recipes/ghost_wall_deco_2": {
-    "criteria": {
-      "has_planks": "2024-11-05 03:15:45 +0000"
-    },
-    "done": true
-  },
-  "mcwholidays:recipes/ghost_wall_deco_1": {
-    "criteria": {
-      "has_planks": "2024-11-05 03:15:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_white_wool": {
-    "criteria": {
-      "has_needed_dye": "2024-11-05 02:55:38 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/quartz_glass_purple": {
-    "criteria": {
-      "has_purple_dye": "2024-11-05 02:55:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2024-11-05 03:10:04 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone": {
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
-      "has_sand": "2024-11-05 02:47:13 +0000"
+      "has_glass_pane": "2024-11-05 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-11-05 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-11-05 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-11-05 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-11-05 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-11-05 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-11-05 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-11-05 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-11-05 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-11-05 03:13:40 +0000"
     },
     "done": true
   },
@@ -5934,15 +5844,99 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
-    "criteria": {
-      "has_white_dye": "2024-11-05 02:55:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-11-05 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/cat_wall_deco_1": {
+    "criteria": {
+      "has_planks": "2024-11-05 03:15:45 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/return_scroll": {
+    "criteria": {
+      "has_paper": "2024-11-05 03:15:45 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/witch_hat_wall_deco_2": {
+    "criteria": {
+      "has_planks": "2024-11-05 03:15:45 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/witch_hat_wall_deco_1": {
+    "criteria": {
+      "has_planks": "2024-11-05 03:15:45 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/blank_scroll": {
+    "criteria": {
+      "has_paper": "2024-11-05 03:15:45 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/bat_wall_deco_3": {
+    "criteria": {
+      "has_planks": "2024-11-05 03:15:45 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/bat_wall_deco_2": {
+    "criteria": {
+      "has_planks": "2024-11-05 03:15:45 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/bat_wall_deco_1": {
+    "criteria": {
+      "has_planks": "2024-11-05 03:15:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-11-05 03:15:45 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/spider_wall_deco_1": {
+    "criteria": {
+      "has_planks": "2024-11-05 03:15:45 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/spider_wall_deco_2": {
+    "criteria": {
+      "has_planks": "2024-11-05 03:15:45 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/pumpkin_wall_deco_1": {
+    "criteria": {
+      "has_planks": "2024-11-05 03:15:45 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/pumpkin_wall_deco_2": {
+    "criteria": {
+      "has_planks": "2024-11-05 03:15:45 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/ghost_wall_deco_2": {
+    "criteria": {
+      "has_planks": "2024-11-05 03:15:45 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/ghost_wall_deco_1": {
+    "criteria": {
+      "has_planks": "2024-11-05 03:15:45 +0000"
     },
     "done": true
   },
@@ -5952,21 +5946,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
-      "has_white_dye": "2024-11-05 02:55:38 +0000"
+      "has_cornflower": "2024-11-05 03:17:40 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/wood_bowl": {
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
     "criteria": {
-      "has_wood_bowl": "2024-11-05 02:36:06 +0000"
+      "has_orange_tulip": "2024-11-05 03:20:16 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/wood_plate": {
+  "vanilla_refresh:player/hurt": {
     "criteria": {
-      "has_wood_plate": "2024-11-05 02:36:06 +0000"
+      "requirement": "2024-11-05 04:54:54 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/lush_caves": {
+    "criteria": {
+      "requirement": "2024-11-05 04:59:05 +0000"
+    },
+    "done": true
+  },
+  "sitanywherev50:dpsystem/icon": {
+    "criteria": {
+      "Install \"Sit Anywhere!\" datapack": "2024-11-05 15:16:39 +0000"
     },
     "done": true
   },
