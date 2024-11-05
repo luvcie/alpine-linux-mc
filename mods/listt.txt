@@ -1,4 +1,2 @@
-https://cdn.modrinth.com/data/5ZwdcRci/versions/1jIYgnG2/ImmediatelyFast-Fabric-1.3.1%2B1.21.1.jar
-https://cdn.modrinth.com/data/Ps1zyz6x/versions/Oh80nTJ5/ScalableLux-0.1.0%2Bfabric.26c6e72-all.jar
-https://cdn.modrinth.com/data/SvXrP8rT/versions/NdqCDuuA/AchievementOptimizer-fabric-1.21.1-1.2.0.jar
-https://cdn.modrinth.com/data/VSNURh3q/versions/4Dtxhzpd/c2me-fabric-mc1.21.1-0.3.0%2Balpha.0.295.jar
+https://cdn.modrinth.com/data/RPOSBQgq/versions/Ux9mBEPJ/itemswapper-fabric-0.7.2-mc1.21.jar
+https://cdn.modrinth.com/data/vLUPqRLH/versions/X9G5sRdi/villager-transportation-1.3.1.jar
