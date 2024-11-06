@@ -172,4 +172,8 @@ https://cdn.modrinth.com/data/VRLhWB91/versions/8FewGHHv/mcw-paths-1.0.5-1.21.1f
 https://cdn.modrinth.com/data/iP3wH1ha/versions/mPtTPM2b/mcw-stairs-1.0.0-1.21.1fabric.jar
 https://cdn.modrinth.com/data/9rlXSyLg/versions/FrhCIuEF/cratedelight-24.11.04-1.21-fabric.jar
 https://cdn.modrinth.com/data/PYjpoAys/versions/L0CZyrhq/ubesdelight-fabric-1.21-0.2.0.jar
+https://cdn.modrinth.com/data/BzOTnuqM/versions/MWJwdSOe/fish_of_thieves-mc1.21.1-v4.0.2-fabric.jar
+https://cdn.modrinth.com/data/nvQzSEkH/versions/NX5NMF25/Jade-1.21.1-Fabric-15.8.2.jar
+https://cdn.modrinth.com/data/MikpSrAF/versions/nPgi5zG2/polyfactory-0.4.2%2B1.21.1.jar
+https://cdn.modrinth.com/data/8nIicBYu/versions/S4kyCNlA/jrftl-1.21-fabric-1.8.0.jar
 ```

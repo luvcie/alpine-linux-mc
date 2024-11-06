@@ -5976,5 +5976,11 @@
     },
     "done": true
   },
+  "jrftl:unlock_prepared_flesh": {
+    "criteria": {
+      "have_rotten_flesh": "2024-11-06 01:05:09 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
