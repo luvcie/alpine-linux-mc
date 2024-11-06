@@ -177,4 +177,8 @@ https://cdn.modrinth.com/data/nvQzSEkH/versions/NX5NMF25/Jade-1.21.1-Fabric-15.8
 https://cdn.modrinth.com/data/MikpSrAF/versions/nPgi5zG2/polyfactory-0.4.2%2B1.21.1.jar
 https://cdn.modrinth.com/data/8nIicBYu/versions/S4kyCNlA/jrftl-1.21-fabric-1.8.0.jar
 https://cdn.modrinth.com/data/IKpsG0nF/versions/gbfAM10e/paradise-lost-2.2.7-beta%2B1.21.0.jar
+https://cdn.modrinth.com/data/NNAgCjsB/versions/hD1f5amG/entityculling-fabric-1.7.1-mc1.21.jar
+https://cdn.modrinth.com/data/Cnejf5xM/versions/vlxZ7HrX/rightclickharvest-fabric-4.4.3%2B1.21.1.jar
+https://cdn.modrinth.com/data/IYY9Siz8/versions/96OAwMPD/jamlib-fabric-1.2.2%2B1.21.1.jar
+https://cdn.modrinth.com/data/3HcfBzqs/versions/vBBMuuCb/tetrismc-1.0.8%2Bmc1.21.jar
 ```
