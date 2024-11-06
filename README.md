@@ -146,7 +146,6 @@ https://cdn.modrinth.com/data/mb68eIfx/versions/5Ldpp3lm/SkyVillages-1.0.6-1.21.
 https://cdn.modrinth.com/data/uiADepy3/versions/R4lKotJA/AureljPaintings-1.0.4-1.21.x-fabric.jar
 https://cdn.modrinth.com/data/yn9u3ypm/versions/Fg64B87Y/graves-3.4.4%2B1.21.jar
 https://cdn.modrinth.com/data/FbHSPTyF/versions/M6GLQXYq/KeepInventorySortedSimple-0.3.1.jar
-https://cdn.modrinth.com/data/gWO6Zqey/versions/TvzkWk5w/vanilla-refresh-1.4.25_1.21.jar
 https://cdn.modrinth.com/data/Vr3O6THr/versions/NdFZCyPb/Wabi-Sabi%20Structures%203.0.1-1.21.jar
 https://cdn.modrinth.com/data/2k6aLirX/versions/t0LeTXl2/portfolio-1.21.1-1.4.1-fabric.jar
 https://cdn.modrinth.com/data/Cw8IlnGM/versions/Yy52wehM/serversleep-datapack2.jar
