@@ -8,10 +8,17 @@ fabric 0.16.7 - 1.21.1
 2. Open terminal in the instance's mods folder (right click instance => edit => mods => view folder) 
 3. Create a file named `list.txt`
 4. Paste the list of links from below inside the `list.txt` file
-5. From the terminal in the mods folder, run:
+5. From the terminal in the mods folder, run one of the following commands depending on your operative system:
+
+BSD/Linux/Mac
 ```sh
 wget -i list.txt
 ```
+Windows (Use powershell instead of normal terminal)
+```
+Get-Content -Path list.txt | ForEach-Object { Invoke-WebRequest -Uri $_ -OutFile ([System.IO.Path]::GetFileName($_)) }
+```
+
 ## list.txt
 ```sh
 https://cdn.modrinth.com/data/NcUtCpym/versions/373K4YJh/XaerosWorldMap_1.39.0_Fabric_1.21.jar
