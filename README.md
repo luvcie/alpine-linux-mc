@@ -181,4 +181,6 @@ https://cdn.modrinth.com/data/NNAgCjsB/versions/hD1f5amG/entityculling-fabric-1.
 https://cdn.modrinth.com/data/Cnejf5xM/versions/vlxZ7HrX/rightclickharvest-fabric-4.4.3%2B1.21.1.jar
 https://cdn.modrinth.com/data/IYY9Siz8/versions/96OAwMPD/jamlib-fabric-1.2.2%2B1.21.1.jar
 https://cdn.modrinth.com/data/3HcfBzqs/versions/vBBMuuCb/tetrismc-1.0.8%2Bmc1.21.jar
+https://cdn.modrinth.com/data/jtmvUHXj/versions/j6K4uRb7/accessories-fabric-1.1.0-beta.16%2B1.21.1.jar
+https://cdn.modrinth.com/data/TkWgV1AW/versions/cDrOq5N0/accessories_tclayer-3.10.0-beta.18%2B1.21.1.jar
 ```
