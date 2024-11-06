@@ -176,4 +176,5 @@ https://cdn.modrinth.com/data/BzOTnuqM/versions/MWJwdSOe/fish_of_thieves-mc1.21.
 https://cdn.modrinth.com/data/nvQzSEkH/versions/NX5NMF25/Jade-1.21.1-Fabric-15.8.2.jar
 https://cdn.modrinth.com/data/MikpSrAF/versions/nPgi5zG2/polyfactory-0.4.2%2B1.21.1.jar
 https://cdn.modrinth.com/data/8nIicBYu/versions/S4kyCNlA/jrftl-1.21-fabric-1.8.0.jar
+https://cdn.modrinth.com/data/IKpsG0nF/versions/gbfAM10e/paradise-lost-2.2.7-beta%2B1.21.0.jar
 ```
