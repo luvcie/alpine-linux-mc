@@ -188,4 +188,7 @@ https://cdn.modrinth.com/data/Cnejf5xM/versions/vlxZ7HrX/rightclickharvest-fabri
 https://cdn.modrinth.com/data/IYY9Siz8/versions/96OAwMPD/jamlib-fabric-1.2.2%2B1.21.1.jar
 https://cdn.modrinth.com/data/3HcfBzqs/versions/vBBMuuCb/tetrismc-1.0.8%2Bmc1.21.jar
 https://cdn.modrinth.com/data/xGdtZczs/versions/t55Wk2zK/polymer-bundled-0.9.18%2B1.21.1.jar
+https://cdn.modrinth.com/data/vE2FN5qn/versions/e0AXgTFp/letmedespawn-1.21.x-fabric-1.4.4.jar
+https://cdn.modrinth.com/data/Gi02250Z/versions/jmiXAuhO/almanac-1.21.x-fabric-1.0.2.jar
+https://cdn.modrinth.com/data/1ki33vOm/versions/ZXBNTxPW/flashcards-1.3.0.jar
 ```
