@@ -191,4 +191,5 @@ https://cdn.modrinth.com/data/xGdtZczs/versions/t55Wk2zK/polymer-bundled-0.9.18%
 https://cdn.modrinth.com/data/vE2FN5qn/versions/e0AXgTFp/letmedespawn-1.21.x-fabric-1.4.4.jar
 https://cdn.modrinth.com/data/Gi02250Z/versions/jmiXAuhO/almanac-1.21.x-fabric-1.0.2.jar
 https://cdn.modrinth.com/data/1ki33vOm/versions/ZXBNTxPW/flashcards-1.3.0.jar
+https://cdn.modrinth.com/data/Th33t82F/versions/Hm1VJ8TD/transmog-fabric-1.5.0%2B1.21.jar
 ```
